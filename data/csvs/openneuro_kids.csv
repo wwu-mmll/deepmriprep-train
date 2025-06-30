@@ -1,0 +1,868 @@
+filename,t1,ds,age,sex,volume,field,vendor,scanner,Resolution,Noise,Bias
+0119_sub-03_T1w,ds000119/sub-03/anat/sub-03_T1w.nii.gz,ds000119,8.4517,f,0.610355316901325,3.0,siemens,allegra,87.79,75.32,91.79
+0119_sub-04_T1w,ds000119/sub-04/anat/sub-04_T1w.nii.gz,ds000119,11.3895,m,0.610351655632261,3.0,siemens,allegra,87.79,72.5,91.43
+0119_sub-08_T1w,ds000119/sub-08/anat/sub-08_T1w.nii.gz,ds000119,11.9425,m,0.6103515625,3.0,siemens,allegra,87.79,74.44,92.15
+0119_sub-10_T1w,ds000119/sub-10/anat/sub-10_T1w.nii.gz,ds000119,11.0637,m,0.6103515625,3.0,siemens,allegra,87.79,69.2,91.44
+0119_sub-13_T1w,ds000119/sub-13/anat/sub-13_T1w.nii.gz,ds000119,10.6995,m,0.610351432987963,3.0,siemens,allegra,87.79,72.3,91.64
+0119_sub-16_T1w,ds000119/sub-16/anat/sub-16_T1w.nii.gz,ds000119,10.9405,f,0.610351655632261,3.0,siemens,allegra,87.79,74.61,91.76
+0119_sub-26_T1w,ds000119/sub-26/anat/sub-26_T1w.nii.gz,ds000119,11.6359,f,0.47607423766749,3.0,siemens,allegra,89.38,69.66,91.99
+0119_sub-38_T1w,ds000119/sub-38/anat/sub-38_T1w.nii.gz,ds000119,8.9938,f,0.476074128644546,3.0,siemens,allegra,89.38,68.11,92.38
+0119_sub-45_T1w,ds000119/sub-45/anat/sub-45_T1w.nii.gz,ds000119,9.4565,m,0.476074128644546,3.0,siemens,allegra,89.38,70.9,91.58
+0119_sub-48_T1w,ds000119/sub-48/anat/sub-48_T1w.nii.gz,ds000119,11.0637,f,0.476074165024328,3.0,siemens,allegra,89.38,68.78,92.56
+0119_sub-61_T1w,ds000119/sub-61/anat/sub-61_T1w.nii.gz,ds000119,10.0178,f,0.476074128644546,3.0,siemens,allegra,89.38,59.55,92.34
+0119_sub-65_T1w,ds000119/sub-65/anat/sub-65_T1w.nii.gz,ds000119,10.0452,f,0.476074201287702,3.0,siemens,allegra,89.38,68.72,91.77
+0119_sub-66_T1w,ds000119/sub-66/anat/sub-66_T1w.nii.gz,ds000119,11.655,f,0.476074201287702,3.0,siemens,allegra,89.38,66.65,92.47
+0119_sub-70_T1w,ds000119/sub-70/anat/sub-70_T1w.nii.gz,ds000119,9.5496,f,0.47607423766749,3.0,siemens,allegra,89.38,70.26,93.13
+0119_sub-71_T1w,ds000119/sub-71/anat/sub-71_T1w.nii.gz,ds000119,10.2505,f,0.47607423766749,3.0,siemens,allegra,89.38,66.39,92.62
+0119_sub-73_T1w,ds000119/sub-73/anat/sub-73_T1w.nii.gz,ds000119,8.1396,f,0.47607423766749,3.0,siemens,allegra,89.38,68.26,91.68
+0119_sub-74_T1w,ds000119/sub-74/anat/sub-74_T1w.nii.gz,ds000119,11.2279,m,0.476074201287702,3.0,siemens,allegra,89.38,64.64,90.41
+0120_sub-01_T1w,ds000120/sub-01/anat/sub-01_T1w.nii.gz,ds000120,8.8,f,0.476074209263036,3.0,siemens,allegra,89.38,65.64,92.66
+0120_sub-02_T1w,ds000120/sub-02/anat/sub-02_T1w.nii.gz,ds000120,10.5,f,0.47607423034781,3.0,siemens,allegra,89.38,63.63,92.38
+0120_sub-03_T1w,ds000120/sub-03/anat/sub-03_T1w.nii.gz,ds000120,11.2,f,0.476074209263036,3.0,siemens,allegra,89.38,59.51,92.56
+0120_sub-04_T1w,ds000120/sub-04/anat/sub-04_T1w.nii.gz,ds000120,11.7,m,0.476074190999016,3.0,siemens,allegra,89.38,66.89,92.07
+0120_sub-05_T1w,ds000120/sub-05/anat/sub-05_T1w.nii.gz,ds000120,11.8,m,0.476074273166036,3.0,siemens,allegra,89.38,67.25,91.98
+0144_sub-01_T1w,ds000144/sub-01/anat/sub-01_T1w.nii.gz,ds000144,7.5,f,1.0,3.0,general electric,discovery,85.0,68.37,94.13
+0144_sub-02_T1w,ds000144/sub-02/anat/sub-02_T1w.nii.gz,ds000144,7.5,f,1.0,3.0,general electric,discovery,85.0,70.49,93.62
+0144_sub-03_T1w,ds000144/sub-03/anat/sub-03_T1w.nii.gz,ds000144,6.5,f,1.0,3.0,general electric,discovery,85.0,69.53,95.15
+0144_sub-04_T1w,ds000144/sub-04/anat/sub-04_T1w.nii.gz,ds000144,6.5,f,1.0,3.0,general electric,discovery,85.0,63.51,92.84
+0144_sub-05_T1w,ds000144/sub-05/anat/sub-05_T1w.nii.gz,ds000144,7.5,f,1.0,3.0,general electric,discovery,85.0,77.05,94.83
+0144_sub-06_T1w,ds000144/sub-06/anat/sub-06_T1w.nii.gz,ds000144,6.5,m,1.0,3.0,general electric,discovery,85.0,71.72,95.15
+0144_sub-07_T1w,ds000144/sub-07/anat/sub-07_T1w.nii.gz,ds000144,7.5,f,1.0,3.0,general electric,discovery,85.0,61.53,94.63
+0144_sub-08_T1w,ds000144/sub-08/anat/sub-08_T1w.nii.gz,ds000144,8.5,f,1.0,3.0,general electric,discovery,85.0,69.22,95.6
+0144_sub-09_T1w,ds000144/sub-09/anat/sub-09_T1w.nii.gz,ds000144,7.5,f,1.00000178813934,3.0,general electric,discovery,85.0,68.84,95.13
+0144_sub-10_T1w,ds000144/sub-10/anat/sub-10_T1w.nii.gz,ds000144,8.5,f,1.0,3.0,general electric,discovery,85.0,72.93,96.25
+0144_sub-11_T1w,ds000144/sub-11/anat/sub-11_T1w.nii.gz,ds000144,7.5,f,1.0,3.0,general electric,discovery,85.0,71.02,96.4
+0144_sub-12_T1w,ds000144/sub-12/anat/sub-12_T1w.nii.gz,ds000144,8.5,m,0.999999403953552,3.0,general electric,discovery,85.0,71.43,95.18
+0144_sub-13_T1w,ds000144/sub-13/anat/sub-13_T1w.nii.gz,ds000144,6.5,f,1.0,3.0,general electric,discovery,85.0,73.15,95.43
+0144_sub-14_T1w,ds000144/sub-14/anat/sub-14_T1w.nii.gz,ds000144,8.5,m,1.0,3.0,general electric,discovery,85.0,73.85,94.51
+0144_sub-15_T1w,ds000144/sub-15/anat/sub-15_T1w.nii.gz,ds000144,6.5,f,1.0,3.0,general electric,discovery,85.0,82.78,94.18
+0144_sub-16_T1w,ds000144/sub-16/anat/sub-16_T1w.nii.gz,ds000144,6.5,m,0.5,3.0,general electric,discovery,87.68,73.4,93.37
+0144_sub-17_T1w,ds000144/sub-17/anat/sub-17_T1w.nii.gz,ds000144,7.5,f,0.5,3.0,general electric,discovery,87.68,76.02,92.75
+0144_sub-18_T1w,ds000144/sub-18/anat/sub-18_T1w.nii.gz,ds000144,6.5,f,0.5,3.0,general electric,discovery,87.68,75.49,95.27
+0144_sub-19_T1w,ds000144/sub-19/anat/sub-19_T1w.nii.gz,ds000144,8.5,m,1.0,3.0,general electric,discovery,85.0,76.48,93.75
+0144_sub-20_T1w,ds000144/sub-20/anat/sub-20_T1w.nii.gz,ds000144,6.5,m,0.999996960163116,3.0,general electric,discovery,85.0,79.78,91.4
+0144_sub-21_T1w,ds000144/sub-21/anat/sub-21_T1w.nii.gz,ds000144,7.5,f,1.0,3.0,general electric,discovery,85.0,74.36,92.66
+0144_sub-22_T1w,ds000144/sub-22/anat/sub-22_T1w.nii.gz,ds000144,7.5,m,1.0,3.0,general electric,discovery,85.0,68.51,92.98
+0144_sub-23_T1w,ds000144/sub-23/anat/sub-23_T1w.nii.gz,ds000144,7.5,m,1.0,3.0,general electric,discovery,85.0,74.76,94.35
+0144_sub-24_T1w,ds000144/sub-24/anat/sub-24_T1w.nii.gz,ds000144,6.5,m,1.0,3.0,general electric,discovery,85.0,75.16,94.02
+0144_sub-25_T1w,ds000144/sub-25/anat/sub-25_T1w.nii.gz,ds000144,7.5,f,0.999996960163116,3.0,general electric,discovery,85.0,77.52,94.93
+0144_sub-26_T1w,ds000144/sub-26/anat/sub-26_T1w.nii.gz,ds000144,7.5,f,1.00000298023224,3.0,general electric,discovery,85.0,73.2,93.99
+0144_sub-27_T1w,ds000144/sub-27/anat/sub-27_T1w.nii.gz,ds000144,6.5,f,1.0,3.0,general electric,discovery,85.0,68.8,92.12
+0144_sub-28_T1w,ds000144/sub-28/anat/sub-28_T1w.nii.gz,ds000144,6.5,m,1.0,3.0,general electric,discovery,85.0,76.98,93.81
+0144_sub-29_T1w,ds000144/sub-29/anat/sub-29_T1w.nii.gz,ds000144,7.5,m,1.0,3.0,general electric,discovery,85.0,77.97,94.28
+0144_sub-30_T1w,ds000144/sub-30/anat/sub-30_T1w.nii.gz,ds000144,10.5,f,1.0,3.0,general electric,discovery,85.0,77.25,93.65
+0144_sub-31_T1w,ds000144/sub-31/anat/sub-31_T1w.nii.gz,ds000144,8.5,m,1.0,3.0,general electric,discovery,85.0,79.0,93.08
+0144_sub-32_T1w,ds000144/sub-32/anat/sub-32_T1w.nii.gz,ds000144,7.5,f,1.00000178813934,3.0,general electric,discovery,85.0,71.12,93.69
+0144_sub-33_T1w,ds000144/sub-33/anat/sub-33_T1w.nii.gz,ds000144,6.5,f,1.0,3.0,general electric,discovery,85.0,72.31,94.14
+0144_sub-34_T1w,ds000144/sub-34/anat/sub-34_T1w.nii.gz,ds000144,6.5,m,1.0,3.0,general electric,discovery,85.0,73.54,94.54
+0144_sub-35_T1w,ds000144/sub-35/anat/sub-35_T1w.nii.gz,ds000144,8.5,f,1.00000178813934,3.0,general electric,discovery,85.0,74.95,93.64
+0144_sub-36_T1w,ds000144/sub-36/anat/sub-36_T1w.nii.gz,ds000144,7.5,m,1.0,3.0,general electric,discovery,85.0,67.48,93.05
+0144_sub-37_T1w,ds000144/sub-37/anat/sub-37_T1w.nii.gz,ds000144,9.5,f,1.0,3.0,general electric,discovery,85.0,70.61,93.85
+0144_sub-38_T1w,ds000144/sub-38/anat/sub-38_T1w.nii.gz,ds000144,7.5,f,1.0,3.0,general electric,discovery,85.0,74.76,94.94
+0144_sub-39_T1w,ds000144/sub-39/anat/sub-39_T1w.nii.gz,ds000144,8.5,f,1.0,3.0,general electric,discovery,85.0,72.7,93.7
+0144_sub-40_T1w,ds000144/sub-40/anat/sub-40_T1w.nii.gz,ds000144,8.5,f,1.00000178813934,3.0,general electric,discovery,85.0,75.21,92.43
+0144_sub-41_T1w,ds000144/sub-41/anat/sub-41_T1w.nii.gz,ds000144,9.5,f,1.0,3.0,general electric,discovery,85.0,81.1,93.74
+0144_sub-42_T1w,ds000144/sub-42/anat/sub-42_T1w.nii.gz,ds000144,8.5,f,1.0,3.0,general electric,discovery,85.0,72.05,94.04
+0144_sub-43_T1w,ds000144/sub-43/anat/sub-43_T1w.nii.gz,ds000144,10.5,f,1.0,3.0,general electric,discovery,85.0,75.5,93.3
+0144_sub-44_T1w,ds000144/sub-44/anat/sub-44_T1w.nii.gz,ds000144,7.5,m,1.0,3.0,general electric,discovery,85.0,71.58,94.14
+0144_sub-45_T1w,ds000144/sub-45/anat/sub-45_T1w.nii.gz,ds000144,8.5,m,1.00000178813934,3.0,general electric,discovery,85.0,68.84,94.26
+0228_sub-pixar002_T1w,ds000228/sub-pixar002/anat/sub-pixar002_T1w.nii.gz,ds000228,4.856947296,f,1.00000183446028,3.0,siemens,trio,85.0,80.58,86.99
+0228_sub-pixar003_T1w,ds000228/sub-pixar003/anat/sub-pixar003_T1w.nii.gz,ds000228,4.153319644,f,0.999995064792801,3.0,siemens,trio,85.0,77.63,90.34
+0228_sub-pixar004_T1w,ds000228/sub-pixar004/anat/sub-pixar004_T1w.nii.gz,ds000228,4.473648186,f,0.999994970221984,3.0,siemens,trio,85.0,76.21,92.8
+0228_sub-pixar005_T1w,ds000228/sub-pixar005/anat/sub-pixar005_T1w.nii.gz,ds000228,4.837782341,f,1.00000051631053,3.0,siemens,trio,85.0,80.11,90.02
+0228_sub-pixar006_T1w,ds000228/sub-pixar006/anat/sub-pixar006_T1w.nii.gz,ds000228,3.605749487,f,1.00000609108949,3.0,siemens,trio,85.0,78.48,88.95
+0228_sub-pixar007_T1w,ds000228/sub-pixar007/anat/sub-pixar007_T1w.nii.gz,ds000228,4.249144422,m,0.999999958050186,3.0,siemens,trio,85.0,78.62,90.66
+0228_sub-pixar008_T1w,ds000228/sub-pixar008/anat/sub-pixar008_T1w.nii.gz,ds000228,3.529089665,f,0.999999822964396,3.0,siemens,trio,85.0,81.91,90.55
+0228_sub-pixar010_T1w,ds000228/sub-pixar010/anat/sub-pixar010_T1w.nii.gz,ds000228,4.358658453,m,1.00000290508068,3.0,siemens,trio,85.0,81.33,91.5
+0228_sub-pixar011_T1w,ds000228/sub-pixar011/anat/sub-pixar011_T1w.nii.gz,ds000228,3.983572895,f,0.999994716124168,3.0,siemens,trio,85.0,80.65,88.98
+0228_sub-pixar012_T1w,ds000228/sub-pixar012/anat/sub-pixar012_T1w.nii.gz,ds000228,3.786447639,f,1.00000431949603,3.0,siemens,trio,85.0,75.48,92.43
+0228_sub-pixar013_T1w,ds000228/sub-pixar013/anat/sub-pixar013_T1w.nii.gz,ds000228,3.849418207,m,0.999999438733741,3.0,siemens,trio,85.0,79.53,91.43
+0228_sub-pixar015_T1w,ds000228/sub-pixar015/anat/sub-pixar015_T1w.nii.gz,ds000228,4.76659822,f,0.999998205913834,3.0,siemens,trio,85.0,77.13,91.23
+0228_sub-pixar016_T1w,ds000228/sub-pixar016/anat/sub-pixar016_T1w.nii.gz,ds000228,3.622176591,m,1.00000379302619,3.0,siemens,trio,85.0,74.13,90.72
+0228_sub-pixar017_T1w,ds000228/sub-pixar017/anat/sub-pixar017_T1w.nii.gz,ds000228,3.613963039,f,0.999998254636055,3.0,siemens,trio,85.0,78.27,92.35
+0228_sub-pixar018_T1w,ds000228/sub-pixar018/anat/sub-pixar018_T1w.nii.gz,ds000228,4.577686516,m,1.00000461222259,3.0,siemens,trio,85.0,76.07,90.0
+0228_sub-pixar019_T1w,ds000228/sub-pixar019/anat/sub-pixar019_T1w.nii.gz,ds000228,3.969883641,m,0.999997681944365,3.0,siemens,trio,85.0,82.59,91.4
+0228_sub-pixar020_T1w,ds000228/sub-pixar020/anat/sub-pixar020_T1w.nii.gz,ds000228,3.594798084,m,1.00000313179588,3.0,siemens,trio,85.0,75.05,88.81
+0228_sub-pixar021_T1w,ds000228/sub-pixar021/anat/sub-pixar021_T1w.nii.gz,ds000228,4.364134155,f,1.00000440844644,3.0,siemens,trio,85.0,69.17,89.88
+0228_sub-pixar022_T1w,ds000228/sub-pixar022/anat/sub-pixar022_T1w.nii.gz,ds000228,3.822039699,f,1.00000035528216,3.0,siemens,trio,85.0,80.51,93.44
+0228_sub-pixar023_T1w,ds000228/sub-pixar023/anat/sub-pixar023_T1w.nii.gz,ds000228,3.865845311,f,1.00000328361477,3.0,siemens,trio,85.0,79.6,90.82
+0228_sub-pixar024_T1w,ds000228/sub-pixar024/anat/sub-pixar024_T1w.nii.gz,ds000228,4.057494867,m,0.999995993083356,3.0,siemens,trio,85.0,81.63,91.47
+0228_sub-pixar025_T1w,ds000228/sub-pixar025/anat/sub-pixar025_T1w.nii.gz,ds000228,3.93155373,f,1.00000097692365,3.0,siemens,trio,85.0,78.4,91.03
+0228_sub-pixar026_T1w,ds000228/sub-pixar026/anat/sub-pixar026_T1w.nii.gz,ds000228,3.93155373,f,1.00000726998753,3.0,siemens,trio,85.0,80.73,91.65
+0228_sub-pixar027_T1w,ds000228/sub-pixar027/anat/sub-pixar027_T1w.nii.gz,ds000228,3.989048597,f,1.00000552682625,3.0,siemens,trio,85.0,73.22,90.55
+0228_sub-pixar028_T1w,ds000228/sub-pixar028/anat/sub-pixar028_T1w.nii.gz,ds000228,3.534565366,m,1.00000078075855,3.0,siemens,trio,85.0,71.19,90.06
+0228_sub-pixar029_T1w,ds000228/sub-pixar029/anat/sub-pixar029_T1w.nii.gz,ds000228,4.309377139,m,0.999998531229355,3.0,siemens,trio,85.0,77.26,90.35
+0228_sub-pixar030_T1w,ds000228/sub-pixar030/anat/sub-pixar030_T1w.nii.gz,ds000228,4.156057495,f,0.999997183261346,3.0,siemens,trio,85.0,78.26,91.18
+0228_sub-pixar031_T1w,ds000228/sub-pixar031/anat/sub-pixar031_T1w.nii.gz,ds000228,4.084873374,f,1.00000075610568,3.0,siemens,trio,85.0,79.57,91.12
+0228_sub-pixar032_T1w,ds000228/sub-pixar032/anat/sub-pixar032_T1w.nii.gz,ds000228,5.43,f,0.999996308089805,3.0,siemens,trio,85.0,80.48,93.13
+0228_sub-pixar033_T1w,ds000228/sub-pixar033/anat/sub-pixar033_T1w.nii.gz,ds000228,5.81,m,1.00000022510756,3.0,siemens,trio,85.0,84.13,93.73
+0228_sub-pixar034_T1w,ds000228/sub-pixar034/anat/sub-pixar034_T1w.nii.gz,ds000228,5.99,m,1.00000480449389,3.0,siemens,trio,85.0,79.3,92.34
+0228_sub-pixar035_T1w,ds000228/sub-pixar035/anat/sub-pixar035_T1w.nii.gz,ds000228,5.99,m,1.00000212667718,3.0,siemens,trio,85.0,81.53,93.57
+0228_sub-pixar036_T1w,ds000228/sub-pixar036/anat/sub-pixar036_T1w.nii.gz,ds000228,5.39,f,1.00000523429499,3.0,siemens,trio,85.0,80.87,92.62
+0228_sub-pixar037_T1w,ds000228/sub-pixar037/anat/sub-pixar037_T1w.nii.gz,ds000228,5.52,m,0.999999377620875,3.0,siemens,trio,85.0,80.19,92.55
+0228_sub-pixar038_T1w,ds000228/sub-pixar038/anat/sub-pixar038_T1w.nii.gz,ds000228,5.55,f,1.00000537353213,3.0,siemens,trio,85.0,82.34,92.96
+0228_sub-pixar039_T1w,ds000228/sub-pixar039/anat/sub-pixar039_T1w.nii.gz,ds000228,5.54,m,1.00000496932394,3.0,siemens,trio,85.0,82.1,93.23
+0228_sub-pixar040_T1w,ds000228/sub-pixar040/anat/sub-pixar040_T1w.nii.gz,ds000228,5.29,m,1.00000632180866,3.0,siemens,trio,85.0,81.69,93.58
+0228_sub-pixar041_T1w,ds000228/sub-pixar041/anat/sub-pixar041_T1w.nii.gz,ds000228,5.49,m,1.00000085119252,3.0,siemens,trio,85.0,78.72,92.68
+0228_sub-pixar042_T1w,ds000228/sub-pixar042/anat/sub-pixar042_T1w.nii.gz,ds000228,5.01,f,0.999994985154546,3.0,siemens,trio,85.0,77.19,92.92
+0228_sub-pixar043_T1w,ds000228/sub-pixar043/anat/sub-pixar043_T1w.nii.gz,ds000228,5.79,m,1.00000482036594,3.0,siemens,trio,85.0,85.8,92.97
+0228_sub-pixar044_T1w,ds000228/sub-pixar044/anat/sub-pixar044_T1w.nii.gz,ds000228,5.76,m,1.00000007583745,3.0,siemens,trio,85.0,81.18,93.18
+0228_sub-pixar045_T1w,ds000228/sub-pixar045/anat/sub-pixar045_T1w.nii.gz,ds000228,5.18,m,1.00000224736808,3.0,siemens,trio,85.0,79.89,91.33
+0228_sub-pixar046_T1w,ds000228/sub-pixar046/anat/sub-pixar046_T1w.nii.gz,ds000228,5.97,f,1.00000243398348,3.0,siemens,trio,85.0,76.42,93.85
+0228_sub-pixar047_T1w,ds000228/sub-pixar047/anat/sub-pixar047_T1w.nii.gz,ds000228,5.47,f,0.999996913231409,3.0,siemens,trio,85.0,86.04,92.44
+0228_sub-pixar048_T1w,ds000228/sub-pixar048/anat/sub-pixar048_T1w.nii.gz,ds000228,5.99,m,0.99999526568655,3.0,siemens,trio,85.0,79.83,93.34
+0228_sub-pixar049_T1w,ds000228/sub-pixar049/anat/sub-pixar049_T1w.nii.gz,ds000228,5.23,m,1.00000059342611,3.0,siemens,trio,85.0,84.23,93.52
+0228_sub-pixar050_T1w,ds000228/sub-pixar050/anat/sub-pixar050_T1w.nii.gz,ds000228,5.31,f,1.00000307847641,3.0,siemens,trio,85.0,82.01,94.42
+0228_sub-pixar051_T1w,ds000228/sub-pixar051/anat/sub-pixar051_T1w.nii.gz,ds000228,5.38,m,1.00000404662126,3.0,siemens,trio,85.0,81.99,93.53
+0228_sub-pixar052_T1w,ds000228/sub-pixar052/anat/sub-pixar052_T1w.nii.gz,ds000228,5.46,f,1.00000057843259,3.0,siemens,trio,85.0,81.23,93.22
+0228_sub-pixar053_T1w,ds000228/sub-pixar053/anat/sub-pixar053_T1w.nii.gz,ds000228,5.46,m,1.00000080175062,3.0,siemens,trio,85.0,80.63,93.43
+0228_sub-pixar054_T1w,ds000228/sub-pixar054/anat/sub-pixar054_T1w.nii.gz,ds000228,5.99,m,1.00000206423285,3.0,siemens,trio,85.0,81.66,93.3
+0228_sub-pixar055_T1w,ds000228/sub-pixar055/anat/sub-pixar055_T1w.nii.gz,ds000228,5.82,m,0.999998794901272,3.0,siemens,trio,85.0,83.17,92.49
+0228_sub-pixar056_T1w,ds000228/sub-pixar056/anat/sub-pixar056_T1w.nii.gz,ds000228,5.26,f,0.999997715970693,3.0,siemens,trio,85.0,81.24,93.06
+0228_sub-pixar057_T1w,ds000228/sub-pixar057/anat/sub-pixar057_T1w.nii.gz,ds000228,5.66,f,0.999997776907133,3.0,siemens,trio,85.0,85.87,93.6
+0228_sub-pixar058_T1w,ds000228/sub-pixar058/anat/sub-pixar058_T1w.nii.gz,ds000228,5.13,f,1.00000204772123,3.0,siemens,trio,85.0,80.57,91.91
+0228_sub-pixar059_T1w,ds000228/sub-pixar059/anat/sub-pixar059_T1w.nii.gz,ds000228,5.51,f,1.00000345093112,3.0,siemens,trio,85.0,83.07,92.77
+0228_sub-pixar060_T1w,ds000228/sub-pixar060/anat/sub-pixar060_T1w.nii.gz,ds000228,5.12,f,0.999997057518642,3.0,siemens,trio,85.0,81.38,93.57
+0228_sub-pixar061_T1w,ds000228/sub-pixar061/anat/sub-pixar061_T1w.nii.gz,ds000228,5.56,f,0.999998763679024,3.0,siemens,trio,85.0,82.77,93.51
+0228_sub-pixar062_T1w,ds000228/sub-pixar062/anat/sub-pixar062_T1w.nii.gz,ds000228,5.46,f,1.00000285136219,3.0,siemens,trio,85.0,75.95,93.49
+0228_sub-pixar063_T1w,ds000228/sub-pixar063/anat/sub-pixar063_T1w.nii.gz,ds000228,5.33,m,1.00000031883972,3.0,siemens,trio,85.0,84.2,93.31
+0228_sub-pixar064_T1w,ds000228/sub-pixar064/anat/sub-pixar064_T1w.nii.gz,ds000228,5.44,m,0.999995663028541,3.0,siemens,trio,85.0,73.8,91.31
+0228_sub-pixar065_T1w,ds000228/sub-pixar065/anat/sub-pixar065_T1w.nii.gz,ds000228,5.02,f,0.999996418216942,3.0,siemens,trio,85.0,85.68,93.71
+0228_sub-pixar066_T1w,ds000228/sub-pixar066/anat/sub-pixar066_T1w.nii.gz,ds000228,7.0,f,1.0000042634994,3.0,siemens,trio,85.0,84.94,93.2
+0228_sub-pixar067_T1w,ds000228/sub-pixar067/anat/sub-pixar067_T1w.nii.gz,ds000228,7.92,f,0.999996565363532,3.0,siemens,trio,85.0,84.52,93.24
+0228_sub-pixar068_T1w,ds000228/sub-pixar068/anat/sub-pixar068_T1w.nii.gz,ds000228,7.92,f,1.00000049022416,3.0,siemens,trio,85.0,82.88,93.71
+0228_sub-pixar069_T1w,ds000228/sub-pixar069/anat/sub-pixar069_T1w.nii.gz,ds000228,7.96,m,1.00000460674917,3.0,siemens,trio,85.0,77.11,93.99
+0228_sub-pixar070_T1w,ds000228/sub-pixar070/anat/sub-pixar070_T1w.nii.gz,ds000228,7.15,f,0.999998129130361,3.0,siemens,trio,85.0,83.54,93.25
+0228_sub-pixar071_T1w,ds000228/sub-pixar071/anat/sub-pixar071_T1w.nii.gz,ds000228,7.13,m,0.999997586937593,3.0,siemens,trio,85.0,82.92,92.55
+0228_sub-pixar072_T1w,ds000228/sub-pixar072/anat/sub-pixar072_T1w.nii.gz,ds000228,7.91,f,1.00000181618803,3.0,siemens,trio,85.0,82.03,92.06
+0228_sub-pixar073_T1w,ds000228/sub-pixar073/anat/sub-pixar073_T1w.nii.gz,ds000228,7.95,f,0.99999671406915,3.0,siemens,trio,85.0,81.37,93.54
+0228_sub-pixar074_T1w,ds000228/sub-pixar074/anat/sub-pixar074_T1w.nii.gz,ds000228,7.95,m,0.99999717723395,3.0,siemens,trio,85.0,80.72,92.83
+0228_sub-pixar075_T1w,ds000228/sub-pixar075/anat/sub-pixar075_T1w.nii.gz,ds000228,7.83,m,1.00000644353196,3.0,siemens,trio,85.0,72.69,94.02
+0228_sub-pixar076_T1w,ds000228/sub-pixar076/anat/sub-pixar076_T1w.nii.gz,ds000228,7.06,m,0.999995477165187,3.0,siemens,trio,85.0,84.64,93.86
+0228_sub-pixar077_T1w,ds000228/sub-pixar077/anat/sub-pixar077_T1w.nii.gz,ds000228,9.45,m,1.00000017840613,3.0,siemens,trio,85.0,82.42,92.45
+0228_sub-pixar078_T1w,ds000228/sub-pixar078/anat/sub-pixar078_T1w.nii.gz,ds000228,8.6,f,1.00000084939178,3.0,siemens,trio,85.0,76.97,92.84
+0228_sub-pixar079_T1w,ds000228/sub-pixar079/anat/sub-pixar079_T1w.nii.gz,ds000228,7.07,m,0.999999258141929,3.0,siemens,trio,85.0,81.26,92.85
+0228_sub-pixar080_T1w,ds000228/sub-pixar080/anat/sub-pixar080_T1w.nii.gz,ds000228,7.91,m,0.999998042939811,3.0,siemens,trio,85.0,82.26,93.0
+0228_sub-pixar081_T1w,ds000228/sub-pixar081/anat/sub-pixar081_T1w.nii.gz,ds000228,7.91,f,1.00000470780878,3.0,siemens,trio,85.0,81.59,94.17
+0228_sub-pixar082_T1w,ds000228/sub-pixar082/anat/sub-pixar082_T1w.nii.gz,ds000228,9.76,f,0.999996004002947,3.0,siemens,trio,85.0,84.56,92.98
+0228_sub-pixar083_T1w,ds000228/sub-pixar083/anat/sub-pixar083_T1w.nii.gz,ds000228,7.28,f,1.00000168422082,3.0,siemens,trio,85.0,78.57,92.86
+0228_sub-pixar084_T1w,ds000228/sub-pixar084/anat/sub-pixar084_T1w.nii.gz,ds000228,7.1,m,1.00000236460783,3.0,siemens,trio,85.0,84.35,92.3
+0228_sub-pixar085_T1w,ds000228/sub-pixar085/anat/sub-pixar085_T1w.nii.gz,ds000228,9.48,f,0.99999869249192,3.0,siemens,trio,85.0,83.95,92.75
+0228_sub-pixar086_T1w,ds000228/sub-pixar086/anat/sub-pixar086_T1w.nii.gz,ds000228,7.46,f,1.00000343508802,3.0,siemens,trio,85.0,81.31,93.38
+0228_sub-pixar087_T1w,ds000228/sub-pixar087/anat/sub-pixar087_T1w.nii.gz,ds000228,9.96,m,0.999999265949626,3.0,siemens,trio,85.0,85.98,92.68
+0228_sub-pixar088_T1w,ds000228/sub-pixar088/anat/sub-pixar088_T1w.nii.gz,ds000228,7.71,m,0.999993215631733,3.0,siemens,trio,85.0,81.6,92.08
+0228_sub-pixar089_T1w,ds000228/sub-pixar089/anat/sub-pixar089_T1w.nii.gz,ds000228,8.02,m,0.999997163202487,3.0,siemens,trio,85.0,83.86,93.34
+0228_sub-pixar090_T1w,ds000228/sub-pixar090/anat/sub-pixar090_T1w.nii.gz,ds000228,8.15,m,0.999998644567089,3.0,siemens,trio,85.0,83.15,93.29
+0228_sub-pixar091_T1w,ds000228/sub-pixar091/anat/sub-pixar091_T1w.nii.gz,ds000228,9.7,m,0.999998888274457,3.0,siemens,trio,85.0,84.18,91.8
+0228_sub-pixar092_T1w,ds000228/sub-pixar092/anat/sub-pixar092_T1w.nii.gz,ds000228,8.48,m,0.999999562992791,3.0,siemens,trio,85.0,82.3,92.7
+0228_sub-pixar093_T1w,ds000228/sub-pixar093/anat/sub-pixar093_T1w.nii.gz,ds000228,8.59,f,0.999997275157238,3.0,siemens,trio,85.0,83.4,92.1
+0228_sub-pixar094_T1w,ds000228/sub-pixar094/anat/sub-pixar094_T1w.nii.gz,ds000228,9.52,f,0.999999548049436,3.0,siemens,trio,85.0,83.82,92.81
+0228_sub-pixar095_T1w,ds000228/sub-pixar095/anat/sub-pixar095_T1w.nii.gz,ds000228,9.94,f,0.999998522380935,3.0,siemens,trio,85.0,82.71,92.28
+0228_sub-pixar096_T1w,ds000228/sub-pixar096/anat/sub-pixar096_T1w.nii.gz,ds000228,7.13,f,0.999999111419832,3.0,siemens,trio,85.0,80.57,92.1
+0228_sub-pixar097_T1w,ds000228/sub-pixar097/anat/sub-pixar097_T1w.nii.gz,ds000228,8.87,f,1.00000098108479,3.0,siemens,trio,85.0,85.4,92.88
+0228_sub-pixar098_T1w,ds000228/sub-pixar098/anat/sub-pixar098_T1w.nii.gz,ds000228,10.19,m,0.999996365985549,3.0,siemens,trio,85.0,80.17,90.54
+0228_sub-pixar099_T1w,ds000228/sub-pixar099/anat/sub-pixar099_T1w.nii.gz,ds000228,7.66,m,0.999996810341612,3.0,siemens,trio,85.0,78.91,92.71
+0228_sub-pixar100_T1w,ds000228/sub-pixar100/anat/sub-pixar100_T1w.nii.gz,ds000228,9.59,m,0.999996601183721,3.0,siemens,trio,85.0,79.83,91.9
+0228_sub-pixar101_T1w,ds000228/sub-pixar101/anat/sub-pixar101_T1w.nii.gz,ds000228,11.17,m,0.999997681666354,3.0,siemens,trio,85.0,82.72,91.28
+0228_sub-pixar102_T1w,ds000228/sub-pixar102/anat/sub-pixar102_T1w.nii.gz,ds000228,11.17,f,0.999999123301378,3.0,siemens,trio,85.0,81.22,92.98
+0228_sub-pixar103_T1w,ds000228/sub-pixar103/anat/sub-pixar103_T1w.nii.gz,ds000228,10.55,m,0.999998593716933,3.0,siemens,trio,85.0,80.24,91.45
+0228_sub-pixar104_T1w,ds000228/sub-pixar104/anat/sub-pixar104_T1w.nii.gz,ds000228,8.57,f,0.999999220520182,3.0,siemens,trio,85.0,80.82,92.51
+0228_sub-pixar105_T1w,ds000228/sub-pixar105/anat/sub-pixar105_T1w.nii.gz,ds000228,8.66,m,0.999999195097558,3.0,siemens,trio,85.0,81.4,92.14
+0228_sub-pixar106_T1w,ds000228/sub-pixar106/anat/sub-pixar106_T1w.nii.gz,ds000228,8.02,m,1.00000297138098,3.0,siemens,trio,85.0,80.9,92.01
+0228_sub-pixar107_T1w,ds000228/sub-pixar107/anat/sub-pixar107_T1w.nii.gz,ds000228,11.51,m,0.999998642353663,3.0,siemens,trio,85.0,81.44,92.08
+0228_sub-pixar108_T1w,ds000228/sub-pixar108/anat/sub-pixar108_T1w.nii.gz,ds000228,10.7,f,0.999999596062904,3.0,siemens,trio,85.0,83.33,92.87
+0228_sub-pixar109_T1w,ds000228/sub-pixar109/anat/sub-pixar109_T1w.nii.gz,ds000228,10.38,f,0.999995405740078,3.0,siemens,trio,85.0,82.41,92.45
+0228_sub-pixar110_T1w,ds000228/sub-pixar110/anat/sub-pixar110_T1w.nii.gz,ds000228,10.78,f,0.99999799384269,3.0,siemens,trio,85.0,81.5,91.47
+0228_sub-pixar111_T1w,ds000228/sub-pixar111/anat/sub-pixar111_T1w.nii.gz,ds000228,8.62,f,0.999999035007101,3.0,siemens,trio,85.0,74.24,91.2
+0228_sub-pixar113_T1w,ds000228/sub-pixar113/anat/sub-pixar113_T1w.nii.gz,ds000228,10.29,f,0.999998488079465,3.0,siemens,trio,85.0,82.21,92.53
+0228_sub-pixar114_T1w,ds000228/sub-pixar114/anat/sub-pixar114_T1w.nii.gz,ds000228,7.43,m,1.00000283855254,3.0,siemens,trio,85.0,82.9,92.44
+0228_sub-pixar115_T1w,ds000228/sub-pixar115/anat/sub-pixar115_T1w.nii.gz,ds000228,9.68,f,1.0000036511084,3.0,siemens,trio,85.0,83.09,90.87
+0228_sub-pixar116_T1w,ds000228/sub-pixar116/anat/sub-pixar116_T1w.nii.gz,ds000228,7.68,f,1.00000221699244,3.0,siemens,trio,85.0,78.67,92.01
+0228_sub-pixar118_T1w,ds000228/sub-pixar118/anat/sub-pixar118_T1w.nii.gz,ds000228,10.5,f,1.00000020812514,3.0,siemens,trio,85.0,83.03,92.03
+0228_sub-pixar119_T1w,ds000228/sub-pixar119/anat/sub-pixar119_T1w.nii.gz,ds000228,8.62,f,1.00000593775935,3.0,siemens,trio,85.0,83.33,91.77
+0228_sub-pixar120_T1w,ds000228/sub-pixar120/anat/sub-pixar120_T1w.nii.gz,ds000228,11.48,f,0.999996290795336,3.0,siemens,trio,85.0,83.06,91.78
+0228_sub-pixar121_T1w,ds000228/sub-pixar121/anat/sub-pixar121_T1w.nii.gz,ds000228,8.76,f,0.999998516042269,3.0,siemens,trio,85.0,83.34,93.07
+0228_sub-pixar122_T1w,ds000228/sub-pixar122/anat/sub-pixar122_T1w.nii.gz,ds000228,7.21,m,0.999999660854689,3.0,siemens,trio,85.0,79.03,91.34
+0256_sub-CTS201_T1w,ds000256/sub-CTS201/anat/sub-CTS201_T1w.nii.gz,ds000256,8.68,m,1.00000069721896,3.0,siemens,trio,85.0,81.98,93.84
+0256_sub-CTS202_T1w,ds000256/sub-CTS202/anat/sub-CTS202_T1w.nii.gz,ds000256,11.18,m,0.51299755286891,3.0,siemens,trio,88.99,71.78,91.31
+0256_sub-CTS207_T1w,ds000256/sub-CTS207/anat/sub-CTS207_T1w.nii.gz,ds000256,11.48,m,0.512997247396899,3.0,siemens,trio,88.99,77.21,91.42
+0256_sub-CTS208_T1w,ds000256/sub-CTS208/anat/sub-CTS208_T1w.nii.gz,ds000256,6.79,m,1.00001252190599,3.0,siemens,trio,85.0,73.99,93.05
+0256_sub-CTS209_T1w,ds000256/sub-CTS209/anat/sub-CTS209_T1w.nii.gz,ds000256,5.89,m,0.99999718815741,3.0,siemens,trio,85.0,67.77,92.82
+0256_sub-CTS211_T1w,ds000256/sub-CTS211/anat/sub-CTS211_T1w.nii.gz,ds000256,9.93,m,1.00000241263114,3.0,siemens,trio,85.0,82.86,93.91
+0256_sub-CTS218_T1w,ds000256/sub-CTS218/anat/sub-CTS218_T1w.nii.gz,ds000256,11.47,m,0.999998765947119,3.0,siemens,trio,85.0,73.4,92.02
+0256_sub-CTS226_T1w,ds000256/sub-CTS226/anat/sub-CTS226_T1w.nii.gz,ds000256,8.52,m,1.00000129055428,3.0,siemens,trio,85.0,80.17,92.94
+0256_sub-CTS230_T1w,ds000256/sub-CTS230/anat/sub-CTS230_T1w.nii.gz,ds000256,10.23,f,1.00000362041285,3.0,siemens,trio,85.0,81.18,93.94
+0256_sub-CTS231_T1w,ds000256/sub-CTS231/anat/sub-CTS231_T1w.nii.gz,ds000256,7.99,f,0.99999818635184,3.0,siemens,trio,85.0,83.15,94.3
+0256_sub-CTS235_T1w,ds000256/sub-CTS235/anat/sub-CTS235_T1w.nii.gz,ds000256,7.43,f,1.00000046823872,3.0,siemens,trio,85.0,73.95,93.02
+0256_sub-CTS238_T1w,ds000256/sub-CTS238/anat/sub-CTS238_T1w.nii.gz,ds000256,10.64,m,0.999996403183583,3.0,siemens,trio,85.0,85.22,92.56
+1486_sub-001_ses-T1_T1w,ds001486/sub-001/ses-T1/anat/sub-001_ses-T1_T1w.nii.gz,ds001486,8.36,m,0.999977143298455,3.0,siemens,trio,85.0,64.46,89.71
+1486_sub-002_ses-T1_T1w,ds001486/sub-002/ses-T1/anat/sub-002_ses-T1_T1w.nii.gz,ds001486,9.23,f,1.00002287966345,3.0,siemens,trio,85.0,74.73,90.44
+1486_sub-003_ses-T1_T1w,ds001486/sub-003/ses-T1/anat/sub-003_ses-T1_T1w.nii.gz,ds001486,10.68,f,0.999996285683027,3.0,siemens,trio,85.0,82.57,92.29
+1486_sub-004_ses-T1_T1w,ds001486/sub-004/ses-T1/anat/sub-004_ses-T1_T1w.nii.gz,ds001486,9.93,f,0.9999389453728,3.0,siemens,trio,85.0,80.54,91.8
+1486_sub-005_ses-T1_T1w,ds001486/sub-005/ses-T1/anat/sub-005_ses-T1_T1w.nii.gz,ds001486,11.98,m,1.00000763306444,3.0,siemens,trio,85.0,72.26,90.14
+1486_sub-006_ses-T1_T1w,ds001486/sub-006/ses-T1/anat/sub-006_ses-T1_T1w.nii.gz,ds001486,8.9,f,1.00001536832721,3.0,siemens,trio,85.0,75.98,93.68
+1486_sub-007_ses-T1_T1w,ds001486/sub-007/ses-T1/anat/sub-007_ses-T1_T1w.nii.gz,ds001486,10.32,f,1.00008381406841,3.0,siemens,trio,85.0,76.38,91.61
+1486_sub-009_ses-T1_T1w,ds001486/sub-009/ses-T1/anat/sub-009_ses-T1_T1w.nii.gz,ds001486,8.47,f,0.999984859824231,3.0,siemens,trio,85.0,81.61,91.32
+1486_sub-010_ses-T1_T1w,ds001486/sub-010/ses-T1/anat/sub-010_ses-T1_T1w.nii.gz,ds001486,10.62,m,0.999969568333491,3.0,siemens,trio,85.0,81.22,90.64
+1486_sub-011_ses-T1_T1w,ds001486/sub-011/ses-T1/anat/sub-011_ses-T1_T1w.nii.gz,ds001486,9.45,f,0.99993121156222,3.0,siemens,trio,85.0,82.04,92.62
+1486_sub-017_ses-T1_T1w,ds001486/sub-017/ses-T1/anat/sub-017_ses-T1_T1w.nii.gz,ds001486,9.45,f,0.999969422876426,3.0,siemens,trio,85.0,77.07,92.53
+1486_sub-019_ses-T1_T1w,ds001486/sub-019/ses-T1/anat/sub-019_ses-T1_T1w.nii.gz,ds001486,11.3,m,1.00001521225976,3.0,siemens,trio,85.0,77.14,93.24
+1486_sub-020_ses-T1_T1w,ds001486/sub-020/ses-T1/anat/sub-020_ses-T1_T1w.nii.gz,ds001486,10.98,m,1.00001529207472,3.0,siemens,trio,85.0,75.99,91.82
+1486_sub-021_ses-T1_T1w,ds001486/sub-021/ses-T1/anat/sub-021_ses-T1_T1w.nii.gz,ds001486,10.08,f,0.999919862063083,3.0,siemens,trio,85.0,72.26,93.37
+1486_sub-023_ses-T1_T1w,ds001486/sub-023/ses-T1/anat/sub-023_ses-T1_T1w.nii.gz,ds001486,11.38,m,0.999992341865426,3.0,siemens,trio,85.0,78.94,90.04
+1486_sub-024_ses-T1_T1w,ds001486/sub-024/ses-T1/anat/sub-024_ses-T1_T1w.nii.gz,ds001486,9.96,f,0.999992320558238,3.0,siemens,trio,85.0,64.25,91.92
+1486_sub-025_ses-T1_T1w,ds001486/sub-025/ses-T1/anat/sub-025_ses-T1_T1w.nii.gz,ds001486,11.99,m,0.99989322531368,3.0,siemens,trio,85.0,76.93,91.79
+1486_sub-027_ses-T1_T1w,ds001486/sub-027/ses-T1/anat/sub-027_ses-T1_T1w.nii.gz,ds001486,10.09,f,0.99999999654171,3.0,siemens,trio,85.0,77.03,92.73
+1486_sub-028_ses-T1_T1w,ds001486/sub-028/ses-T1/anat/sub-028_ses-T1_T1w.nii.gz,ds001486,11.64,f,1.00005336745167,3.0,siemens,trio,85.0,74.09,93.03
+1486_sub-030_ses-T1_T1w,ds001486/sub-030/ses-T1/anat/sub-030_ses-T1_T1w.nii.gz,ds001486,11.39,f,0.999950399987559,3.0,siemens,trio,85.0,76.57,92.21
+1486_sub-031_ses-T1_T1w,ds001486/sub-031/ses-T1/anat/sub-031_ses-T1_T1w.nii.gz,ds001486,11.52,f,1.00003052585288,3.0,siemens,trio,85.0,75.24,93.3
+1486_sub-032_ses-T1_T1w,ds001486/sub-032/ses-T1/anat/sub-032_ses-T1_T1w.nii.gz,ds001486,9.22,m,0.999980857681814,3.0,siemens,trio,85.0,76.67,92.7
+1486_sub-033_ses-T1_T1w,ds001486/sub-033/ses-T1/anat/sub-033_ses-T1_T1w.nii.gz,ds001486,11.77,f,0.999923733807888,3.0,siemens,trio,85.0,77.0,93.48
+1486_sub-035_ses-T1_T1w,ds001486/sub-035/ses-T1/anat/sub-035_ses-T1_T1w.nii.gz,ds001486,10.94,m,1.00004574276642,3.0,siemens,trio,85.0,71.58,92.13
+1486_sub-036_ses-T1_T1w,ds001486/sub-036/ses-T1/anat/sub-036_ses-T1_T1w.nii.gz,ds001486,10.12,m,0.99992364194658,3.0,siemens,trio,85.0,80.41,91.35
+1486_sub-041_ses-T1_T1w,ds001486/sub-041/ses-T1/anat/sub-041_ses-T1_T1w.nii.gz,ds001486,9.23,f,0.999977131295928,3.0,siemens,trio,85.0,78.13,93.27
+1486_sub-044_ses-T1_T1w,ds001486/sub-044/ses-T1/anat/sub-044_ses-T1_T1w.nii.gz,ds001486,11.49,f,0.99998853839831,3.0,siemens,trio,85.0,85.38,93.26
+1486_sub-045_ses-T1_T1w,ds001486/sub-045/ses-T1/anat/sub-045_ses-T1_T1w.nii.gz,ds001486,9.78,f,0.999961886904438,3.0,siemens,trio,85.0,78.47,93.41
+1486_sub-047_ses-T1_T1w,ds001486/sub-047/ses-T1/anat/sub-047_ses-T1_T1w.nii.gz,ds001486,10.44,f,0.999954214499769,3.0,siemens,trio,85.0,76.71,92.12
+1486_sub-048_ses-T1_T1w,ds001486/sub-048/ses-T1/anat/sub-048_ses-T1_T1w.nii.gz,ds001486,10.6,m,0.999946554419992,3.0,siemens,trio,85.0,82.29,92.5
+1486_sub-049_ses-T1_T1w,ds001486/sub-049/ses-T1/anat/sub-049_ses-T1_T1w.nii.gz,ds001486,10.97,f,0.999954173162872,3.0,siemens,trio,85.0,80.34,92.2
+1486_sub-050_ses-T1_T1w,ds001486/sub-050/ses-T1/anat/sub-050_ses-T1_T1w.nii.gz,ds001486,9.43,f,0.99999998032626,3.0,siemens,trio,85.0,78.61,93.05
+1486_sub-051_ses-T1_T1w,ds001486/sub-051/ses-T1/anat/sub-051_ses-T1_T1w.nii.gz,ds001486,11.97,f,0.999923710032478,3.0,siemens,trio,85.0,71.64,93.58
+1486_sub-055_ses-T1_T1w,ds001486/sub-055/ses-T1/anat/sub-055_ses-T1_T1w.nii.gz,ds001486,11.09,m,0.999954200238737,3.0,siemens,trio,85.0,75.53,92.94
+1486_sub-056_ses-T1_T1w,ds001486/sub-056/ses-T1/anat/sub-056_ses-T1_T1w.nii.gz,ds001486,10.14,f,0.999999945140922,3.0,siemens,trio,85.0,75.29,93.31
+1486_sub-057_ses-T1_T1w,ds001486/sub-057/ses-T1/anat/sub-057_ses-T1_T1w.nii.gz,ds001486,9.54,m,0.999938975530545,3.0,siemens,trio,85.0,77.61,92.13
+1486_sub-060_ses-T1_T1w,ds001486/sub-060/ses-T1/anat/sub-060_ses-T1_T1w.nii.gz,ds001486,10.92,m,1.00002677408069,3.0,siemens,trio,85.0,79.21,92.75
+1486_sub-061_ses-T1_T1w,ds001486/sub-061/ses-T1/anat/sub-061_ses-T1_T1w.nii.gz,ds001486,11.25,m,1.00001524720304,3.0,siemens,trio,85.0,75.26,92.46
+1486_sub-063_ses-T1_T1w,ds001486/sub-063/ses-T1/anat/sub-063_ses-T1_T1w.nii.gz,ds001486,11.0,m,0.99990081752187,3.0,siemens,trio,85.0,78.23,92.68
+1486_sub-064_ses-T1_T1w,ds001486/sub-064/ses-T1/anat/sub-064_ses-T1_T1w.nii.gz,ds001486,9.01,f,1.00004580214915,3.0,siemens,trio,85.0,78.78,92.35
+1486_sub-065_ses-T1_T1w,ds001486/sub-065/ses-T1/anat/sub-065_ses-T1_T1w.nii.gz,ds001486,10.13,m,0.999969411465156,3.0,siemens,trio,85.0,74.85,92.6
+1486_sub-066_ses-T1_T1w,ds001486/sub-066/ses-T1/anat/sub-066_ses-T1_T1w.nii.gz,ds001486,9.43,f,0.999969469926004,3.0,siemens,trio,85.0,80.55,90.93
+1486_sub-071_ses-T1_T1w,ds001486/sub-071/ses-T1/anat/sub-071_ses-T1_T1w.nii.gz,ds001486,8.64,m,0.999969468264604,3.0,siemens,trio,85.0,72.47,92.31
+1486_sub-073_ses-T1_T1w,ds001486/sub-073/ses-T1/anat/sub-073_ses-T1_T1w.nii.gz,ds001486,9.97,f,1.00003049414535,3.0,siemens,trio,85.0,79.82,92.82
+1486_sub-080_ses-T1_T1w,ds001486/sub-080/ses-T1/anat/sub-080_ses-T1_T1w.nii.gz,ds001486,9.34,f,0.99991989907398,3.0,siemens,trio,85.0,75.92,92.72
+1486_sub-081_ses-T1_T1w,ds001486/sub-081/ses-T1/anat/sub-081_ses-T1_T1w.nii.gz,ds001486,11.18,m,1.00004192553178,3.0,siemens,trio,85.0,70.34,90.22
+1486_sub-082_ses-T1_T1w,ds001486/sub-082/ses-T1/anat/sub-082_ses-T1_T1w.nii.gz,ds001486,11.55,m,0.999992360621506,3.0,siemens,trio,85.0,66.74,92.16
+1486_sub-083_ses-T1_T1w,ds001486/sub-083/ses-T1/anat/sub-083_ses-T1_T1w.nii.gz,ds001486,11.58,f,0.999977149063875,3.0,siemens,trio,85.0,72.91,92.92
+1486_sub-084_ses-T1_T1w,ds001486/sub-084/ses-T1/anat/sub-084_ses-T1_T1w.nii.gz,ds001486,10.33,f,0.999938977627743,3.0,siemens,trio,85.0,71.33,93.07
+1486_sub-085_ses-T1_T1w,ds001486/sub-085/ses-T1/anat/sub-085_ses-T1_T1w.nii.gz,ds001486,9.91,f,0.999938956893728,3.0,siemens,trio,85.0,74.65,92.58
+1486_sub-088_ses-T1_T1w,ds001486/sub-088/ses-T1/anat/sub-088_ses-T1_T1w.nii.gz,ds001486,9.9,f,0.999954203291694,3.0,siemens,trio,85.0,77.12,93.32
+1486_sub-089_ses-T1_T1w,ds001486/sub-089/ses-T1/anat/sub-089_ses-T1_T1w.nii.gz,ds001486,10.07,f,0.999958094953275,3.0,siemens,trio,85.0,82.98,91.3
+1486_sub-092_ses-T1_T1w,ds001486/sub-092/ses-T1/anat/sub-092_ses-T1_T1w.nii.gz,ds001486,10.57,m,0.999988589987418,3.0,siemens,trio,85.0,79.25,92.24
+1486_sub-093_ses-T1_T1w,ds001486/sub-093/ses-T1/anat/sub-093_ses-T1_T1w.nii.gz,ds001486,9.95,m,0.999931386809875,3.0,siemens,trio,85.0,77.52,92.47
+1486_sub-095_ses-T1_T1w,ds001486/sub-095/ses-T1/anat/sub-095_ses-T1_T1w.nii.gz,ds001486,11.33,m,0.999992414812263,3.0,siemens,trio,85.0,72.47,90.84
+1486_sub-096_ses-T1_T1w,ds001486/sub-096/ses-T1/anat/sub-096_ses-T1_T1w.nii.gz,ds001486,10.9,f,0.999927560057115,3.0,siemens,trio,85.0,76.6,92.49
+1486_sub-097_ses-T1_T1w,ds001486/sub-097/ses-T1/anat/sub-097_ses-T1_T1w.nii.gz,ds001486,10.6,m,1.00005341936352,3.0,siemens,trio,85.0,79.54,92.82
+1486_sub-098_ses-T1_T1w,ds001486/sub-098/ses-T1/anat/sub-098_ses-T1_T1w.nii.gz,ds001486,9.37,f,0.999927519405125,3.0,siemens,trio,85.0,75.31,93.75
+1486_sub-099_ses-T1_T1w,ds001486/sub-099/ses-T1/anat/sub-099_ses-T1_T1w.nii.gz,ds001486,10.18,f,0.999916082818024,3.0,siemens,trio,85.0,77.37,93.44
+1486_sub-100_ses-T1_T1w,ds001486/sub-100/ses-T1/anat/sub-100_ses-T1_T1w.nii.gz,ds001486,9.96,f,0.999961800717635,3.0,siemens,trio,85.0,79.15,92.86
+1486_sub-102_ses-T1_T1w,ds001486/sub-102/ses-T1/anat/sub-102_ses-T1_T1w.nii.gz,ds001486,10.4,f,0.999969460779544,3.0,siemens,trio,85.0,81.05,91.8
+1486_sub-103_ses-T1_T1w,ds001486/sub-103/ses-T1/anat/sub-103_ses-T1_T1w.nii.gz,ds001486,10.09,f,1.00001520364005,3.0,siemens,trio,85.0,75.98,93.34
+1486_sub-105_ses-T1_T1w,ds001486/sub-105/ses-T1/anat/sub-105_ses-T1_T1w.nii.gz,ds001486,10.64,f,1.00002292905159,3.0,siemens,trio,85.0,73.37,93.13
+1486_sub-107_ses-T1_T1w,ds001486/sub-107/ses-T1/anat/sub-107_ses-T1_T1w.nii.gz,ds001486,10.67,m,0.999885576697027,3.0,siemens,trio,85.0,76.29,90.85
+1486_sub-108_ses-T1_T1w,ds001486/sub-108/ses-T1/anat/sub-108_ses-T1_T1w.nii.gz,ds001486,10.39,m,1.00001526108945,3.0,siemens,trio,85.0,70.71,90.44
+1486_sub-110_ses-T1_T1w,ds001486/sub-110/ses-T1/anat/sub-110_ses-T1_T1w.nii.gz,ds001486,10.7,m,0.999954222914979,3.0,siemens,trio,85.0,74.45,90.37
+1486_sub-111_ses-T1_T1w,ds001486/sub-111/ses-T1/anat/sub-111_ses-T1_T1w.nii.gz,ds001486,9.33,m,0.999900775451974,3.0,siemens,trio,85.0,75.02,89.78
+1486_sub-112_ses-T1_T1w,ds001486/sub-112/ses-T1/anat/sub-112_ses-T1_T1w.nii.gz,ds001486,11.27,m,0.999999982044052,3.0,siemens,trio,85.0,67.25,90.23
+1486_sub-113_ses-T1_T1w,ds001486/sub-113/ses-T1/anat/sub-113_ses-T1_T1w.nii.gz,ds001486,11.15,m,0.999969466839873,3.0,siemens,trio,85.0,70.92,91.59
+1486_sub-114_ses-T1_T1w,ds001486/sub-114/ses-T1/anat/sub-114_ses-T1_T1w.nii.gz,ds001486,11.75,m,1.00002289240149,3.0,siemens,trio,85.0,78.14,93.28
+1486_sub-116_ses-T1_T1w,ds001486/sub-116/ses-T1/anat/sub-116_ses-T1_T1w.nii.gz,ds001486,11.54,f,1.00003047492071,3.0,siemens,trio,85.0,68.83,90.32
+1486_sub-119_ses-T1_T1w,ds001486/sub-119/ses-T1/anat/sub-119_ses-T1_T1w.nii.gz,ds001486,11.6,m,0.999939022936392,3.0,siemens,trio,85.0,76.85,93.05
+1486_sub-121_ses-T1_T1w,ds001486/sub-121/ses-T1/anat/sub-121_ses-T1_T1w.nii.gz,ds001486,10.61,m,0.999954172485609,3.0,siemens,trio,85.0,72.52,91.82
+1486_sub-122_ses-T1_T1w,ds001486/sub-122/ses-T1/anat/sub-122_ses-T1_T1w.nii.gz,ds001486,9.1,f,1.00002289787097,3.0,siemens,trio,85.0,75.34,93.42
+1486_sub-124_ses-T1_T1w,ds001486/sub-124/ses-T1/anat/sub-124_ses-T1_T1w.nii.gz,ds001486,9.59,f,0.999862647509468,3.0,siemens,trio,85.0,74.86,90.93
+1486_sub-125_ses-T1_T1w,ds001486/sub-125/ses-T1/anat/sub-125_ses-T1_T1w.nii.gz,ds001486,9.64,f,0.999992379960976,3.0,siemens,trio,85.0,77.73,93.4
+1486_sub-126_ses-T1_T1w,ds001486/sub-126/ses-T1/anat/sub-126_ses-T1_T1w.nii.gz,ds001486,10.73,m,0.999988569835239,3.0,siemens,trio,85.0,74.33,90.88
+1486_sub-128_ses-T1_T1w,ds001486/sub-128/ses-T1/anat/sub-128_ses-T1_T1w.nii.gz,ds001486,8.64,m,0.999923705034569,3.0,siemens,trio,85.0,68.98,90.51
+1486_sub-130_ses-T1_T1w,ds001486/sub-130/ses-T1/anat/sub-130_ses-T1_T1w.nii.gz,ds001486,11.35,f,0.99996950990493,3.0,siemens,trio,85.0,72.17,90.19
+1486_sub-131_ses-T1_T1w,ds001486/sub-131/ses-T1/anat/sub-131_ses-T1_T1w.nii.gz,ds001486,10.88,f,0.99994663615666,3.0,siemens,trio,85.0,77.09,91.59
+1748_sub-child01_T1w,ds001748/sub-child01/anat/sub-child01_T1w.nii.gz,ds001748,10.5,f,0.999999964221715,3.0,general electric,unknown,85.0,80.06,93.41
+1748_sub-child02_T1w,ds001748/sub-child02/anat/sub-child02_T1w.nii.gz,ds001748,10.5,m,0.999999964221715,3.0,general electric,unknown,85.0,83.99,94.04
+1748_sub-child03_T1w,ds001748/sub-child03/anat/sub-child03_T1w.nii.gz,ds001748,10.5,f,1.0000022567192,3.0,general electric,unknown,85.0,87.26,94.66
+1748_sub-child04_T1w,ds001748/sub-child04/anat/sub-child04_T1w.nii.gz,ds001748,10.5,m,0.999996875167442,3.0,general electric,unknown,85.0,80.97,94.91
+1748_sub-child05_T1w,ds001748/sub-child05/anat/sub-child05_T1w.nii.gz,ds001748,10.5,f,0.99999799621438,3.0,general electric,unknown,85.0,87.32,94.36
+1748_sub-child06_T1w,ds001748/sub-child06/anat/sub-child06_T1w.nii.gz,ds001748,10.5,f,1.00000510536714,3.0,general electric,unknown,85.0,82.94,94.71
+1748_sub-child07_T1w,ds001748/sub-child07/anat/sub-child07_T1w.nii.gz,ds001748,10.5,m,0.999998262733472,3.0,general electric,unknown,85.0,87.97,94.28
+1748_sub-child08_T1w,ds001748/sub-child08/anat/sub-child08_T1w.nii.gz,ds001748,10.5,m,0.999999634258442,3.0,general electric,unknown,85.0,87.82,93.38
+1748_sub-child09_T1w,ds001748/sub-child09/anat/sub-child09_T1w.nii.gz,ds001748,11.5,m,0.999999574664331,3.0,general electric,unknown,85.0,87.77,95.04
+1748_sub-child10_T1w,ds001748/sub-child10/anat/sub-child10_T1w.nii.gz,ds001748,11.5,m,0.999999634258442,3.0,general electric,unknown,85.0,86.11,94.61
+1748_sub-child11_T1w,ds001748/sub-child11/anat/sub-child11_T1w.nii.gz,ds001748,11.5,f,0.999997964656672,3.0,general electric,unknown,85.0,84.1,94.29
+1748_sub-child12_T1w,ds001748/sub-child12/anat/sub-child12_T1w.nii.gz,ds001748,11.5,f,1.00000409632114,3.0,general electric,unknown,85.0,79.63,94.68
+1748_sub-child13_T1w,ds001748/sub-child13/anat/sub-child13_T1w.nii.gz,ds001748,11.5,m,1.00000751458775,3.0,general electric,unknown,85.0,88.42,94.37
+1748_sub-child14_T1w,ds001748/sub-child14/anat/sub-child14_T1w.nii.gz,ds001748,11.5,m,1.00000231728793,3.0,general electric,unknown,85.0,86.09,95.1
+1748_sub-child15_T1w,ds001748/sub-child15/anat/sub-child15_T1w.nii.gz,ds001748,11.5,f,0.999999634258442,3.0,general electric,unknown,85.0,81.96,94.57
+1894_sub-001_ses-T1_T1w,ds001894/sub-001/ses-T1/anat/sub-001_ses-T1_T1w.nii.gz,ds001894,10.58,f,0.999999906433039,3.0,siemens,trio,85.0,77.82,92.72
+1894_sub-002_ses-T1_T1w,ds001894/sub-002/ses-T1/anat/sub-002_ses-T1_T1w.nii.gz,ds001894,10.39,m,1.00000022569353,3.0,siemens,trio,85.0,78.45,92.89
+1894_sub-003_ses-T1_T1w,ds001894/sub-003/ses-T1/anat/sub-003_ses-T1_T1w.nii.gz,ds001894,9.12,m,1.00000003697429,3.0,siemens,trio,85.0,79.02,92.64
+1894_sub-004_ses-T1_T1w,ds001894/sub-004/ses-T1/anat/sub-004_ses-T1_T1w.nii.gz,ds001894,11.25,f,1.00000002364018,3.0,siemens,trio,85.0,81.78,92.63
+1894_sub-005_ses-T1_T1w,ds001894/sub-005/ses-T1/anat/sub-005_ses-T1_T1w.nii.gz,ds001894,10.19,f,0.999999991605355,3.0,siemens,trio,85.0,78.35,92.57
+1894_sub-006_ses-T1_T1w,ds001894/sub-006/ses-T1/anat/sub-006_ses-T1_T1w.nii.gz,ds001894,8.09,f,1.00000006423459,3.0,siemens,trio,85.0,73.54,92.47
+1894_sub-007_ses-T1_T1w,ds001894/sub-007/ses-T1/anat/sub-007_ses-T1_T1w.nii.gz,ds001894,9.46,m,1.00000002945303,3.0,siemens,trio,85.0,77.05,91.49
+1894_sub-008_ses-T1_T1w,ds001894/sub-008/ses-T1/anat/sub-008_ses-T1_T1w.nii.gz,ds001894,11.31,m,1.00000007761776,3.0,siemens,trio,85.0,77.56,92.37
+1894_sub-009_ses-T1_T1w,ds001894/sub-009/ses-T1/anat/sub-009_ses-T1_T1w.nii.gz,ds001894,11.98,m,1.00000002981457,3.0,siemens,trio,85.0,82.56,93.12
+1894_sub-013_ses-T1_T1w,ds001894/sub-013/ses-T1/anat/sub-013_ses-T1_T1w.nii.gz,ds001894,9.8,f,0.999999896109451,3.0,siemens,trio,85.0,70.28,92.39
+1894_sub-014_ses-T1_T1w,ds001894/sub-014/ses-T1/anat/sub-014_ses-T1_T1w.nii.gz,ds001894,10.46,f,1.00000002006686,3.0,siemens,trio,85.0,80.42,91.25
+1894_sub-015_ses-T1_T1w,ds001894/sub-015/ses-T1/anat/sub-015_ses-T1_T1w.nii.gz,ds001894,11.14,m,0.999946451031428,3.0,siemens,trio,85.0,79.32,90.38
+1894_sub-019_ses-T1_T1w,ds001894/sub-019/ses-T1/anat/sub-019_ses-T1_T1w.nii.gz,ds001894,10.03,f,1.00006103371783,3.0,siemens,trio,85.0,75.94,89.24
+1894_sub-021_ses-T1_T1w,ds001894/sub-021/ses-T1/anat/sub-021_ses-T1_T1w.nii.gz,ds001894,10.32,m,1.00003417352747,3.0,siemens,trio,85.0,77.38,93.17
+1894_sub-023_ses-T1_T1w,ds001894/sub-023/ses-T1/anat/sub-023_ses-T1_T1w.nii.gz,ds001894,10.87,f,1.00006103251476,3.0,siemens,trio,85.0,75.06,92.7
+1894_sub-024_ses-T1_T1w,ds001894/sub-024/ses-T1/anat/sub-024_ses-T1_T1w.nii.gz,ds001894,7.6,m,0.99998101857347,3.0,siemens,trio,85.0,80.23,92.59
+1894_sub-026_ses-T1_T1w,ds001894/sub-026/ses-T1/anat/sub-026_ses-T1_T1w.nii.gz,ds001894,11.36,f,1.00004606136369,3.0,siemens,trio,85.0,75.43,91.26
+1894_sub-027_ses-T1_T1w,ds001894/sub-027/ses-T1/anat/sub-027_ses-T1_T1w.nii.gz,ds001894,10.84,f,0.99995420330049,3.0,siemens,trio,85.0,77.21,91.86
+1894_sub-028_ses-T1_T1w,ds001894/sub-028/ses-T1/anat/sub-028_ses-T1_T1w.nii.gz,ds001894,9.34,f,0.999992268919931,3.0,siemens,trio,85.0,70.62,91.72
+1894_sub-029_ses-T1_T1w,ds001894/sub-029/ses-T1/anat/sub-029_ses-T1_T1w.nii.gz,ds001894,9.34,m,0.999912227576764,3.0,siemens,trio,85.0,70.62,92.48
+1894_sub-030_ses-T1_T1w,ds001894/sub-030/ses-T1/anat/sub-030_ses-T1_T1w.nii.gz,ds001894,10.96,m,1.00001529016948,3.0,siemens,trio,85.0,80.53,91.61
+1894_sub-031_ses-T1_T1w,ds001894/sub-031/ses-T1/anat/sub-031_ses-T1_T1w.nii.gz,ds001894,7.78,m,0.999992322030456,3.0,siemens,trio,85.0,76.12,91.7
+1894_sub-032_ses-T1_T1w,ds001894/sub-032/ses-T1/anat/sub-032_ses-T1_T1w.nii.gz,ds001894,9.3,m,1.00003031854743,3.0,siemens,trio,85.0,80.99,91.51
+1894_sub-033_ses-T1_T1w,ds001894/sub-033/ses-T1/anat/sub-033_ses-T1_T1w.nii.gz,ds001894,11.89,m,1.00003051215762,3.0,siemens,trio,85.0,74.58,92.76
+1894_sub-034_ses-T1_T1w,ds001894/sub-034/ses-T1/anat/sub-034_ses-T1_T1w.nii.gz,ds001894,9.3,f,1.00001509125329,3.0,siemens,trio,85.0,80.58,92.14
+1894_sub-035_ses-T1_T1w,ds001894/sub-035/ses-T1/anat/sub-035_ses-T1_T1w.nii.gz,ds001894,8.99,f,1.00001903925101,3.0,siemens,trio,85.0,78.68,92.14
+1894_sub-036_ses-T1_T1w,ds001894/sub-036/ses-T1/anat/sub-036_ses-T1_T1w.nii.gz,ds001894,10.26,f,1.00000000064679,3.0,siemens,trio,85.0,83.09,91.56
+1894_sub-037_ses-T1_T1w,ds001894/sub-037/ses-T1/anat/sub-037_ses-T1_T1w.nii.gz,ds001894,11.78,m,1.00002673514637,3.0,siemens,trio,85.0,69.99,92.68
+1894_sub-038_ses-T1_T1w,ds001894/sub-038/ses-T1/anat/sub-038_ses-T1_T1w.nii.gz,ds001894,11.49,m,0.999923741905824,3.0,siemens,trio,85.0,75.79,93.16
+1894_sub-039_ses-T1_T1w,ds001894/sub-039/ses-T1/anat/sub-039_ses-T1_T1w.nii.gz,ds001894,10.7,m,1.00000001824476,3.0,siemens,trio,85.0,81.87,92.31
+1894_sub-040_ses-T1_T1w,ds001894/sub-040/ses-T1/anat/sub-040_ses-T1_T1w.nii.gz,ds001894,11.64,m,0.99999997687661,3.0,siemens,trio,85.0,69.79,93.47
+1894_sub-041_ses-T1_T1w,ds001894/sub-041/ses-T1/anat/sub-041_ses-T1_T1w.nii.gz,ds001894,10.6,m,1.00005332778198,3.0,siemens,trio,85.0,77.76,92.31
+1894_sub-046_ses-T1_T1w,ds001894/sub-046/ses-T1/anat/sub-046_ses-T1_T1w.nii.gz,ds001894,10.94,m,0.999969533917792,3.0,siemens,trio,85.0,78.23,92.76
+1894_sub-047_ses-T1_T1w,ds001894/sub-047/ses-T1/anat/sub-047_ses-T1_T1w.nii.gz,ds001894,10.08,m,0.99999995149822,3.0,siemens,trio,85.0,76.96,92.52
+1894_sub-048_ses-T1_T1w,ds001894/sub-048/ses-T1/anat/sub-048_ses-T1_T1w.nii.gz,ds001894,8.21,f,1.0000231358879,3.0,siemens,trio,85.0,77.1,91.71
+1894_sub-049_ses-T1_T1w,ds001894/sub-049/ses-T1/anat/sub-049_ses-T1_T1w.nii.gz,ds001894,9.04,f,1.0000191397713,3.0,siemens,trio,85.0,81.27,92.95
+1894_sub-051_ses-T1_T1w,ds001894/sub-051/ses-T1/anat/sub-051_ses-T1_T1w.nii.gz,ds001894,11.19,m,0.999961849011948,3.0,siemens,trio,85.0,75.0,92.22
+1894_sub-052_ses-T1_T1w,ds001894/sub-052/ses-T1/anat/sub-052_ses-T1_T1w.nii.gz,ds001894,10.25,f,0.999923636142351,3.0,siemens,trio,85.0,80.87,92.58
+1894_sub-053_ses-T1_T1w,ds001894/sub-053/ses-T1/anat/sub-053_ses-T1_T1w.nii.gz,ds001894,11.64,f,0.999938999587987,3.0,siemens,trio,85.0,78.02,92.87
+1894_sub-054_ses-T1_T1w,ds001894/sub-054/ses-T1/anat/sub-054_ses-T1_T1w.nii.gz,ds001894,8.77,m,0.999969482421875,3.0,siemens,trio,85.0,77.68,91.92
+1894_sub-055_ses-T1_T1w,ds001894/sub-055/ses-T1/anat/sub-055_ses-T1_T1w.nii.gz,ds001894,11.47,m,0.999847333574502,3.0,siemens,trio,85.0,77.61,93.22
+1894_sub-056_ses-T1_T1w,ds001894/sub-056/ses-T1/anat/sub-056_ses-T1_T1w.nii.gz,ds001894,11.26,m,0.999984743303997,3.0,siemens,trio,85.0,62.8,91.92
+1894_sub-058_ses-T1_T1w,ds001894/sub-058/ses-T1/anat/sub-058_ses-T1_T1w.nii.gz,ds001894,11.44,f,1.0000533246362,3.0,siemens,trio,85.0,79.31,94.23
+1894_sub-059_ses-T1_T1w,ds001894/sub-059/ses-T1/anat/sub-059_ses-T1_T1w.nii.gz,ds001894,8.63,f,1.00000001852987,3.0,siemens,trio,85.0,77.79,93.44
+1894_sub-061_ses-T1_T1w,ds001894/sub-061/ses-T1/anat/sub-061_ses-T1_T1w.nii.gz,ds001894,9.98,f,1.00005336882394,3.0,siemens,trio,85.0,76.03,93.34
+1894_sub-062_ses-T1_T1w,ds001894/sub-062/ses-T1/anat/sub-062_ses-T1_T1w.nii.gz,ds001894,9.61,f,1.00003059655052,3.0,siemens,trio,85.0,77.33,93.53
+1894_sub-063_ses-T1_T1w,ds001894/sub-063/ses-T1/anat/sub-063_ses-T1_T1w.nii.gz,ds001894,10.13,m,0.999977229580124,3.0,siemens,trio,85.0,75.12,92.82
+1894_sub-064_ses-T1_T1w,ds001894/sub-064/ses-T1/anat/sub-064_ses-T1_T1w.nii.gz,ds001894,8.54,f,0.999984692830839,3.0,siemens,trio,85.0,81.11,93.12
+1894_sub-066_ses-T1_T1w,ds001894/sub-066/ses-T1/anat/sub-066_ses-T1_T1w.nii.gz,ds001894,10.33,f,1.00000018516768,3.0,siemens,trio,85.0,76.43,93.74
+1894_sub-067_ses-T1_T1w,ds001894/sub-067/ses-T1/anat/sub-067_ses-T1_T1w.nii.gz,ds001894,9.76,f,0.999999907575453,3.0,siemens,trio,85.0,77.95,92.25
+1894_sub-068_ses-T1_T1w,ds001894/sub-068/ses-T1/anat/sub-068_ses-T1_T1w.nii.gz,ds001894,11.03,m,1.00000003494684,3.0,siemens,trio,85.0,81.54,92.06
+1894_sub-069_ses-T1_T1w,ds001894/sub-069/ses-T1/anat/sub-069_ses-T1_T1w.nii.gz,ds001894,10.39,f,1.00000008592178,3.0,siemens,trio,85.0,75.18,93.77
+1894_sub-070_ses-T1_T1w,ds001894/sub-070/ses-T1/anat/sub-070_ses-T1_T1w.nii.gz,ds001894,11.03,m,0.999916087810021,3.0,siemens,trio,85.0,76.58,92.95
+1894_sub-071_ses-T1_T1w,ds001894/sub-071/ses-T1/anat/sub-071_ses-T1_T1w.nii.gz,ds001894,10.95,m,0.999999938102773,3.0,siemens,trio,85.0,77.46,92.95
+1894_sub-073_ses-T1_T1w,ds001894/sub-073/ses-T1/anat/sub-073_ses-T1_T1w.nii.gz,ds001894,10.93,m,1.00000009892874,3.0,siemens,trio,85.0,80.94,91.44
+1894_sub-074_ses-T1_T1w,ds001894/sub-074/ses-T1/anat/sub-074_ses-T1_T1w.nii.gz,ds001894,9.87,m,1.00000002195916,3.0,siemens,trio,85.0,83.35,92.56
+1894_sub-077_ses-T1_T1w,ds001894/sub-077/ses-T1/anat/sub-077_ses-T1_T1w.nii.gz,ds001894,8.97,f,0.999999872634796,3.0,siemens,trio,85.0,68.02,92.66
+1894_sub-078_ses-T1_T1w,ds001894/sub-078/ses-T1/anat/sub-078_ses-T1_T1w.nii.gz,ds001894,11.05,m,1.00000006996979,3.0,siemens,trio,85.0,72.89,93.23
+1894_sub-079_ses-T1_T1w,ds001894/sub-079/ses-T1/anat/sub-079_ses-T1_T1w.nii.gz,ds001894,9.54,m,0.999999986396025,3.0,siemens,trio,85.0,77.45,92.3
+1894_sub-080_ses-T1_T1w,ds001894/sub-080/ses-T1/anat/sub-080_ses-T1_T1w.nii.gz,ds001894,10.21,m,0.999999940428696,3.0,siemens,trio,85.0,67.93,90.23
+1894_sub-081_ses-T1_T1w,ds001894/sub-081/ses-T1/anat/sub-081_ses-T1_T1w.nii.gz,ds001894,11.24,m,0.999999920991624,3.0,siemens,trio,85.0,75.6,92.23
+1894_sub-083_ses-T1_T1w,ds001894/sub-083/ses-T1/anat/sub-083_ses-T1_T1w.nii.gz,ds001894,9.31,m,1.00000005299478,3.0,siemens,trio,85.0,70.37,92.59
+1894_sub-086_ses-T1_T1w,ds001894/sub-086/ses-T1/anat/sub-086_ses-T1_T1w.nii.gz,ds001894,11.37,m,0.999999933496732,3.0,siemens,trio,85.0,76.64,92.6
+1894_sub-088_ses-T1_T1w,ds001894/sub-088/ses-T1/anat/sub-088_ses-T1_T1w.nii.gz,ds001894,10.69,m,1.00000000373613,3.0,siemens,trio,85.0,69.85,91.66
+1894_sub-089_ses-T1_T1w,ds001894/sub-089/ses-T1/anat/sub-089_ses-T1_T1w.nii.gz,ds001894,9.93,f,0.999999918113969,3.0,siemens,trio,85.0,77.16,91.58
+1894_sub-090_ses-T1_T1w,ds001894/sub-090/ses-T1/anat/sub-090_ses-T1_T1w.nii.gz,ds001894,9.11,m,1.0000000224193,3.0,siemens,trio,85.0,79.58,92.73
+1894_sub-092_ses-T1_T1w,ds001894/sub-092/ses-T1/anat/sub-092_ses-T1_T1w.nii.gz,ds001894,11.78,f,1.00004579001332,3.0,siemens,trio,85.0,73.13,92.22
+1894_sub-094_ses-T1_T1w,ds001894/sub-094/ses-T1/anat/sub-094_ses-T1_T1w.nii.gz,ds001894,9.68,m,0.999999999649122,3.0,siemens,trio,85.0,78.94,91.37
+1894_sub-095_ses-T1_T1w,ds001894/sub-095/ses-T1/anat/sub-095_ses-T1_T1w.nii.gz,ds001894,9.46,f,1.00001534060537,3.0,siemens,trio,85.0,75.72,93.57
+1894_sub-097_ses-T1_T1w,ds001894/sub-097/ses-T1/anat/sub-097_ses-T1_T1w.nii.gz,ds001894,9.69,f,0.999961738291634,3.0,siemens,trio,85.0,74.42,91.71
+1894_sub-099_ses-T1_T1w,ds001894/sub-099/ses-T1/anat/sub-099_ses-T1_T1w.nii.gz,ds001894,10.37,m,0.999969550345206,3.0,siemens,trio,85.0,78.28,92.5
+1894_sub-100_ses-T1_T1w,ds001894/sub-100/ses-T1/anat/sub-100_ses-T1_T1w.nii.gz,ds001894,8.22,f,0.999999967221268,3.0,siemens,trio,85.0,76.28,92.73
+1894_sub-101_ses-T1_T1w,ds001894/sub-101/ses-T1/anat/sub-101_ses-T1_T1w.nii.gz,ds001894,9.79,m,0.999969548151696,3.0,siemens,trio,85.0,73.78,91.03
+1894_sub-102_ses-T1_T1w,ds001894/sub-102/ses-T1/anat/sub-102_ses-T1_T1w.nii.gz,ds001894,11.55,m,1.00008389123448,3.0,siemens,trio,85.0,77.69,90.38
+1894_sub-103_ses-T1_T1w,ds001894/sub-103/ses-T1/anat/sub-103_ses-T1_T1w.nii.gz,ds001894,9.92,f,0.999900817871094,3.0,siemens,trio,85.0,78.33,93.36
+1894_sub-104_ses-T1_T1w,ds001894/sub-104/ses-T1/anat/sub-104_ses-T1_T1w.nii.gz,ds001894,9.99,m,0.999919884465791,3.0,siemens,trio,85.0,73.12,92.4
+1894_sub-106_ses-T1_T1w,ds001894/sub-106/ses-T1/anat/sub-106_ses-T1_T1w.nii.gz,ds001894,8.05,m,1.00006485213769,3.0,siemens,trio,85.0,77.01,93.01
+1894_sub-107_ses-T1_T1w,ds001894/sub-107/ses-T1/anat/sub-107_ses-T1_T1w.nii.gz,ds001894,9.79,f,0.999984794834702,3.0,siemens,trio,85.0,76.06,91.77
+1894_sub-108_ses-T1_T1w,ds001894/sub-108/ses-T1/anat/sub-108_ses-T1_T1w.nii.gz,ds001894,9.99,m,1.00004208108494,3.0,siemens,trio,85.0,74.67,93.13
+1894_sub-109_ses-T1_T1w,ds001894/sub-109/ses-T1/anat/sub-109_ses-T1_T1w.nii.gz,ds001894,9.99,m,0.999999970685173,3.0,siemens,trio,85.0,78.65,92.83
+1894_sub-110_ses-T1_T1w,ds001894/sub-110/ses-T1/anat/sub-110_ses-T1_T1w.nii.gz,ds001894,10.01,f,0.999961788168006,3.0,siemens,trio,85.0,73.14,92.42
+1894_sub-111_ses-T1_T1w,ds001894/sub-111/ses-T1/anat/sub-111_ses-T1_T1w.nii.gz,ds001894,10.43,m,1.00001525464285,3.0,siemens,trio,85.0,79.66,93.16
+1894_sub-113_ses-T1_T1w,ds001894/sub-113/ses-T1/anat/sub-113_ses-T1_T1w.nii.gz,ds001894,11.55,m,1.00000003040975,3.0,siemens,trio,85.0,80.09,92.68
+1894_sub-114_ses-T1_T1w,ds001894/sub-114/ses-T1/anat/sub-114_ses-T1_T1w.nii.gz,ds001894,8.4,m,0.999977111816406,3.0,siemens,trio,85.0,74.92,93.63
+1894_sub-115_ses-T1_T1w,ds001894/sub-115/ses-T1/anat/sub-115_ses-T1_T1w.nii.gz,ds001894,11.87,m,1.00000296871954,3.0,siemens,trio,85.0,77.08,92.93
+1894_sub-116_ses-T1_T1w,ds001894/sub-116/ses-T1/anat/sub-116_ses-T1_T1w.nii.gz,ds001894,10.98,f,0.999976947752976,3.0,siemens,trio,85.0,82.21,93.32
+1894_sub-118_ses-T1_T1w,ds001894/sub-118/ses-T1/anat/sub-118_ses-T1_T1w.nii.gz,ds001894,8.94,m,1.000000026613,3.0,siemens,trio,85.0,72.12,93.44
+1894_sub-119_ses-T1_T1w,ds001894/sub-119/ses-T1/anat/sub-119_ses-T1_T1w.nii.gz,ds001894,9.16,f,0.999977201681104,3.0,siemens,trio,85.0,79.15,93.61
+1894_sub-120_ses-T1_T1w,ds001894/sub-120/ses-T1/anat/sub-120_ses-T1_T1w.nii.gz,ds001894,9.73,f,0.999923761008974,3.0,siemens,trio,85.0,77.83,94.01
+1894_sub-121_ses-T1_T1w,ds001894/sub-121/ses-T1/anat/sub-121_ses-T1_T1w.nii.gz,ds001894,8.91,m,1.00000764365139,3.0,siemens,trio,85.0,61.44,92.61
+1894_sub-122_ses-T1_T1w,ds001894/sub-122/ses-T1/anat/sub-122_ses-T1_T1w.nii.gz,ds001894,11.31,m,0.999908408694525,3.0,siemens,trio,85.0,76.62,92.28
+1894_sub-124_ses-T1_T1w,ds001894/sub-124/ses-T1/anat/sub-124_ses-T1_T1w.nii.gz,ds001894,11.58,m,0.999961848260588,3.0,siemens,trio,85.0,74.13,93.61
+1894_sub-126_ses-T1_T1w,ds001894/sub-126/ses-T1/anat/sub-126_ses-T1_T1w.nii.gz,ds001894,10.65,m,1.00004575132296,3.0,siemens,trio,85.0,81.56,90.99
+1894_sub-127_ses-T1_T1w,ds001894/sub-127/ses-T1/anat/sub-127_ses-T1_T1w.nii.gz,ds001894,11.09,m,0.999992262720594,3.0,siemens,trio,85.0,86.79,92.07
+1894_sub-128_ses-T1_T1w,ds001894/sub-128/ses-T1/anat/sub-128_ses-T1_T1w.nii.gz,ds001894,11.24,f,0.999999959872562,3.0,siemens,trio,85.0,75.35,93.05
+1894_sub-129_ses-T1_T1w,ds001894/sub-129/ses-T1/anat/sub-129_ses-T1_T1w.nii.gz,ds001894,10.32,f,0.999969466738479,3.0,siemens,trio,85.0,66.85,93.07
+1894_sub-130_ses-T1_T1w,ds001894/sub-130/ses-T1/anat/sub-130_ses-T1_T1w.nii.gz,ds001894,8.04,f,0.999992330699278,3.0,siemens,trio,85.0,76.44,92.88
+1894_sub-131_ses-T1_T1w,ds001894/sub-131/ses-T1/anat/sub-131_ses-T1_T1w.nii.gz,ds001894,7.36,f,0.999923724253613,3.0,siemens,trio,85.0,73.73,92.02
+1894_sub-132_ses-T1_T1w,ds001894/sub-132/ses-T1/anat/sub-132_ses-T1_T1w.nii.gz,ds001894,10.39,m,0.999992293338669,3.0,siemens,trio,85.0,73.26,92.63
+1894_sub-134_ses-T1_T1w,ds001894/sub-134/ses-T1/anat/sub-134_ses-T1_T1w.nii.gz,ds001894,11.28,f,0.99995423991498,3.0,siemens,trio,85.0,77.14,93.42
+1894_sub-135_ses-T1_T1w,ds001894/sub-135/ses-T1/anat/sub-135_ses-T1_T1w.nii.gz,ds001894,9.41,m,1.00001898979221,3.0,siemens,trio,85.0,77.56,92.49
+1894_sub-136_ses-T1_T1w,ds001894/sub-136/ses-T1/anat/sub-136_ses-T1_T1w.nii.gz,ds001894,11.71,m,0.999984762112766,3.0,siemens,trio,85.0,81.99,92.29
+1894_sub-137_ses-T1_T1w,ds001894/sub-137/ses-T1/anat/sub-137_ses-T1_T1w.nii.gz,ds001894,10.24,m,1.00002663161027,3.0,siemens,trio,85.0,75.16,92.13
+1894_sub-139_ses-T1_T1w,ds001894/sub-139/ses-T1/anat/sub-139_ses-T1_T1w.nii.gz,ds001894,9.04,f,1.00004583396806,3.0,siemens,trio,85.0,77.12,91.5
+1894_sub-140_ses-T1_T1w,ds001894/sub-140/ses-T1/anat/sub-140_ses-T1_T1w.nii.gz,ds001894,11.91,m,0.999969470875118,3.0,siemens,trio,85.0,79.27,91.63
+1894_sub-141_ses-T1_T1w,ds001894/sub-141/ses-T1/anat/sub-141_ses-T1_T1w.nii.gz,ds001894,8.78,m,0.999969477042768,3.0,siemens,trio,85.0,76.66,92.35
+1894_sub-142_ses-T1_T1w,ds001894/sub-142/ses-T1/anat/sub-142_ses-T1_T1w.nii.gz,ds001894,11.16,m,0.99999233424999,3.0,siemens,trio,85.0,73.84,93.51
+1894_sub-143_ses-T1_T1w,ds001894/sub-143/ses-T1/anat/sub-143_ses-T1_T1w.nii.gz,ds001894,9.51,f,1.00003053004743,3.0,siemens,trio,85.0,77.17,92.92
+1894_sub-144_ses-T1_T1w,ds001894/sub-144/ses-T1/anat/sub-144_ses-T1_T1w.nii.gz,ds001894,9.2,f,1.00001530554614,3.0,siemens,trio,85.0,74.24,92.97
+1894_sub-145_ses-T1_T1w,ds001894/sub-145/ses-T1/anat/sub-145_ses-T1_T1w.nii.gz,ds001894,11.39,m,0.999984736409959,3.0,siemens,trio,85.0,83.12,92.9
+1894_sub-146_ses-T1_T1w,ds001894/sub-146/ses-T1/anat/sub-146_ses-T1_T1w.nii.gz,ds001894,11.97,m,0.999893236868697,3.0,siemens,trio,85.0,81.44,92.38
+1894_sub-147_ses-T1_T1w,ds001894/sub-147/ses-T1/anat/sub-147_ses-T1_T1w.nii.gz,ds001894,11.44,f,0.999984725065096,3.0,siemens,trio,85.0,73.56,91.66
+1894_sub-148_ses-T1_T1w,ds001894/sub-148/ses-T1/anat/sub-148_ses-T1_T1w.nii.gz,ds001894,9.88,f,1.00003050540676,3.0,siemens,trio,85.0,80.7,91.81
+1894_sub-149_ses-T1_T1w,ds001894/sub-149/ses-T1/anat/sub-149_ses-T1_T1w.nii.gz,ds001894,10.57,f,0.999969411425652,3.0,siemens,trio,85.0,75.07,92.89
+1894_sub-152_ses-T1_T1w,ds001894/sub-152/ses-T1/anat/sub-152_ses-T1_T1w.nii.gz,ds001894,10.54,f,0.999927512637818,3.0,siemens,trio,85.0,79.4,93.94
+1894_sub-153_ses-T1_T1w,ds001894/sub-153/ses-T1/anat/sub-153_ses-T1_T1w.nii.gz,ds001894,9.41,m,0.999992334148636,3.0,siemens,trio,85.0,70.79,91.9
+1894_sub-155_ses-T1_T1w,ds001894/sub-155/ses-T1/anat/sub-155_ses-T1_T1w.nii.gz,ds001894,9.61,f,1.00006101151219,3.0,siemens,trio,85.0,74.41,93.05
+1894_sub-156_ses-T1_T1w,ds001894/sub-156/ses-T1/anat/sub-156_ses-T1_T1w.nii.gz,ds001894,9.05,m,0.999969480802748,3.0,siemens,trio,85.0,79.64,92.31
+1894_sub-157_ses-T1_T1w,ds001894/sub-157/ses-T1/anat/sub-157_ses-T1_T1w.nii.gz,ds001894,9.09,f,0.999961861387054,3.0,siemens,trio,85.0,79.96,93.72
+1894_sub-158_ses-T1_T1w,ds001894/sub-158/ses-T1/anat/sub-158_ses-T1_T1w.nii.gz,ds001894,9.68,m,1.00005344587851,3.0,siemens,trio,85.0,72.5,93.29
+1894_sub-159_ses-T1_T1w,ds001894/sub-159/ses-T1/anat/sub-159_ses-T1_T1w.nii.gz,ds001894,8.61,m,0.999992334131484,3.0,siemens,trio,85.0,75.68,93.31
+1894_sub-161_ses-T1_T1w,ds001894/sub-161/ses-T1/anat/sub-161_ses-T1_T1w.nii.gz,ds001894,11.39,f,0.999946524055804,3.0,siemens,trio,85.0,74.54,93.56
+1894_sub-163_ses-T1_T1w,ds001894/sub-163/ses-T1/anat/sub-163_ses-T1_T1w.nii.gz,ds001894,10.29,f,0.999938945833803,3.0,siemens,trio,85.0,73.12,92.38
+1894_sub-165_ses-T1_T1w,ds001894/sub-165/ses-T1/anat/sub-165_ses-T1_T1w.nii.gz,ds001894,9.04,f,0.999939012789158,3.0,siemens,trio,85.0,77.7,91.42
+1894_sub-166_ses-T1_T1w,ds001894/sub-166/ses-T1/anat/sub-166_ses-T1_T1w.nii.gz,ds001894,9.24,f,0.999923699082541,3.0,siemens,trio,85.0,80.93,92.04
+1894_sub-167_ses-T1_T1w,ds001894/sub-167/ses-T1/anat/sub-167_ses-T1_T1w.nii.gz,ds001894,9.47,f,0.999946583774782,3.0,siemens,trio,85.0,62.54,91.52
+1894_sub-168_ses-T1_T1w,ds001894/sub-168/ses-T1/anat/sub-168_ses-T1_T1w.nii.gz,ds001894,10.83,f,0.999992464224828,3.0,siemens,trio,85.0,78.69,91.99
+1894_sub-169_ses-T1_T1w,ds001894/sub-169/ses-T1/anat/sub-169_ses-T1_T1w.nii.gz,ds001894,9.15,m,0.999938943524918,3.0,siemens,trio,85.0,76.96,92.74
+1894_sub-170_ses-T1_T1w,ds001894/sub-170/ses-T1/anat/sub-170_ses-T1_T1w.nii.gz,ds001894,10.15,m,0.99997701176794,3.0,siemens,trio,85.0,75.64,91.82
+1894_sub-173_ses-T1_T1w,ds001894/sub-173/ses-T1/anat/sub-173_ses-T1_T1w.nii.gz,ds001894,8.87,f,1.00000005959995,3.0,siemens,trio,85.0,72.39,93.27
+1894_sub-174_ses-T1_T1w,ds001894/sub-174/ses-T1/anat/sub-174_ses-T1_T1w.nii.gz,ds001894,9.24,f,1.00000766002396,3.0,siemens,trio,85.0,71.12,91.37
+1894_sub-175_ses-T1_T1w,ds001894/sub-175/ses-T1/anat/sub-175_ses-T1_T1w.nii.gz,ds001894,9.53,f,0.999916061126322,3.0,siemens,trio,85.0,75.44,93.64
+1894_sub-176_ses-T1_T1w,ds001894/sub-176/ses-T1/anat/sub-176_ses-T1_T1w.nii.gz,ds001894,8.3,f,0.999954138383412,3.0,siemens,trio,85.0,75.47,93.29
+1894_sub-178_ses-T1_T1w,ds001894/sub-178/ses-T1/anat/sub-178_ses-T1_T1w.nii.gz,ds001894,8.74,f,0.999954210430072,3.0,siemens,trio,85.0,76.9,92.57
+1894_sub-179_ses-T1_T1w,ds001894/sub-179/ses-T1/anat/sub-179_ses-T1_T1w.nii.gz,ds001894,8.19,f,0.99991607170993,3.0,siemens,trio,85.0,72.87,92.11
+1894_sub-180_ses-T1_T1w,ds001894/sub-180/ses-T1/anat/sub-180_ses-T1_T1w.nii.gz,ds001894,8.27,m,0.999931318042752,3.0,siemens,trio,85.0,75.12,92.9
+1894_sub-181_ses-T1_T1w,ds001894/sub-181/ses-T1/anat/sub-181_ses-T1_T1w.nii.gz,ds001894,9.51,f,1.00000765378511,3.0,siemens,trio,85.0,74.31,93.03
+1894_sub-182_ses-T1_T1w,ds001894/sub-182/ses-T1/anat/sub-182_ses-T1_T1w.nii.gz,ds001894,8.87,m,1.00001530885363,3.0,siemens,trio,85.0,78.46,92.49
+1894_sub-183_ses-T1_T1w,ds001894/sub-183/ses-T1/anat/sub-183_ses-T1_T1w.nii.gz,ds001894,9.52,f,1.00002671361582,3.0,siemens,trio,85.0,68.68,92.27
+1894_sub-184_ses-T1_T1w,ds001894/sub-184/ses-T1/anat/sub-184_ses-T1_T1w.nii.gz,ds001894,9.05,f,0.99996187373165,3.0,siemens,trio,85.0,75.68,93.55
+1894_sub-187_ses-T1_T1w,ds001894/sub-187/ses-T1/anat/sub-187_ses-T1_T1w.nii.gz,ds001894,9.81,m,1.00008773803711,3.0,siemens,trio,85.0,74.91,93.57
+1894_sub-188_ses-T1_T1w,ds001894/sub-188/ses-T1/anat/sub-188_ses-T1_T1w.nii.gz,ds001894,8.75,f,0.999980926513672,3.0,siemens,trio,85.0,76.83,93.14
+2116_sub-13_ses-01_T1w,ds002116/sub-13/ses-01/anat/sub-13_ses-01_T1w.nii.gz,ds002116,10.5,m,1.0,3.0,siemens,prisma,85.0,77.63,94.21
+2116_sub-15_ses-01_T1w,ds002116/sub-15/ses-01/anat/sub-15_ses-01_T1w.nii.gz,ds002116,11.5,f,1.00000004606334,3.0,siemens,prisma,85.0,83.08,95.19
+2116_sub-16_ses-01_T1w,ds002116/sub-16/ses-01/anat/sub-16_ses-01_T1w.nii.gz,ds002116,7.5,m,1.0000000597129,3.0,siemens,prisma,85.0,65.59,94.01
+2116_sub-18_ses-01_T1w,ds002116/sub-18/ses-01/anat/sub-18_ses-01_T1w.nii.gz,ds002116,10.5,f,1.00000016719898,3.0,siemens,prisma,85.0,83.28,95.15
+2116_sub-20_ses-01_T1w,ds002116/sub-20/ses-01/anat/sub-20_ses-01_T1w.nii.gz,ds002116,8.5,f,1.0,3.0,siemens,prisma,85.0,81.03,95.36
+2116_sub-21_ses-01_T1w,ds002116/sub-21/ses-01/anat/sub-21_ses-01_T1w.nii.gz,ds002116,9.5,m,1.00000006865815,3.0,siemens,prisma,85.0,81.14,94.5
+2116_sub-22_ses-01_T1w,ds002116/sub-22/ses-01/anat/sub-22_ses-01_T1w.nii.gz,ds002116,11.5,m,0.99999998128665,3.0,siemens,prisma,85.0,83.28,95.93
+2116_sub-25_ses-01_T1w,ds002116/sub-25/ses-01/anat/sub-25_ses-01_T1w.nii.gz,ds002116,6.5,m,1.00000006197892,3.0,siemens,prisma,85.0,76.74,94.64
+2116_sub-27_ses-01_T1w,ds002116/sub-27/ses-01/anat/sub-27_ses-01_T1w.nii.gz,ds002116,7.5,f,1.00000006971546,3.0,siemens,prisma,85.0,84.64,95.27
+2116_sub-28_ses-01_T1w,ds002116/sub-28/ses-01/anat/sub-28_ses-01_T1w.nii.gz,ds002116,7.5,m,1.0,3.0,siemens,prisma,85.0,81.0,95.35
+2116_sub-29_ses-01_T1w,ds002116/sub-29/ses-01/anat/sub-29_ses-01_T1w.nii.gz,ds002116,6.5,m,1.0,3.0,siemens,prisma,85.0,76.89,95.26
+2116_sub-30_ses-01_T1w,ds002116/sub-30/ses-01/anat/sub-30_ses-01_T1w.nii.gz,ds002116,8.5,m,1.00000004791582,3.0,siemens,prisma,85.0,81.02,94.4
+2116_sub-35_ses-01_T1w,ds002116/sub-35/ses-01/anat/sub-35_ses-01_T1w.nii.gz,ds002116,10.5,f,1.0,3.0,siemens,prisma,85.0,84.34,95.93
+2116_sub-36_ses-01_T1w,ds002116/sub-36/ses-01/anat/sub-36_ses-01_T1w.nii.gz,ds002116,6.5,m,1.00000004081707,3.0,siemens,prisma,85.0,79.0,94.95
+2116_sub-37_ses-01_T1w,ds002116/sub-37/ses-01/anat/sub-37_ses-01_T1w.nii.gz,ds002116,7.5,m,1.0,3.0,siemens,prisma,85.0,81.33,94.62
+2116_sub-39_ses-01_T1w,ds002116/sub-39/ses-01/anat/sub-39_ses-01_T1w.nii.gz,ds002116,6.5,f,1.0,3.0,siemens,prisma,85.0,72.24,95.38
+2116_sub-40_ses-01_T1w,ds002116/sub-40/ses-01/anat/sub-40_ses-01_T1w.nii.gz,ds002116,8.5,f,0.999999997038492,3.0,siemens,prisma,85.0,81.48,95.65
+2116_sub-41_ses-01_T1w,ds002116/sub-41/ses-01/anat/sub-41_ses-01_T1w.nii.gz,ds002116,9.5,m,0.99999998128665,3.0,siemens,prisma,85.0,81.6,95.08
+2116_sub-42_ses-01_T1w,ds002116/sub-42/ses-01/anat/sub-42_ses-01_T1w.nii.gz,ds002116,6.5,f,1.00000000649639,3.0,siemens,prisma,85.0,76.93,95.03
+2116_sub-43_ses-01_T1w,ds002116/sub-43/ses-01/anat/sub-43_ses-01_T1w.nii.gz,ds002116,9.5,f,0.99999995660477,3.0,siemens,prisma,85.0,76.48,95.35
+2116_sub-46_ses-01_T1w,ds002116/sub-46/ses-01/anat/sub-46_ses-01_T1w.nii.gz,ds002116,10.5,m,1.0,3.0,siemens,prisma,85.0,71.96,94.88
+2116_sub-47_ses-01_T1w,ds002116/sub-47/ses-01/anat/sub-47_ses-01_T1w.nii.gz,ds002116,7.5,m,1.0,3.0,siemens,prisma,85.0,75.73,94.93
+2116_sub-48_ses-01_T1w,ds002116/sub-48/ses-01/anat/sub-48_ses-01_T1w.nii.gz,ds002116,9.5,m,1.0,3.0,siemens,prisma,85.0,83.41,95.6
+2116_sub-51_ses-01_T1w,ds002116/sub-51/ses-01/anat/sub-51_ses-01_T1w.nii.gz,ds002116,7.5,f,1.0,3.0,siemens,prisma,85.0,82.88,95.23
+2116_sub-52_ses-01_T1w,ds002116/sub-52/ses-01/anat/sub-52_ses-01_T1w.nii.gz,ds002116,8.5,m,1.00000007750461,3.0,siemens,prisma,85.0,82.68,95.56
+2116_sub-54_ses-01_T1w,ds002116/sub-54/ses-01/anat/sub-54_ses-01_T1w.nii.gz,ds002116,6.5,f,1.0000000879741,3.0,siemens,prisma,85.0,80.28,94.99
+2116_sub-56_ses-01_T1w,ds002116/sub-56/ses-01/anat/sub-56_ses-01_T1w.nii.gz,ds002116,6.5,m,1.0000000925987,3.0,siemens,prisma,85.0,82.35,95.33
+2116_sub-57_ses-01_T1w,ds002116/sub-57/ses-01/anat/sub-57_ses-01_T1w.nii.gz,ds002116,6.5,m,1.0000000691244,3.0,siemens,prisma,85.0,59.36,94.02
+2116_sub-59_ses-01_T1w,ds002116/sub-59/ses-01/anat/sub-59_ses-01_T1w.nii.gz,ds002116,6.5,f,1.0,3.0,siemens,prisma,85.0,77.02,95.31
+2116_sub-60_ses-01_T1w,ds002116/sub-60/ses-01/anat/sub-60_ses-01_T1w.nii.gz,ds002116,6.5,f,1.00000002364496,3.0,siemens,prisma,85.0,83.18,94.82
+2116_sub-62_ses-01_T1w,ds002116/sub-62/ses-01/anat/sub-62_ses-01_T1w.nii.gz,ds002116,6.5,m,1.0,3.0,siemens,prisma,85.0,85.07,95.62
+2116_sub-63_ses-01_T1w,ds002116/sub-63/ses-01/anat/sub-63_ses-01_T1w.nii.gz,ds002116,6.5,m,1.0,3.0,siemens,prisma,85.0,84.78,94.56
+2116_sub-64_ses-01_T1w,ds002116/sub-64/ses-01/anat/sub-64_ses-01_T1w.nii.gz,ds002116,6.5,m,1.0000000457768,3.0,siemens,prisma,85.0,79.79,94.88
+2116_sub-65_ses-01_T1w,ds002116/sub-65/ses-01/anat/sub-65_ses-01_T1w.nii.gz,ds002116,6.5,f,1.00000001807796,3.0,siemens,prisma,85.0,84.54,95.14
+2236_sub-01_T1w,ds002236/sub-01/anat/sub-01_T1w.nii.gz,ds002236,8.92,f,1.0547051344254,1.5,general electric,signa excite,84.35,69.68,96.15
+2236_sub-02_T1w,ds002236/sub-02/anat/sub-02_T1w.nii.gz,ds002236,8.92,m,1.05466283433229,1.5,general electric,signa excite,84.35,76.45,96.26
+2236_sub-03_T1w,ds002236/sub-03/anat/sub-03_T1w.nii.gz,ds002236,10.67,m,1.05469476577713,1.5,general electric,signa excite,84.35,72.57,96.13
+2236_sub-05_T1w,ds002236/sub-05/anat/sub-05_T1w.nii.gz,ds002236,10.75,f,1.05468974957183,1.5,general electric,signa excite,84.35,77.21,96.58
+2236_sub-08_T1w,ds002236/sub-08/anat/sub-08_T1w.nii.gz,ds002236,10.83,f,1.05461140765506,1.5,general electric,signa excite,84.35,73.33,96.35
+2236_sub-14_T1w,ds002236/sub-14/anat/sub-14_T1w.nii.gz,ds002236,10.5,f,1.05470088604367,1.5,general electric,signa excite,84.35,72.36,96.41
+2236_sub-19_T1w,ds002236/sub-19/anat/sub-19_T1w.nii.gz,ds002236,11.25,m,1.05461094368254,1.5,general electric,signa excite,84.35,77.34,96.38
+2236_sub-20_T1w,ds002236/sub-20/anat/sub-20_T1w.nii.gz,ds002236,8.83,m,1.05468836857102,1.5,general electric,signa excite,84.35,72.54,96.0
+2236_sub-21_T1w,ds002236/sub-21/anat/sub-21_T1w.nii.gz,ds002236,9.25,f,1.05469644191847,1.5,general electric,signa excite,84.35,74.75,96.46
+2236_sub-22_T1w,ds002236/sub-22/anat/sub-22_T1w.nii.gz,ds002236,8.92,f,1.0547008381326,1.5,general electric,signa excite,84.35,71.04,95.57
+2236_sub-23_T1w,ds002236/sub-23/anat/sub-23_T1w.nii,ds002236,8.67,f,1.05469069974598,1.5,general electric,signa excite,84.35,75.97,97.0
+2236_sub-26_T1w,ds002236/sub-26/anat/sub-26_T1w.nii.gz,ds002236,8.75,f,1.05469714551787,1.5,general electric,signa excite,84.35,72.06,96.19
+2236_sub-27_T1w,ds002236/sub-27/anat/sub-27_T1w.nii.gz,ds002236,10.67,m,1.05469684247172,1.5,general electric,signa excite,84.35,71.78,96.35
+2236_sub-29_T1w,ds002236/sub-29/anat/sub-29_T1w.nii.gz,ds002236,11.0,f,1.05469689174165,1.5,general electric,signa excite,84.35,74.8,95.94
+2236_sub-35_T1w,ds002236/sub-35/anat/sub-35_T1w.nii.gz,ds002236,10.67,m,1.05470193925667,1.5,general electric,signa excite,84.35,76.42,96.69
+2236_sub-37_T1w,ds002236/sub-37/anat/sub-37_T1w.nii.gz,ds002236,10.75,m,1.05469969706807,1.5,general electric,signa excite,84.35,72.49,95.97
+2236_sub-42_T1w,ds002236/sub-42/anat/sub-42_T1w.nii.gz,ds002236,8.67,f,1.05468649417162,1.5,general electric,signa excite,84.35,70.51,96.26
+2236_sub-44_T1w,ds002236/sub-44/anat/sub-44_T1w.nii.gz,ds002236,8.75,m,1.05468817055225,1.5,general electric,signa excite,84.35,74.26,97.07
+2236_sub-49_T1w,ds002236/sub-49/anat/sub-49_T1w.nii.gz,ds002236,9.0,m,1.05464833465176,1.5,general electric,signa excite,84.35,76.49,97.28
+2236_sub-50_T1w,ds002236/sub-50/anat/sub-50_T1w.nii.gz,ds002236,10.75,m,1.05469187455851,1.5,general electric,signa excite,84.35,67.84,96.37
+2236_sub-51_T1w,ds002236/sub-51/anat/sub-51_T1w.nii.gz,ds002236,11.08,f,1.0546761648091,1.5,general electric,signa excite,84.35,77.98,96.99
+2236_sub-54_T1w,ds002236/sub-54/anat/sub-54_T1w.nii.gz,ds002236,10.83,m,1.05468983756994,1.5,general electric,signa excite,84.35,77.47,96.83
+2236_sub-55_T1w,ds002236/sub-55/anat/sub-55_T1w.nii.gz,ds002236,11.17,m,1.05465251820377,1.5,general electric,signa excite,84.35,75.36,96.89
+2236_sub-56_T1w,ds002236/sub-56/anat/sub-56_T1w.nii.gz,ds002236,9.0,m,1.05468773415674,1.5,general electric,signa excite,84.35,74.85,96.85
+2236_sub-58_T1w,ds002236/sub-58/anat/sub-58_T1w.nii.gz,ds002236,11.17,m,1.05469779333808,1.5,general electric,signa excite,84.35,73.46,96.46
+2236_sub-59_T1w,ds002236/sub-59/anat/sub-59_T1w.nii.gz,ds002236,10.67,f,1.05470640581306,1.5,general electric,signa excite,84.35,75.98,96.24
+2236_sub-60_T1w,ds002236/sub-60/anat/sub-60_T1w.nii.gz,ds002236,8.75,f,1.05468863463497,1.5,general electric,signa excite,84.35,76.89,96.55
+2236_sub-61_T1w,ds002236/sub-61/anat/sub-61_T1w.nii.gz,ds002236,10.75,f,1.05471667643293,1.5,general electric,signa excite,84.35,75.01,96.23
+2236_sub-64_T1w,ds002236/sub-64/anat/sub-64_T1w.nii.gz,ds002236,8.72,f,1.0547456160389,1.5,general electric,signa excite,84.35,75.97,96.86
+2236_sub-65_T1w,ds002236/sub-65/anat/sub-65_T1w.nii.gz,ds002236,8.83,f,1.05460913069798,1.5,general electric,signa excite,84.35,75.84,96.8
+2236_sub-66_T1w,ds002236/sub-66/anat/sub-66_T1w.nii.gz,ds002236,11.08,m,1.05468817055225,1.5,general electric,signa excite,84.35,73.49,96.46
+2236_sub-68_T1w,ds002236/sub-68/anat/sub-68_T1w.nii.gz,ds002236,9.33,m,1.05475445485118,1.5,general electric,signa excite,84.35,73.61,96.31
+2236_sub-69_T1w,ds002236/sub-69/anat/sub-69_T1w.nii.gz,ds002236,10.75,m,1.05467948721231,1.5,general electric,signa excite,84.35,75.31,95.78
+2236_sub-70_T1w,ds002236/sub-70/anat/sub-70_T1w.nii.gz,ds002236,10.92,m,1.05468064535639,1.5,general electric,signa excite,84.35,64.54,95.68
+2236_sub-72_T1w,ds002236/sub-72/anat/sub-72_T1w.nii.gz,ds002236,8.92,m,1.05469690686959,1.5,general electric,signa excite,84.35,74.14,96.06
+2236_sub-73_T1w,ds002236/sub-73/anat/sub-73_T1w.nii.gz,ds002236,9.33,m,1.05472595831496,1.5,general electric,signa excite,84.35,70.62,95.93
+2236_sub-75_T1w,ds002236/sub-75/anat/sub-75_T1w.nii.gz,ds002236,10.67,f,1.05470921627315,1.5,general electric,signa excite,84.35,68.65,96.62
+2236_sub-77_T1w,ds002236/sub-77/anat/sub-77_T1w.nii.gz,ds002236,10.67,f,1.05471087084828,1.5,general electric,signa excite,84.35,73.85,96.04
+2236_sub-78_T1w,ds002236/sub-78/anat/sub-78_T1w.nii.gz,ds002236,8.75,m,1.05468481779099,1.5,general electric,signa excite,84.35,76.58,96.04
+2236_sub-79_T1w,ds002236/sub-79/anat/sub-79_T1w.nii.gz,ds002236,11.17,m,1.05468817055225,1.5,general electric,signa excite,84.35,72.61,96.4
+2236_sub-80_T1w,ds002236/sub-80/anat/sub-80_T1w.nii.gz,ds002236,11.17,m,1.05468481779099,1.5,general electric,signa excite,84.35,71.45,96.32
+2236_sub-81_T1w,ds002236/sub-81/anat/sub-81_T1w.nii.gz,ds002236,8.67,m,1.05468817055225,1.5,general electric,signa excite,84.35,75.1,96.02
+2236_sub-82_T1w,ds002236/sub-82/anat/sub-82_T1w.nii.gz,ds002236,8.83,m,1.05469702932481,1.5,general electric,signa excite,84.35,59.44,95.98
+2236_sub-85_T1w,ds002236/sub-85/anat/sub-85_T1w.nii.gz,ds002236,10.92,m,1.05468837956498,1.5,general electric,signa excite,84.35,76.49,96.96
+2236_sub-86_T1w,ds002236/sub-86/anat/sub-86_T1w.nii.gz,ds002236,10.67,f,1.05469149292943,1.5,general electric,signa excite,84.35,71.32,96.22
+2236_sub-89_T1w,ds002236/sub-89/anat/sub-89_T1w.nii.gz,ds002236,11.08,m,1.05468745405426,1.5,general electric,signa excite,84.35,72.21,96.97
+2236_sub-91_T1w,ds002236/sub-91/anat/sub-91_T1w.nii.gz,ds002236,9.17,f,1.05471725201394,1.5,general electric,signa excite,84.35,74.33,96.48
+2424_sub-01_ses-T1_T1w,ds002424/sub-01/ses-T1/anat/sub-01_ses-T1_T1w.nii.gz,ds002424,10.77,m,0.999984694209865,3.0,siemens,trio,85.0,76.23,92.98
+2424_sub-02_ses-T1_T1w,ds002424/sub-02/ses-T1/anat/sub-02_ses-T1_T1w.nii.gz,ds002424,11.9,m,1.00002289875672,3.0,siemens,trio,85.0,77.94,90.55
+2424_sub-03_ses-T1_T1w,ds002424/sub-03/ses-T1/anat/sub-03_ses-T1_T1w.nii.gz,ds002424,11.19,m,0.999935109808638,3.0,siemens,trio,85.0,76.14,90.69
+2424_sub-05_ses-T1_T1w,ds002424/sub-05/ses-T1/anat/sub-05_ses-T1_T1w.nii.gz,ds002424,8.59,m,0.999992400098173,3.0,siemens,trio,85.0,79.55,90.59
+2424_sub-08_ses-T1_T1w,ds002424/sub-08/ses-T1/anat/sub-08_ses-T1_T1w.nii.gz,ds002424,9.34,m,0.999916064630523,3.0,siemens,trio,85.0,72.09,92.1
+2424_sub-09_ses-T1_T1w,ds002424/sub-09/ses-T1/anat/sub-09_ses-T1_T1w.nii.gz,ds002424,11.85,m,1.00001528733766,3.0,siemens,trio,85.0,77.19,92.12
+2424_sub-10_ses-T1_T1w,ds002424/sub-10/ses-T1/anat/sub-10_ses-T1_T1w.nii.gz,ds002424,10.77,m,0.999969473477893,3.0,siemens,trio,85.0,73.37,91.12
+2424_sub-11_ses-T1_T1w,ds002424/sub-11/ses-T1/anat/sub-11_ses-T1_T1w.nii.gz,ds002424,11.38,m,0.999961847023942,3.0,siemens,trio,85.0,75.4,91.4
+2424_sub-12_ses-T1_T1w,ds002424/sub-12/ses-T1/anat/sub-12_ses-T1_T1w.nii.gz,ds002424,10.1,m,0.999973324455524,3.0,siemens,trio,85.0,70.98,90.96
+2424_sub-13_ses-T1_T1w,ds002424/sub-13/ses-T1/anat/sub-13_ses-T1_T1w.nii.gz,ds002424,9.97,m,0.999992370605468,3.0,siemens,trio,85.0,75.59,89.23
+2424_sub-14_ses-T1_T1w,ds002424/sub-14/ses-T1/anat/sub-14_ses-T1_T1w.nii.gz,ds002424,10.69,m,0.999984718511057,3.0,siemens,trio,85.0,72.54,90.53
+2424_sub-16_ses-T1_T1w,ds002424/sub-16/ses-T1/anat/sub-16_ses-T1_T1w.nii.gz,ds002424,9.66,f,0.999969537896692,3.0,siemens,trio,85.0,76.93,91.27
+2424_sub-17_ses-T1_T1w,ds002424/sub-17/ses-T1/anat/sub-17_ses-T1_T1w.nii.gz,ds002424,9.32,m,1.00004577636719,3.0,siemens,trio,85.0,74.01,90.36
+2424_sub-18_ses-T1_T1w,ds002424/sub-18/ses-T1/anat/sub-18_ses-T1_T1w.nii.gz,ds002424,9.59,f,1.00001524377295,3.0,siemens,trio,85.0,77.7,91.3
+2424_sub-19_ses-T1_T1w,ds002424/sub-19/ses-T1/anat/sub-19_ses-T1_T1w.nii.gz,ds002424,10.72,f,0.999980770999741,3.0,siemens,trio,85.0,76.13,91.6
+2424_sub-20_ses-T1_T1w,ds002424/sub-20/ses-T1/anat/sub-20_ses-T1_T1w.nii.gz,ds002424,9.09,m,0.999973254361484,3.0,siemens,trio,85.0,67.88,90.71
+2424_sub-21_ses-T1_T1w,ds002424/sub-21/ses-T1/anat/sub-21_ses-T1_T1w.nii.gz,ds002424,9.09,f,1.00001518971011,3.0,siemens,trio,85.0,72.41,90.88
+2424_sub-22_ses-T1_T1w,ds002424/sub-22/ses-T1/anat/sub-22_ses-T1_T1w.nii.gz,ds002424,11.09,m,0.99995416836231,3.0,siemens,trio,85.0,75.8,89.6
+2424_sub-23_ses-T1_T1w,ds002424/sub-23/ses-T1/anat/sub-23_ses-T1_T1w.nii.gz,ds002424,11.08,f,1.00000764012893,3.0,siemens,trio,85.0,75.76,91.86
+2424_sub-24_ses-T1_T1w,ds002424/sub-24/ses-T1/anat/sub-24_ses-T1_T1w.nii.gz,ds002424,10.24,m,0.999984741210938,3.0,siemens,trio,85.0,76.16,92.18
+2424_sub-26_ses-T1_T1w,ds002424/sub-26/ses-T1/anat/sub-26_ses-T1_T1w.nii.gz,ds002424,11.67,f,0.999977139528818,3.0,siemens,trio,85.0,72.96,91.14
+2424_sub-27_ses-T1_T1w,ds002424/sub-27/ses-T1/anat/sub-27_ses-T1_T1w.nii.gz,ds002424,10.06,f,1.00007629394531,3.0,siemens,trio,85.0,76.93,91.09
+2424_sub-28_ses-T1_T1w,ds002424/sub-28/ses-T1/anat/sub-28_ses-T1_T1w.nii.gz,ds002424,9.3,f,0.999977142621817,3.0,siemens,trio,85.0,76.73,91.02
+2424_sub-29_ses-T1_T1w,ds002424/sub-29/ses-T1/anat/sub-29_ses-T1_T1w.nii.gz,ds002424,10.21,m,0.999984741210938,3.0,siemens,trio,85.0,74.22,92.96
+2424_sub-30_ses-T1_T1w,ds002424/sub-30/ses-T1/anat/sub-30_ses-T1_T1w.nii.gz,ds002424,9.05,m,1.00001526676004,3.0,siemens,trio,85.0,77.6,90.88
+2424_sub-31_ses-T1_T1w,ds002424/sub-31/ses-T1/anat/sub-31_ses-T1_T1w.nii.gz,ds002424,11.63,m,1.00003054460201,3.0,siemens,trio,85.0,75.02,91.73
+2424_sub-32_ses-T1_T1w,ds002424/sub-32/ses-T1/anat/sub-32_ses-T1_T1w.nii.gz,ds002424,9.85,m,0.999969587224499,3.0,siemens,trio,85.0,75.59,91.58
+2424_sub-33_ses-T1_T1w,ds002424/sub-33/ses-T1/anat/sub-33_ses-T1_T1w.nii.gz,ds002424,10.01,m,0.999965667724609,3.0,siemens,trio,85.0,78.61,90.6
+2424_sub-34_ses-T1_T1w,ds002424/sub-34/ses-T1/anat/sub-34_ses-T1_T1w.nii.gz,ds002424,9.09,m,0.999969482421875,3.0,siemens,trio,85.0,79.31,92.97
+2424_sub-35_ses-T1_T1w,ds002424/sub-35/ses-T1/anat/sub-35_ses-T1_T1w.nii.gz,ds002424,10.54,m,0.999893182155164,3.0,siemens,trio,85.0,77.69,91.3
+2424_sub-36_ses-T1_T1w,ds002424/sub-36/ses-T1/anat/sub-36_ses-T1_T1w.nii.gz,ds002424,10.54,m,0.9999847276019,3.0,siemens,trio,85.0,71.43,91.83
+2424_sub-37_ses-T1_T1w,ds002424/sub-37/ses-T1/anat/sub-37_ses-T1_T1w.nii.gz,ds002424,9.91,m,0.99997706120361,3.0,siemens,trio,85.0,73.83,90.64
+2424_sub-38_ses-T1_T1w,ds002424/sub-38/ses-T1/anat/sub-38_ses-T1_T1w.nii.gz,ds002424,11.67,m,0.999950409402471,3.0,siemens,trio,85.0,76.36,89.15
+2424_sub-39_ses-T1_T1w,ds002424/sub-39/ses-T1/anat/sub-39_ses-T1_T1w.nii.gz,ds002424,11.39,m,1.00004195710944,3.0,siemens,trio,85.0,71.58,93.26
+2424_sub-40_ses-T1_T1w,ds002424/sub-40/ses-T1/anat/sub-40_ses-T1_T1w.nii.gz,ds002424,11.2,m,0.999931414604147,3.0,siemens,trio,85.0,75.52,90.38
+2424_sub-41_ses-T1_T1w,ds002424/sub-41/ses-T1/anat/sub-41_ses-T1_T1w.nii.gz,ds002424,11.83,f,0.999992370605469,3.0,siemens,trio,85.0,76.41,91.71
+2424_sub-42_ses-T1_T1w,ds002424/sub-42/ses-T1/anat/sub-42_ses-T1_T1w.nii.gz,ds002424,9.51,f,0.999977111816406,3.0,siemens,trio,85.0,74.86,93.36
+2424_sub-43_ses-T1_T1w,ds002424/sub-43/ses-T1/anat/sub-43_ses-T1_T1w.nii.gz,ds002424,9.8,m,0.999969482421875,3.0,siemens,trio,85.0,77.92,89.72
+2424_sub-44_ses-T1_T1w,ds002424/sub-44/ses-T1/anat/sub-44_ses-T1_T1w.nii.gz,ds002424,9.18,m,1.0,3.0,siemens,trio,85.0,75.36,92.34
+2424_sub-45_ses-T1_T1w,ds002424/sub-45/ses-T1/anat/sub-45_ses-T1_T1w.nii.gz,ds002424,8.88,f,0.999977111816406,3.0,siemens,trio,85.0,76.2,90.72
+2424_sub-46_ses-T1_T1w,ds002424/sub-46/ses-T1/anat/sub-46_ses-T1_T1w.nii.gz,ds002424,10.21,m,0.999988535243346,3.0,siemens,trio,85.0,75.04,89.99
+2424_sub-47_ses-T1_T1w,ds002424/sub-47/ses-T1/anat/sub-47_ses-T1_T1w.nii.gz,ds002424,11.82,f,0.999992370605468,3.0,siemens,trio,85.0,80.15,90.65
+2424_sub-48_ses-T1_T1w,ds002424/sub-48/ses-T1/anat/sub-48_ses-T1_T1w.nii.gz,ds002424,11.93,m,0.999961874184134,3.0,siemens,trio,85.0,80.98,90.86
+2424_sub-50_ses-T1_T1w,ds002424/sub-50/ses-T1/anat/sub-50_ses-T1_T1w.nii.gz,ds002424,9.24,m,0.999893188476563,3.0,siemens,trio,85.0,76.48,92.16
+2424_sub-51_ses-T1_T1w,ds002424/sub-51/ses-T1/anat/sub-51_ses-T1_T1w.nii.gz,ds002424,9.63,m,1.0,3.0,siemens,trio,85.0,72.26,89.68
+2424_sub-52_ses-T1_T1w,ds002424/sub-52/ses-T1/anat/sub-52_ses-T1_T1w.nii.gz,ds002424,11.39,f,0.999984741210938,3.0,siemens,trio,85.0,76.85,91.07
+2424_sub-53_ses-T1_T1w,ds002424/sub-53/ses-T1/anat/sub-53_ses-T1_T1w.nii.gz,ds002424,11.27,m,0.999984736956668,3.0,siemens,trio,85.0,78.2,89.9
+2424_sub-54_ses-T1_T1w,ds002424/sub-54/ses-T1/anat/sub-54_ses-T1_T1w.nii.gz,ds002424,10.03,m,1.00002288818359,3.0,siemens,trio,85.0,76.6,90.9
+2424_sub-55_ses-T1_T1w,ds002424/sub-55/ses-T1/anat/sub-55_ses-T1_T1w.nii.gz,ds002424,9.06,m,0.999969482421875,3.0,siemens,trio,85.0,67.26,90.61
+2424_sub-56_ses-T1_T1w,ds002424/sub-56/ses-T1/anat/sub-56_ses-T1_T1w.nii.gz,ds002424,11.17,m,1.00003819983179,3.0,siemens,trio,85.0,73.01,91.43
+2424_sub-57_ses-T1_T1w,ds002424/sub-57/ses-T1/anat/sub-57_ses-T1_T1w.nii.gz,ds002424,11.28,m,1.00006866455078,3.0,siemens,trio,85.0,73.06,91.76
+2424_sub-58_ses-T1_T1w,ds002424/sub-58/ses-T1/anat/sub-58_ses-T1_T1w.nii.gz,ds002424,11.68,m,0.999984758987365,3.0,siemens,trio,85.0,77.73,93.36
+2424_sub-59_ses-T1_T1w,ds002424/sub-59/ses-T1/anat/sub-59_ses-T1_T1w.nii.gz,ds002424,9.82,m,0.999999997199187,3.0,siemens,trio,85.0,68.85,89.78
+2424_sub-60_ses-T1_T1w,ds002424/sub-60/ses-T1/anat/sub-60_ses-T1_T1w.nii.gz,ds002424,8.74,m,0.999984710360152,3.0,siemens,trio,85.0,75.53,90.53
+2424_sub-61_ses-T1_T1w,ds002424/sub-61/ses-T1/anat/sub-61_ses-T1_T1w.nii.gz,ds002424,11.63,m,1.00001529012769,3.0,siemens,trio,85.0,75.81,93.34
+2424_sub-62_ses-T1_T1w,ds002424/sub-62/ses-T1/anat/sub-62_ses-T1_T1w.nii.gz,ds002424,11.83,m,1.00000762939453,3.0,siemens,trio,85.0,65.87,90.88
+2424_sub-63_ses-T1_T1w,ds002424/sub-63/ses-T1/anat/sub-63_ses-T1_T1w.nii.gz,ds002424,9.98,m,1.00004578033779,3.0,siemens,trio,85.0,77.02,91.09
+2424_sub-64_ses-T1_T1w,ds002424/sub-64/ses-T1/anat/sub-64_ses-T1_T1w.nii.gz,ds002424,9.79,m,0.999961853027343,3.0,siemens,trio,85.0,74.07,91.43
+2424_sub-65_ses-T1_T1w,ds002424/sub-65/ses-T1/anat/sub-65_ses-T1_T1w.nii.gz,ds002424,9.35,m,1.00000762939453,3.0,siemens,trio,85.0,68.97,92.17
+2424_sub-66_ses-T1_T1w,ds002424/sub-66/ses-T1/anat/sub-66_ses-T1_T1w.nii.gz,ds002424,11.13,m,0.999900817871094,3.0,siemens,trio,85.0,80.18,90.22
+2424_sub-67_ses-T1_T1w,ds002424/sub-67/ses-T1/anat/sub-67_ses-T1_T1w.nii.gz,ds002424,10.54,m,1.00002288818359,3.0,siemens,trio,85.0,67.31,90.81
+2424_sub-68_ses-T1_T1w,ds002424/sub-68/ses-T1/anat/sub-68_ses-T1_T1w.nii.gz,ds002424,10.66,m,0.999931318081038,3.0,siemens,trio,85.0,74.17,91.0
+2424_sub-69_ses-T1_T1w,ds002424/sub-69/ses-T1/anat/sub-69_ses-T1_T1w.nii.gz,ds002424,10.65,m,0.999992380353609,3.0,siemens,trio,85.0,77.8,91.87
+2424_sub-71_ses-T1_T1w,ds002424/sub-71/ses-T1/anat/sub-71_ses-T1_T1w.nii.gz,ds002424,9.38,m,0.999977111816406,3.0,siemens,trio,85.0,73.42,92.38
+2424_sub-72_ses-T1_T1w,ds002424/sub-72/ses-T1/anat/sub-72_ses-T1_T1w.nii.gz,ds002424,10.05,m,1.00002288818359,3.0,siemens,trio,85.0,75.37,90.85
+2424_sub-73_ses-T1_T1w,ds002424/sub-73/ses-T1/anat/sub-73_ses-T1_T1w.nii.gz,ds002424,10.59,m,1.00003814697266,3.0,siemens,trio,85.0,75.86,91.12
+2424_sub-74_ses-T1_T1w,ds002424/sub-74/ses-T1/anat/sub-74_ses-T1_T1w.nii.gz,ds002424,9.67,m,0.999931335449219,3.0,siemens,trio,85.0,75.28,91.37
+2424_sub-77_ses-T1_T1w,ds002424/sub-77/ses-T1/anat/sub-77_ses-T1_T1w.nii.gz,ds002424,11.96,m,0.999984741210938,3.0,siemens,trio,85.0,71.31,91.18
+2424_sub-78_ses-T1_T1w,ds002424/sub-78/ses-T1/anat/sub-78_ses-T1_T1w.nii.gz,ds002424,11.31,m,0.999923706054687,3.0,siemens,trio,85.0,71.06,91.06
+2424_sub-79_ses-T1_T1w,ds002424/sub-79/ses-T1/anat/sub-79_ses-T1_T1w.nii.gz,ds002424,9.55,m,0.99993896484375,3.0,siemens,trio,85.0,80.66,91.4
+2886_sub-002_ses-T1_T1w,ds002886/sub-002/ses-T1/anat/sub-002_ses-T1_T1w.nii.gz,ds002886,9.23,f,1.00002293882861,3.0,siemens,trio,85.0,74.73,90.45
+2886_sub-003_ses-T1_T1w,ds002886/sub-003/ses-T1/anat/sub-003_ses-T1_T1w.nii.gz,ds002886,10.68,f,0.999996285683027,3.0,siemens,trio,85.0,82.57,92.29
+2886_sub-004_ses-T1_T1w,ds002886/sub-004/ses-T1/anat/sub-004_ses-T1_T1w.nii.gz,ds002886,9.93,f,0.999939002478211,3.0,siemens,trio,85.0,80.54,91.8
+2886_sub-005_ses-T1_T1w,ds002886/sub-005/ses-T1/anat/sub-005_ses-T1_T1w.nii.gz,ds002886,11.98,m,1.00000763306444,3.0,siemens,trio,85.0,72.26,90.14
+2886_sub-006_ses-T1_T1w,ds002886/sub-006/ses-T1/anat/sub-006_ses-T1_T1w.nii.gz,ds002886,8.9,f,1.00001535684062,3.0,siemens,trio,85.0,75.81,93.67
+2886_sub-007_ses-T1_T1w,ds002886/sub-007/ses-T1/anat/sub-007_ses-T1_T1w.nii.gz,ds002886,10.32,f,1.00008381406841,3.0,siemens,trio,85.0,76.38,91.61
+2886_sub-009_ses-T1_T1w,ds002886/sub-009/ses-T1/anat/sub-009_ses-T1_T1w.nii.gz,ds002886,8.47,f,0.999984859824231,3.0,siemens,trio,85.0,81.61,91.32
+2886_sub-010_ses-T1_T1w,ds002886/sub-010/ses-T1/anat/sub-010_ses-T1_T1w.nii.gz,ds002886,10.62,m,0.999969568333491,3.0,siemens,trio,85.0,81.22,90.64
+2886_sub-011_ses-T1_T1w,ds002886/sub-011/ses-T1/anat/sub-011_ses-T1_T1w.nii.gz,ds002886,9.45,f,0.99993121156222,3.0,siemens,trio,85.0,82.04,92.62
+2886_sub-017_ses-T1_T1w,ds002886/sub-017/ses-T1/anat/sub-017_ses-T1_T1w.nii.gz,ds002886,9.45,f,0.999969422876426,3.0,siemens,trio,85.0,77.07,92.53
+2886_sub-019_ses-T1_T1w,ds002886/sub-019/ses-T1/anat/sub-019_ses-T1_T1w.nii.gz,ds002886,11.3,m,1.00001520535431,3.0,siemens,trio,85.0,77.13,93.24
+2886_sub-020_ses-T1_T1w,ds002886/sub-020/ses-T1/anat/sub-020_ses-T1_T1w.nii.gz,ds002886,10.98,m,1.00001529207472,3.0,siemens,trio,85.0,75.99,91.82
+2886_sub-021_ses-T1_T1w,ds002886/sub-021/ses-T1/anat/sub-021_ses-T1_T1w.nii.gz,ds002886,10.08,f,0.999919862063083,3.0,siemens,trio,85.0,72.26,93.37
+2886_sub-023_ses-T1_T1w,ds002886/sub-023/ses-T1/anat/sub-023_ses-T1_T1w.nii.gz,ds002886,11.38,m,0.999992359333781,3.0,siemens,trio,85.0,79.41,90.05
+2886_sub-025_ses-T1_T1w,ds002886/sub-025/ses-T1/anat/sub-025_ses-T1_T1w.nii.gz,ds002886,11.99,m,0.99989322531368,3.0,siemens,trio,85.0,76.93,91.79
+2886_sub-030_ses-T1_T1w,ds002886/sub-030/ses-T1/anat/sub-030_ses-T1_T1w.nii.gz,ds002886,11.39,f,0.999950399987559,3.0,siemens,trio,85.0,76.57,92.21
+2886_sub-031_ses-T1_T1w,ds002886/sub-031/ses-T1/anat/sub-031_ses-T1_T1w.nii.gz,ds002886,11.52,f,1.00003052585288,3.0,siemens,trio,85.0,75.24,93.3
+2886_sub-035_ses-T1_T1w,ds002886/sub-035/ses-T1/anat/sub-035_ses-T1_T1w.nii.gz,ds002886,10.94,m,1.00004574276642,3.0,siemens,trio,85.0,71.58,92.13
+2886_sub-036_ses-T1_T1w,ds002886/sub-036/ses-T1/anat/sub-036_ses-T1_T1w.nii.gz,ds002886,10.12,m,0.999923642802375,3.0,siemens,trio,85.0,80.4,91.35
+2886_sub-041_ses-T1_T1w,ds002886/sub-041/ses-T1/anat/sub-041_ses-T1_T1w.nii.gz,ds002886,9.23,f,0.999977131295928,3.0,siemens,trio,85.0,78.13,93.27
+2886_sub-044_ses-T1_T1w,ds002886/sub-044/ses-T1/anat/sub-044_ses-T1_T1w.nii.gz,ds002886,11.49,f,0.99998853839831,3.0,siemens,trio,85.0,85.38,93.26
+2886_sub-045_ses-T1_T1w,ds002886/sub-045/ses-T1/anat/sub-045_ses-T1_T1w.nii.gz,ds002886,9.78,f,0.999961800034527,3.0,siemens,trio,85.0,78.53,93.42
+2886_sub-047_ses-T1_T1w,ds002886/sub-047/ses-T1/anat/sub-047_ses-T1_T1w.nii.gz,ds002886,10.44,f,0.999954214499769,3.0,siemens,trio,85.0,76.71,92.12
+2886_sub-048_ses-T1_T1w,ds002886/sub-048/ses-T1/anat/sub-048_ses-T1_T1w.nii.gz,ds002886,10.6,m,0.999946554419992,3.0,siemens,trio,85.0,82.29,92.5
+2886_sub-049_ses-T1_T1w,ds002886/sub-049/ses-T1/anat/sub-049_ses-T1_T1w.nii.gz,ds002886,10.97,f,0.999954177368489,3.0,siemens,trio,85.0,80.44,92.2
+2886_sub-055_ses-T1_T1w,ds002886/sub-055/ses-T1/anat/sub-055_ses-T1_T1w.nii.gz,ds002886,11.09,m,0.999954200238737,3.0,siemens,trio,85.0,75.53,92.94
+2886_sub-056_ses-T1_T1w,ds002886/sub-056/ses-T1/anat/sub-056_ses-T1_T1w.nii.gz,ds002886,10.14,f,0.999999847151234,3.0,siemens,trio,85.0,75.29,93.32
+2886_sub-057_ses-T1_T1w,ds002886/sub-057/ses-T1/anat/sub-057_ses-T1_T1w.nii.gz,ds002886,9.54,m,0.999938975530545,3.0,siemens,trio,85.0,77.61,92.13
+2886_sub-060_ses-T1_T1w,ds002886/sub-060/ses-T1/anat/sub-060_ses-T1_T1w.nii.gz,ds002886,10.92,m,1.00002672771658,3.0,siemens,trio,85.0,79.2,92.74
+2886_sub-061_ses-T1_T1w,ds002886/sub-061/ses-T1/anat/sub-061_ses-T1_T1w.nii.gz,ds002886,11.25,m,1.00001524720304,3.0,siemens,trio,85.0,75.26,92.46
+2886_sub-063_ses-T1_T1w,ds002886/sub-063/ses-T1/anat/sub-063_ses-T1_T1w.nii.gz,ds002886,11.0,m,0.99990081752187,3.0,siemens,trio,85.0,78.23,92.68
+2886_sub-064_ses-T1_T1w,ds002886/sub-064/ses-T1/anat/sub-064_ses-T1_T1w.nii.gz,ds002886,9.01,f,1.00004580214915,3.0,siemens,trio,85.0,78.78,92.35
+2886_sub-066_ses-T1_T1w,ds002886/sub-066/ses-T1/anat/sub-066_ses-T1_T1w.nii.gz,ds002886,9.43,f,0.999969469926004,3.0,siemens,trio,85.0,80.55,90.93
+2886_sub-071_ses-T1_T1w,ds002886/sub-071/ses-T1/anat/sub-071_ses-T1_T1w.nii.gz,ds002886,8.64,m,0.999969468264604,3.0,siemens,trio,85.0,72.47,92.31
+2886_sub-073_ses-T1_T1w,ds002886/sub-073/ses-T1/anat/sub-073_ses-T1_T1w.nii.gz,ds002886,9.97,f,1.00003049414535,3.0,siemens,trio,85.0,79.82,92.82
+2886_sub-080_ses-T1_T1w,ds002886/sub-080/ses-T1/anat/sub-080_ses-T1_T1w.nii.gz,ds002886,9.34,f,0.99991989907398,3.0,siemens,trio,85.0,75.92,92.72
+3126_sub-047EPKL011012_ses-1_T1w,ds003126/sub-047EPKL011012/ses-1/anat/sub-047EPKL011012_ses-1_T1w.nii.gz,ds003126,9.5,f,0.999998752229786,3.0,siemens,skyra,85.0,80.98,93.6
+3126_sub-047EPKL011041_ses-1_T1w,ds003126/sub-047EPKL011041/ses-1/anat/sub-047EPKL011041_ses-1_T1w.nii.gz,ds003126,9.5,m,0.999998428492365,3.0,siemens,skyra,85.0,80.2,92.22
+3126_sub-047EPKL011047_ses-1_T1w,ds003126/sub-047EPKL011047/ses-1/anat/sub-047EPKL011047_ses-1_T1w.nii.gz,ds003126,9.5,f,1.00000271078517,3.0,siemens,skyra,85.0,80.11,92.75
+3126_sub-047EPKL011049_ses-1_T1w,ds003126/sub-047EPKL011049/ses-1/anat/sub-047EPKL011049_ses-1_T1w.nii.gz,ds003126,9.5,m,0.999998111112321,3.0,siemens,skyra,85.0,77.9,91.86
+3126_sub-047EPKL011051_ses-1_T1w,ds003126/sub-047EPKL011051/ses-1/anat/sub-047EPKL011051_ses-1_T1w.nii.gz,ds003126,9.5,m,0.99999730959623,3.0,siemens,skyra,85.0,81.75,92.25
+3126_sub-047EPKL011056_ses-1_T1w,ds003126/sub-047EPKL011056/ses-1/anat/sub-047EPKL011056_ses-1_T1w.nii.gz,ds003126,9.5,m,0.999996677717252,3.0,siemens,skyra,85.0,81.27,91.9
+3126_sub-047EPKL011058_ses-1_T1w,ds003126/sub-047EPKL011058/ses-1/anat/sub-047EPKL011058_ses-1_T1w.nii.gz,ds003126,9.5,f,1.00000680728016,3.0,siemens,skyra,85.0,80.94,92.42
+3126_sub-047EPKL011059_ses-1_T1w,ds003126/sub-047EPKL011059/ses-1/anat/sub-047EPKL011059_ses-1_T1w.nii.gz,ds003126,8.5,m,0.999998052154226,3.0,siemens,skyra,85.0,79.2,91.93
+3126_sub-047EPKL011060_ses-1_T1w,ds003126/sub-047EPKL011060/ses-1/anat/sub-047EPKL011060_ses-1_T1w.nii.gz,ds003126,8.5,m,0.999996840606858,3.0,siemens,skyra,85.0,78.95,90.84
+3126_sub-047EPKL011068_ses-1_T1w,ds003126/sub-047EPKL011068/ses-1/anat/sub-047EPKL011068_ses-1_T1w.nii.gz,ds003126,9.5,m,0.999998238726422,3.0,siemens,skyra,85.0,80.66,92.11
+3126_sub-047EPKL012014_ses-1_T1w,ds003126/sub-047EPKL012014/ses-1/anat/sub-047EPKL012014_ses-1_T1w.nii.gz,ds003126,9.5,f,0.999995437522862,3.0,siemens,skyra,85.0,82.23,91.8
+3126_sub-047EPKL012015_ses-1_T1w,ds003126/sub-047EPKL012015/ses-1/anat/sub-047EPKL012015_ses-1_T1w.nii.gz,ds003126,9.5,f,1.0000028757009,3.0,siemens,skyra,85.0,79.51,91.81
+3126_sub-047EPKL012017_ses-1_T1w,ds003126/sub-047EPKL012017/ses-1/anat/sub-047EPKL012017_ses-1_T1w.nii.gz,ds003126,9.5,f,0.99999993388351,3.0,siemens,skyra,85.0,80.04,92.35
+3126_sub-047EPKL012069_ses-1_T1w,ds003126/sub-047EPKL012069/ses-1/anat/sub-047EPKL012069_ses-1_T1w.nii.gz,ds003126,10.5,f,1.00000462325161,3.0,siemens,skyra,85.0,81.48,91.27
+3126_sub-047EPKL012073_ses-1_T1w,ds003126/sub-047EPKL012073/ses-1/anat/sub-047EPKL012073_ses-1_T1w.nii.gz,ds003126,9.5,m,0.999999873913368,3.0,siemens,skyra,85.0,79.44,92.52
+3126_sub-047EPKL012074_ses-1_T1w,ds003126/sub-047EPKL012074/ses-1/anat/sub-047EPKL012074_ses-1_T1w.nii.gz,ds003126,9.5,m,1.0000021176692,3.0,siemens,skyra,85.0,81.73,91.14
+3126_sub-047EPKL013003_ses-1_T1w,ds003126/sub-047EPKL013003/ses-1/anat/sub-047EPKL013003_ses-1_T1w.nii.gz,ds003126,9.5,m,0.999996701085825,3.0,siemens,skyra,85.0,80.31,91.94
+3126_sub-047EPKL013013_ses-1_T1w,ds003126/sub-047EPKL013013/ses-1/anat/sub-047EPKL013013_ses-1_T1w.nii.gz,ds003126,10.5,f,0.999999666944331,3.0,siemens,skyra,85.0,81.43,91.22
+3126_sub-047EPKL013016_ses-1_T1w,ds003126/sub-047EPKL013016/ses-1/anat/sub-047EPKL013016_ses-1_T1w.nii.gz,ds003126,9.5,f,0.999998340033556,3.0,siemens,skyra,85.0,80.28,91.02
+3126_sub-047EPKL013019_ses-1_T1w,ds003126/sub-047EPKL013019/ses-1/anat/sub-047EPKL013019_ses-1_T1w.nii.gz,ds003126,10.5,m,0.999997968854293,3.0,siemens,skyra,85.0,81.02,91.83
+3126_sub-047EPKL013023_ses-1_T1w,ds003126/sub-047EPKL013023/ses-1/anat/sub-047EPKL013023_ses-1_T1w.nii.gz,ds003126,10.5,m,0.999994783366834,3.0,siemens,skyra,85.0,80.92,91.28
+3126_sub-047EPKL013025_ses-1_T1w,ds003126/sub-047EPKL013025/ses-1/anat/sub-047EPKL013025_ses-1_T1w.nii.gz,ds003126,9.5,m,0.999997891223613,3.0,siemens,skyra,85.0,78.45,92.01
+3126_sub-047EPKL013028_ses-1_T1w,ds003126/sub-047EPKL013028/ses-1/anat/sub-047EPKL013028_ses-1_T1w.nii.gz,ds003126,9.5,m,0.99999788946584,3.0,siemens,skyra,85.0,81.7,91.74
+3126_sub-047EPKL013033_ses-1_T1w,ds003126/sub-047EPKL013033/ses-1/anat/sub-047EPKL013033_ses-1_T1w.nii.gz,ds003126,9.5,f,0.999997717060458,3.0,siemens,skyra,85.0,82.08,92.77
+3126_sub-047EPKL013034_ses-1_T1w,ds003126/sub-047EPKL013034/ses-1/anat/sub-047EPKL013034_ses-1_T1w.nii.gz,ds003126,10.5,m,1.00000399028132,3.0,siemens,skyra,85.0,80.94,93.87
+3126_sub-047EPKL013035_ses-1_T1w,ds003126/sub-047EPKL013035/ses-1/anat/sub-047EPKL013035_ses-1_T1w.nii.gz,ds003126,9.5,m,1.0000013177135,3.0,siemens,skyra,85.0,80.71,92.25
+3126_sub-047EPKL013046_ses-1_T1w,ds003126/sub-047EPKL013046/ses-1/anat/sub-047EPKL013046_ses-1_T1w.nii.gz,ds003126,9.5,f,1.00000400177981,3.0,siemens,skyra,85.0,79.64,93.65
+3126_sub-047EPKL013053_ses-1_T1w,ds003126/sub-047EPKL013053/ses-1/anat/sub-047EPKL013053_ses-1_T1w.nii.gz,ds003126,9.5,f,1.0000039854213,3.0,siemens,skyra,85.0,81.65,92.07
+3126_sub-047EPKL013057_ses-1_T1w,ds003126/sub-047EPKL013057/ses-1/anat/sub-047EPKL013057_ses-1_T1w.nii.gz,ds003126,8.5,m,1.00000055831435,3.0,siemens,skyra,85.0,80.19,92.43
+3126_sub-047EPKL013061_ses-1_T1w,ds003126/sub-047EPKL013061/ses-1/anat/sub-047EPKL013061_ses-1_T1w.nii.gz,ds003126,9.5,f,1.00000232668087,3.0,siemens,skyra,85.0,79.99,92.37
+3126_sub-047EPKL013064_ses-1_T1w,ds003126/sub-047EPKL013064/ses-1/anat/sub-047EPKL013064_ses-1_T1w.nii.gz,ds003126,8.5,m,1.00000138053345,3.0,siemens,skyra,85.0,80.79,92.69
+3126_sub-047EPKL013065_ses-1_T1w,ds003126/sub-047EPKL013065/ses-1/anat/sub-047EPKL013065_ses-1_T1w.nii.gz,ds003126,9.5,m,0.999995411231923,3.0,siemens,skyra,85.0,81.03,92.86
+3126_sub-047EPKL014007_ses-1_T1w,ds003126/sub-047EPKL014007/ses-1/anat/sub-047EPKL014007_ses-1_T1w.nii.gz,ds003126,9.5,f,1.00000056744632,3.0,siemens,skyra,85.0,79.89,91.48
+3126_sub-047EPKL014008_ses-1_T1w,ds003126/sub-047EPKL014008/ses-1/anat/sub-047EPKL014008_ses-1_T1w.nii.gz,ds003126,9.5,f,0.999998172590266,3.0,siemens,skyra,85.0,81.44,91.89
+3126_sub-047EPKL014010_ses-1_T1w,ds003126/sub-047EPKL014010/ses-1/anat/sub-047EPKL014010_ses-1_T1w.nii.gz,ds003126,9.5,f,1.00000085927791,3.0,siemens,skyra,85.0,79.74,92.75
+3126_sub-047EPKL014020_ses-1_T1w,ds003126/sub-047EPKL014020/ses-1/anat/sub-047EPKL014020_ses-1_T1w.nii.gz,ds003126,9.5,m,0.999996665094237,3.0,siemens,skyra,85.0,80.86,90.73
+3126_sub-047EPKL014024_ses-1_T1w,ds003126/sub-047EPKL014024/ses-1/anat/sub-047EPKL014024_ses-1_T1w.nii.gz,ds003126,9.5,m,0.999999445682269,3.0,siemens,skyra,85.0,78.84,92.55
+3126_sub-047EPKL014026_ses-1_T1w,ds003126/sub-047EPKL014026/ses-1/anat/sub-047EPKL014026_ses-1_T1w.nii.gz,ds003126,9.5,m,0.999996571603308,3.0,siemens,skyra,85.0,81.06,92.02
+3126_sub-047EPKL014029_ses-1_T1w,ds003126/sub-047EPKL014029/ses-1/anat/sub-047EPKL014029_ses-1_T1w.nii.gz,ds003126,9.5,m,1.000002921205,3.0,siemens,skyra,85.0,81.55,89.64
+3126_sub-047EPKL014031_ses-1_T1w,ds003126/sub-047EPKL014031/ses-1/anat/sub-047EPKL014031_ses-1_T1w.nii.gz,ds003126,9.5,f,1.00000000500993,3.0,siemens,skyra,85.0,80.34,92.84
+3126_sub-047EPKL014036_ses-1_T1w,ds003126/sub-047EPKL014036/ses-1/anat/sub-047EPKL014036_ses-1_T1w.nii.gz,ds003126,9.5,f,1.00000174790832,3.0,siemens,skyra,85.0,78.03,93.38
+3126_sub-047EPKL014037_ses-1_T1w,ds003126/sub-047EPKL014037/ses-1/anat/sub-047EPKL014037_ses-1_T1w.nii.gz,ds003126,9.5,f,0.999996713584956,3.0,siemens,skyra,85.0,82.3,93.6
+3126_sub-047EPKL014038_ses-1_T1w,ds003126/sub-047EPKL014038/ses-1/anat/sub-047EPKL014038_ses-1_T1w.nii.gz,ds003126,9.5,m,1.00000398582227,3.0,siemens,skyra,85.0,79.02,93.09
+3126_sub-047EPKL014039_ses-1_T1w,ds003126/sub-047EPKL014039/ses-1/anat/sub-047EPKL014039_ses-1_T1w.nii.gz,ds003126,9.5,f,0.999999886444774,3.0,siemens,skyra,85.0,78.78,93.02
+3126_sub-047EPKL014040_ses-1_T1w,ds003126/sub-047EPKL014040/ses-1/anat/sub-047EPKL014040_ses-1_T1w.nii.gz,ds003126,9.5,m,0.999998373220865,3.0,siemens,skyra,85.0,78.6,92.93
+3126_sub-047EPKL014043_ses-1_T1w,ds003126/sub-047EPKL014043/ses-1/anat/sub-047EPKL014043_ses-1_T1w.nii.gz,ds003126,9.5,m,0.9999942563378,3.0,siemens,skyra,85.0,79.68,92.41
+3126_sub-047EPKL014045_ses-1_T1w,ds003126/sub-047EPKL014045/ses-1/anat/sub-047EPKL014045_ses-1_T1w.nii.gz,ds003126,9.5,m,0.999998174921117,3.0,siemens,skyra,85.0,80.3,92.83
+3126_sub-047EPKL014048_ses-1_T1w,ds003126/sub-047EPKL014048/ses-1/anat/sub-047EPKL014048_ses-1_T1w.nii.gz,ds003126,9.5,m,1.00000281722231,3.0,siemens,skyra,85.0,79.87,90.36
+3126_sub-047EPKL014050_ses-1_T1w,ds003126/sub-047EPKL014050/ses-1/anat/sub-047EPKL014050_ses-1_T1w.nii.gz,ds003126,10.5,m,1.00000505896773,3.0,siemens,skyra,85.0,81.35,92.15
+3126_sub-047EPKL014052_ses-1_T1w,ds003126/sub-047EPKL014052/ses-1/anat/sub-047EPKL014052_ses-1_T1w.nii.gz,ds003126,8.5,f,1.00000691462573,3.0,siemens,skyra,85.0,79.98,92.84
+3126_sub-047EPKL014054_ses-1_T1w,ds003126/sub-047EPKL014054/ses-1/anat/sub-047EPKL014054_ses-1_T1w.nii.gz,ds003126,9.5,m,1.0000053017395,3.0,siemens,skyra,85.0,78.9,91.45
+3126_sub-047EPKL014062_ses-1_T1w,ds003126/sub-047EPKL014062/ses-1/anat/sub-047EPKL014062_ses-1_T1w.nii.gz,ds003126,9.5,f,0.999999664827443,3.0,siemens,skyra,85.0,76.13,91.16
+3126_sub-047EPKL014066_ses-1_T1w,ds003126/sub-047EPKL014066/ses-1/anat/sub-047EPKL014066_ses-1_T1w.nii.gz,ds003126,9.5,f,1.00000443616717,3.0,siemens,skyra,85.0,80.6,92.03
+3126_sub-047EPKL014067_ses-1_T1w,ds003126/sub-047EPKL014067/ses-1/anat/sub-047EPKL014067_ses-1_T1w.nii.gz,ds003126,9.5,f,1.00000138649903,3.0,siemens,skyra,85.0,77.25,90.84
+3416_sub-cIVs001_ses-s1Bx2_acq-r10x10x10_T1w,ds003416/sub-cIVs001/ses-s1Bx2/anat/sub-cIVs001_ses-s1Bx2_acq-r10x10x10_T1w.nii.gz,ds003416,6.7,m,0.999999968551095,3.0,siemens,skyra,85.0,79.81,92.53
+3416_sub-cIVs002_ses-s1Bx2_acq-r10x10x10_T1w,ds003416/sub-cIVs002/ses-s1Bx2/anat/sub-cIVs002_ses-s1Bx2_acq-r10x10x10_T1w.nii.gz,ds003416,7.5,f,0.999999986843901,3.0,siemens,skyra,85.0,80.52,93.39
+3416_sub-cIVs005_ses-s1Bx2_acq-r10x10x10_T1w,ds003416/sub-cIVs005/ses-s1Bx2/anat/sub-cIVs005_ses-s1Bx2_acq-r10x10x10_T1w.nii.gz,ds003416,6.9,f,1.00000000819618,3.0,siemens,skyra,85.0,79.11,93.46
+3416_sub-cIVs006_ses-s1Bx2_acq-r10x10x10_T1w,ds003416/sub-cIVs006/ses-s1Bx2/anat/sub-cIVs006_ses-s1Bx2_acq-r10x10x10_T1w.nii.gz,ds003416,7.2,m,0.999999951472307,3.0,siemens,skyra,85.0,75.3,91.72
+3416_sub-cIVs007_ses-s1Bx2_acq-r10x10x10_T1w,ds003416/sub-cIVs007/ses-s1Bx2/anat/sub-cIVs007_ses-s1Bx2_acq-r10x10x10_T1w.nii.gz,ds003416,7.2,m,0.999999971280881,3.0,siemens,skyra,85.0,77.51,92.25
+3416_sub-cIVs009_ses-s1Bx2_acq-r10x10x10_T1w,ds003416/sub-cIVs009/ses-s1Bx2/anat/sub-cIVs009_ses-s1Bx2_acq-r10x10x10_T1w.nii.gz,ds003416,7.1,m,0.999999995538155,3.0,siemens,skyra,85.0,82.99,92.33
+3416_sub-cIVs010_ses-s1Bx3_acq-r10x10x10_T1w,ds003416/sub-cIVs010/ses-s1Bx3/anat/sub-cIVs010_ses-s1Bx3_acq-r10x10x10_T1w.nii.gz,ds003416,7.7,m,0.999999984418696,3.0,siemens,skyra,85.0,81.42,93.46
+3416_sub-cIVs012_ses-s1Bx2_acq-r10x10x10_T1w,ds003416/sub-cIVs012/ses-s1Bx2/anat/sub-cIVs012_ses-s1Bx2_acq-r10x10x10_T1w.nii.gz,ds003416,7.3,m,0.999999955652977,3.0,siemens,skyra,85.0,77.55,92.84
+3416_sub-cIVs013_ses-s1Bx2_acq-r10x10x10_T1w,ds003416/sub-cIVs013/ses-s1Bx2/anat/sub-cIVs013_ses-s1Bx2_acq-r10x10x10_T1w.nii.gz,ds003416,6.9,f,1.00000000399569,3.0,siemens,skyra,85.0,78.44,93.45
+3416_sub-cIVs015_ses-s1Bx2_acq-r10x10x10_T1w,ds003416/sub-cIVs015/ses-s1Bx2/anat/sub-cIVs015_ses-s1Bx2_acq-r10x10x10_T1w.nii.gz,ds003416,7.5,f,0.999999939120186,3.0,siemens,skyra,85.0,80.73,93.97
+3416_sub-cIVs016_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs016/ses-s1Bx1/anat/sub-cIVs016_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,6.8,m,1.00000003398836,3.0,siemens,skyra,85.0,72.32,91.74
+3416_sub-cIVs017_ses-s1Bx2_acq-r10x10x10_T1w,ds003416/sub-cIVs017/ses-s1Bx2/anat/sub-cIVs017_ses-s1Bx2_acq-r10x10x10_T1w.nii.gz,ds003416,7.3,m,1.00000000296366,3.0,siemens,skyra,85.0,66.9,92.92
+3416_sub-cIVs018_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs018/ses-s1Bx1/anat/sub-cIVs018_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,6.1,m,0.999999998912979,3.0,siemens,skyra,85.0,71.47,92.36
+3416_sub-cIVs020_ses-s1Bx3_acq-r10x10x10_T1w,ds003416/sub-cIVs020/ses-s1Bx3/anat/sub-cIVs020_ses-s1Bx3_acq-r10x10x10_T1w.nii.gz,ds003416,8.1,f,1.00000006568491,3.0,siemens,skyra,85.0,80.47,93.27
+3416_sub-cIVs023_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs023/ses-s1Bx1/anat/sub-cIVs023_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,5.9,m,0.999999997878335,3.0,siemens,skyra,85.0,68.05,92.96
+3416_sub-cIVs024_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs024/ses-s1Bx1/anat/sub-cIVs024_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,5.6,m,0.999999927167206,3.0,siemens,skyra,85.0,69.72,92.69
+3416_sub-cIVs025_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs025/ses-s1Bx1/anat/sub-cIVs025_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,6.4,m,0.999999913544332,3.0,siemens,skyra,85.0,64.79,90.94
+3416_sub-cIVs026_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs026/ses-s1Bx1/anat/sub-cIVs026_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,6.4,m,0.999999884036918,3.0,siemens,skyra,85.0,77.11,93.55
+3416_sub-cIVs027_ses-s1Bx2_acq-r10x10x10_T1w,ds003416/sub-cIVs027/ses-s1Bx2/anat/sub-cIVs027_ses-s1Bx2_acq-r10x10x10_T1w.nii.gz,ds003416,7.4,f,1.00000000298583,3.0,siemens,skyra,85.0,79.83,93.11
+3416_sub-cIVs028_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs028/ses-s1Bx1/anat/sub-cIVs028_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,6.2,f,1.00000008025833,3.0,siemens,skyra,85.0,72.22,91.93
+3416_sub-cIVs029_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs029/ses-s1Bx1/anat/sub-cIVs029_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,5.9,m,0.999999965000561,3.0,siemens,skyra,85.0,63.82,92.01
+3416_sub-cIVs030_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs030/ses-s1Bx1/anat/sub-cIVs030_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,6.9,m,0.999999960787601,3.0,siemens,skyra,85.0,79.4,93.01
+3416_sub-cIVs031_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs031/ses-s1Bx1/anat/sub-cIVs031_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,6.1,m,1.00000000848664,3.0,siemens,skyra,85.0,72.99,93.01
+3416_sub-cIVs033_ses-s1Bx2_acq-r10x10x10_T1w,ds003416/sub-cIVs033/ses-s1Bx2/anat/sub-cIVs033_ses-s1Bx2_acq-r10x10x10_T1w.nii.gz,ds003416,7.3,m,0.999999997586758,3.0,siemens,skyra,85.0,79.83,92.95
+3416_sub-cIVs035_ses-s1Bx2_acq-r10x10x10_T1w,ds003416/sub-cIVs035/ses-s1Bx2/anat/sub-cIVs035_ses-s1Bx2_acq-r10x10x10_T1w.nii.gz,ds003416,8.0,f,0.998071248977807,3.0,siemens,skyra,85.01,81.46,93.72
+3416_sub-cIVs037_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs037/ses-s1Bx1/anat/sub-cIVs037_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,6.4,f,0.999999973773441,3.0,siemens,skyra,85.0,70.86,91.79
+3416_sub-cIVs038_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs038/ses-s1Bx1/anat/sub-cIVs038_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,5.9,m,0.999999980376199,3.0,siemens,skyra,85.0,65.51,87.54
+3416_sub-cIVs041_ses-s1Bx2_acq-r10x10x10_T1w,ds003416/sub-cIVs041/ses-s1Bx2/anat/sub-cIVs041_ses-s1Bx2_acq-r10x10x10_T1w.nii.gz,ds003416,6.9,f,0.999999984118196,3.0,siemens,skyra,85.0,77.07,92.89
+3416_sub-cIVs043_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs043/ses-s1Bx1/anat/sub-cIVs043_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,5.8,m,0.999999986444597,3.0,siemens,skyra,85.0,68.51,92.44
+3416_sub-cIVs044_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs044/ses-s1Bx1/anat/sub-cIVs044_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,6.7,f,1.0000000133155,3.0,siemens,skyra,85.0,83.14,93.98
+3416_sub-cIVs045_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs045/ses-s1Bx1/anat/sub-cIVs045_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,6.3,m,0.99999998876857,3.0,siemens,skyra,85.0,68.54,91.66
+3416_sub-cIVs046_ses-s1Bx2_acq-r10x10x10_T1w,ds003416/sub-cIVs046/ses-s1Bx2/anat/sub-cIVs046_ses-s1Bx2_acq-r10x10x10_T1w.nii.gz,ds003416,7.7,m,1.00000005929883,3.0,siemens,skyra,85.0,78.95,92.83
+3416_sub-cIVs047_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs047/ses-s1Bx1/anat/sub-cIVs047_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,6.5,f,0.999999990791965,3.0,siemens,skyra,85.0,79.38,93.85
+3416_sub-cIVs048_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs048/ses-s1Bx1/anat/sub-cIVs048_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,6.0,m,0.999999986827032,3.0,siemens,skyra,85.0,66.34,91.3
+3416_sub-cIVs049_ses-s1Bx2_acq-r10x10x10_T1w,ds003416/sub-cIVs049/ses-s1Bx2/anat/sub-cIVs049_ses-s1Bx2_acq-r10x10x10_T1w.nii.gz,ds003416,6.8,m,0.999999978066925,3.0,siemens,skyra,85.0,80.49,93.07
+3416_sub-cIVs050_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs050/ses-s1Bx1/anat/sub-cIVs050_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,6.7,m,1.00000006448701,3.0,siemens,skyra,85.0,68.54,90.33
+3416_sub-cIVs051_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs051/ses-s1Bx1/anat/sub-cIVs051_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,6.1,f,0.999999982144489,3.0,siemens,skyra,85.0,71.84,91.07
+3416_sub-cIVs052_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs052/ses-s1Bx1/anat/sub-cIVs052_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,5.9,f,1.00000003666223,3.0,siemens,skyra,85.0,68.78,93.01
+3416_sub-cIVs053_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs053/ses-s1Bx1/anat/sub-cIVs053_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,6.3,m,1.00000001952522,3.0,siemens,skyra,85.0,64.51,91.18
+3416_sub-cIVs054_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs054/ses-s1Bx1/anat/sub-cIVs054_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,6.2,f,0.999999972283767,3.0,siemens,skyra,85.0,83.03,93.54
+3416_sub-cIVs055_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs055/ses-s1Bx1/anat/sub-cIVs055_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,6.1,f,0.99999993500971,3.0,siemens,skyra,85.0,67.77,91.48
+3416_sub-cIVs056_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs056/ses-s1Bx1/anat/sub-cIVs056_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,6.8,m,0.999999914198516,3.0,siemens,skyra,85.0,85.48,93.47
+3416_sub-cIVs057_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs057/ses-s1Bx1/anat/sub-cIVs057_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,5.9,f,0.999999993490587,3.0,siemens,skyra,85.0,77.91,93.46
+3416_sub-cIVs058_ses-s1Bx2_acq-r10x10x10_T1w,ds003416/sub-cIVs058/ses-s1Bx2/anat/sub-cIVs058_ses-s1Bx2_acq-r10x10x10_T1w.nii.gz,ds003416,7.9,m,1.00000004455121,3.0,siemens,skyra,85.0,77.19,93.05
+3416_sub-cIVs061_ses-s1Bx2_acq-r10x10x10_T1w,ds003416/sub-cIVs061/ses-s1Bx2/anat/sub-cIVs061_ses-s1Bx2_acq-r10x10x10_T1w.nii.gz,ds003416,7.2,m,1.00000004813682,3.0,siemens,skyra,85.0,82.01,92.77
+3416_sub-cIVs062_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs062/ses-s1Bx1/anat/sub-cIVs062_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,6.0,m,1.0000000059768,3.0,siemens,skyra,85.0,81.35,92.57
+3416_sub-cIVs065_ses-s1Bx2_acq-r10x10x10_T1w,ds003416/sub-cIVs065/ses-s1Bx2/anat/sub-cIVs065_ses-s1Bx2_acq-r10x10x10_T1w.nii.gz,ds003416,6.9,f,0.999999900815773,3.0,siemens,skyra,85.0,79.82,92.99
+3416_sub-cIVs066_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs066/ses-s1Bx1/anat/sub-cIVs066_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,5.7,f,0.999999985449781,3.0,siemens,skyra,85.0,76.33,93.04
+3416_sub-cIVs067_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs067/ses-s1Bx1/anat/sub-cIVs067_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,5.8,f,0.999999978963551,3.0,siemens,skyra,85.0,80.99,93.33
+3416_sub-cIVs069_ses-s1Bx2_acq-r10x10x10_T1w,ds003416/sub-cIVs069/ses-s1Bx2/anat/sub-cIVs069_ses-s1Bx2_acq-r10x10x10_T1w.nii.gz,ds003416,7.3,m,0.999999971241936,3.0,siemens,skyra,85.0,80.05,93.33
+3416_sub-cIVs070_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs070/ses-s1Bx1/anat/sub-cIVs070_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,5.4,f,0.999999915957162,3.0,siemens,skyra,85.0,78.19,92.96
+3416_sub-cIVs071_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs071/ses-s1Bx1/anat/sub-cIVs071_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,6.1,f,1.00000002556719,3.0,siemens,skyra,85.0,74.49,93.79
+3416_sub-cIVs073_ses-s1Bx2_acq-r10x10x10_T1w,ds003416/sub-cIVs073/ses-s1Bx2/anat/sub-cIVs073_ses-s1Bx2_acq-r10x10x10_T1w.nii.gz,ds003416,6.7,f,1.00000006603282,3.0,siemens,skyra,85.0,83.12,93.23
+3416_sub-cIVs074_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs074/ses-s1Bx1/anat/sub-cIVs074_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,6.2,f,0.999999950270315,3.0,siemens,skyra,85.0,70.6,92.94
+3416_sub-cIVs075_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs075/ses-s1Bx1/anat/sub-cIVs075_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,5.4,m,1.00000003627651,3.0,siemens,skyra,85.0,78.91,93.02
+3416_sub-cIVs076_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs076/ses-s1Bx1/anat/sub-cIVs076_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,5.4,f,0.999999997952246,3.0,siemens,skyra,85.0,82.79,93.25
+3416_sub-cIVs077_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs077/ses-s1Bx1/anat/sub-cIVs077_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,6.1,m,0.999999933983317,3.0,siemens,skyra,85.0,78.63,92.41
+3416_sub-cIVs078_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs078/ses-s1Bx1/anat/sub-cIVs078_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,6.1,f,0.999999993608781,3.0,siemens,skyra,85.0,78.65,93.49
+3416_sub-cIVs080_ses-s1Bx2_acq-r10x10x10_T1w,ds003416/sub-cIVs080/ses-s1Bx2/anat/sub-cIVs080_ses-s1Bx2_acq-r10x10x10_T1w.nii.gz,ds003416,6.8,m,1.00000005868104,3.0,siemens,skyra,85.0,81.71,92.41
+3416_sub-cIVs081_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs081/ses-s1Bx1/anat/sub-cIVs081_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,6.3,m,1.00000001207322,3.0,siemens,skyra,85.0,82.57,92.86
+3416_sub-cIVs086_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs086/ses-s1Bx1/anat/sub-cIVs086_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,5.6,m,0.999999951424493,3.0,siemens,skyra,85.0,78.05,92.51
+3416_sub-cIVs088_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs088/ses-s1Bx1/anat/sub-cIVs088_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,5.8,m,1.00000001816234,3.0,siemens,skyra,85.0,76.25,93.24
+3416_sub-cIVs089_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs089/ses-s1Bx1/anat/sub-cIVs089_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,5.8,m,0.9999999780202,3.0,siemens,skyra,85.0,76.3,92.65
+3416_sub-cIVs090_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs090/ses-s1Bx1/anat/sub-cIVs090_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,6.3,f,0.999999975345736,3.0,siemens,skyra,85.0,77.32,92.74
+3416_sub-cIVs092_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs092/ses-s1Bx1/anat/sub-cIVs092_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,6.2,m,1.00000003309062,3.0,siemens,skyra,85.0,78.33,93.47
+3416_sub-cIVs093_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs093/ses-s1Bx1/anat/sub-cIVs093_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,6.3,f,1.00000001650061,3.0,siemens,skyra,85.0,79.35,92.57
+3416_sub-cIVs094_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs094/ses-s1Bx1/anat/sub-cIVs094_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,6.6,m,1.00000003472418,3.0,siemens,skyra,85.0,80.54,92.75
+3416_sub-cIVs095_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs095/ses-s1Bx1/anat/sub-cIVs095_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,6.5,m,1.00000000032394,3.0,siemens,skyra,85.0,77.58,92.99
+3416_sub-cIVs096_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs096/ses-s1Bx1/anat/sub-cIVs096_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,6.6,m,0.99999999779419,3.0,siemens,skyra,85.0,81.05,92.92
+3416_sub-cIVs098_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs098/ses-s1Bx1/anat/sub-cIVs098_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,6.1,m,1.00000003546963,3.0,siemens,skyra,85.0,73.6,92.65
+3416_sub-cIVs100_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs100/ses-s1Bx1/anat/sub-cIVs100_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,5.9,f,1.00000003031149,3.0,siemens,skyra,85.0,80.03,93.25
+3416_sub-cIVs101_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs101/ses-s1Bx1/anat/sub-cIVs101_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,6.3,f,0.999999977350281,3.0,siemens,skyra,85.0,76.38,93.18
+3416_sub-cIVs104_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs104/ses-s1Bx1/anat/sub-cIVs104_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,6.1,f,0.999999988666097,3.0,siemens,skyra,85.0,82.5,93.34
+3416_sub-cIVs108_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs108/ses-s1Bx1/anat/sub-cIVs108_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,6.4,m,1.00000001108649,3.0,siemens,skyra,85.0,80.92,93.26
+3416_sub-cIVs109_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs109/ses-s1Bx1/anat/sub-cIVs109_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,6.7,m,1.00000000696869,3.0,siemens,skyra,85.0,77.5,93.37
+3416_sub-cIVs110_ses-s1Bx1_acq-r10x10x10_T1w,ds003416/sub-cIVs110/ses-s1Bx1/anat/sub-cIVs110_ses-s1Bx1_acq-r10x10x10_T1w.nii.gz,ds003416,6.8,f,1.00000003319421,3.0,siemens,skyra,85.0,79.52,93.55
+3459_sub-218_acq-a_T1w,ds003459/sub-218/anat/sub-218_acq-a_T1w.nii.gz,ds003459,11.5975359342916,m,0.812377947295319,1.5,general electric,unknown,86.07,71.81,95.87
+3459_sub-221_acq-a_T1w,ds003459/sub-221/anat/sub-221_acq-a_T1w.nii.gz,ds003459,11.4305270362765,f,0.812377947295319,1.5,general electric,unknown,86.07,68.33,95.93
+3459_sub-244_acq-a_T1w,ds003459/sub-244/anat/sub-244_acq-a_T1w.nii.gz,ds003459,11.066392881588,m,0.812377947295319,1.5,general electric,unknown,86.07,70.79,96.09
+3459_sub-245_acq-a_T1w,ds003459/sub-245/anat/sub-245_acq-a_T1w.nii.gz,ds003459,10.7022587268994,m,0.812377947295319,1.5,general electric,unknown,86.07,68.52,95.84
+3459_sub-247_acq-a_T1w,ds003459/sub-247/anat/sub-247_acq-a_T1w.nii.gz,ds003459,11.1430527036277,m,0.812377947295319,1.5,general electric,unknown,86.07,70.49,95.86
+3459_sub-255_acq-a_T1w,ds003459/sub-255/anat/sub-255_acq-a_T1w.nii.gz,ds003459,9.78781656399726,f,0.812377947295319,1.5,general electric,unknown,86.07,68.48,95.1
+3459_sub-256_acq-a_T1w,ds003459/sub-256/anat/sub-256_acq-a_T1w.nii.gz,ds003459,11.62765229295,m,0.812377947295319,1.5,general electric,unknown,86.07,62.77,96.33
+3459_sub-261_acq-a_T1w,ds003459/sub-261/anat/sub-261_acq-a_T1w.nii.gz,ds003459,10.6885694729637,f,0.812377947295319,1.5,general electric,unknown,86.07,69.91,95.59
+3459_sub-267_acq-a_T1w,ds003459/sub-267/anat/sub-267_acq-a_T1w.nii.gz,ds003459,10.1218343600274,f,0.812377947295319,1.5,general electric,unknown,86.07,68.91,96.5
+3459_sub-269_acq-a_T1w,ds003459/sub-269/anat/sub-269_acq-a_T1w.nii.gz,ds003459,10.1382614647502,f,0.812377947295319,1.5,general electric,unknown,86.07,69.08,96.13
+3500_sub-225_acq-a_T1w,ds003500/sub-225/anat/sub-225_acq-a_T1w.nii.gz,ds003500,9.39082819986311,f,0.812377947295319,1.5,general electric,signa,86.07,58.33,94.89
+3500_sub-226_acq-a_T1w,ds003500/sub-226/anat/sub-226_acq-a_T1w.nii.gz,ds003500,11.3976728268309,f,0.812377947295319,1.5,general electric,signa,86.07,70.34,96.34
+3500_sub-230_acq-a_T1w,ds003500/sub-230/anat/sub-230_acq-a_T1w.nii.gz,ds003500,11.5263518138261,f,0.812377947295319,1.5,general electric,signa,86.07,70.78,95.93
+3500_sub-234_acq-a_T1w,ds003500/sub-234/anat/sub-234_acq-a_T1w.nii.gz,ds003500,9.76865160848734,f,0.812377947295319,1.5,general electric,signa,86.07,72.2,96.6
+3500_sub-240_acq-a_T1w,ds003500/sub-240/anat/sub-240_acq-a_T1w.nii.gz,ds003500,11.27446954141,f,0.812377947295319,1.5,general electric,signa,86.07,65.81,95.6
+3500_sub-245_acq-a_T1w,ds003500/sub-245/anat/sub-245_acq-a_T1w.nii.gz,ds003500,10.9322381930185,m,0.812377947295319,1.5,general electric,signa,86.07,68.12,96.57
+3500_sub-248_acq-a_T1w,ds003500/sub-248/anat/sub-248_acq-a_T1w.nii.gz,ds003500,10.321697467488,m,0.812377947295319,1.5,general electric,signa,86.07,66.79,96.3
+3500_sub-254_acq-a_T1w,ds003500/sub-254/anat/sub-254_acq-a_T1w.nii.gz,ds003500,11.7125256673511,m,0.812377947295319,1.5,general electric,signa,86.07,67.69,95.07
+3500_sub-256_acq-a_T1w,ds003500/sub-256/anat/sub-256_acq-a_T1w.nii.gz,ds003500,11.8658453114305,m,0.812377947295319,1.5,general electric,signa,86.07,63.65,96.12
+3604_sub-5019_ses-7_acq-D1S2_T1w,ds003604/sub-5019/ses-7/anat/sub-5019_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.58384668035592,m,1.00000001086762,3.0,siemens,skyra,85.0,73.33,39.61
+3604_sub-5023_ses-5_acq-D1S2_T1w,ds003604/sub-5023/ses-5/anat/sub-5023_ses-5_acq-D1S2_T1w.nii.gz,ds003604,5.52224503764545,m,0.99999999919066,3.0,siemens,skyra,85.0,77.17,54.39
+3604_sub-5044_ses-7_acq-D1S11_T1w,ds003604/sub-5044/ses-7/anat/sub-5044_ses-7_acq-D1S11_T1w.nii.gz,ds003604,7.32101300479124,m,1.00000001503466,3.0,siemens,skyra,85.0,73.27,44.27
+3604_sub-5047_ses-5_acq-D1S15_T1w,ds003604/sub-5047/ses-5/anat/sub-5047_ses-5_acq-D1S15_T1w.nii.gz,ds003604,5.44832306639288,m,0.999999591871774,3.0,siemens,skyra,85.0,70.43,40.21
+3604_sub-5048_ses-7_acq-D1S2_T1w,ds003604/sub-5048/ses-7/anat/sub-5048_ses-7_acq-D1S2_T1w.nii.gz,ds003604,8.00273785078713,f,0.999999982449779,3.0,siemens,skyra,85.0,74.72,53.42
+3604_sub-5053_ses-7_acq-D1S11_T1w,ds003604/sub-5053/ses-7/anat/sub-5053_ses-7_acq-D1S11_T1w.nii.gz,ds003604,7.57837097878166,m,0.99999999919066,3.0,siemens,skyra,85.0,75.94,35.65
+3604_sub-5057_ses-7_acq-D1S2_T1w,ds003604/sub-5057/ses-7/anat/sub-5057_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.6331279945243,f,1.00000003828213,3.0,siemens,skyra,85.0,71.39,51.14
+3604_sub-5063_ses-7_acq-D1S2_T1w,ds003604/sub-5063/ses-7/anat/sub-5063_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.49623545516769,f,0.999999981570052,3.0,siemens,skyra,85.0,74.08,53.75
+3604_sub-5086_ses-7_acq-D1S7_T1w,ds003604/sub-5086/ses-7/anat/sub-5086_ses-7_acq-D1S7_T1w.nii.gz,ds003604,7.13210130047912,m,1.00000002000088,3.0,siemens,skyra,85.0,72.03,37.53
+3604_sub-5118_ses-5_acq-D1S2_T1w,ds003604/sub-5118/ses-5/anat/sub-5118_ses-5_acq-D1S2_T1w.nii.gz,ds003604,5.6290212183436,f,0.999999999190657,3.0,siemens,skyra,85.0,77.29,47.89
+3604_sub-5120_ses-5_acq-D1S2_T1w,ds003604/sub-5120/ses-5/anat/sub-5120_ses-5_acq-D1S2_T1w.nii.gz,ds003604,5.51950718685832,f,1.00000002719761,3.0,siemens,skyra,85.0,73.32,50.11
+3604_sub-5121_ses-5_acq-D1S11_T1w,ds003604/sub-5121/ses-5/anat/sub-5121_ses-5_acq-D1S11_T1w.nii.gz,ds003604,5.54962354551677,f,0.999999999456648,3.0,siemens,skyra,85.0,75.16,39.82
+3604_sub-5151_ses-7_acq-D1S2_T1w,ds003604/sub-5151/ses-7/anat/sub-5151_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.06365503080082,f,1.0000000321609,3.0,siemens,skyra,85.0,75.3,51.5
+3604_sub-5164_ses-5_acq-D1S2_T1w,ds003604/sub-5164/ses-5/anat/sub-5164_ses-5_acq-D1S2_T1w.nii.gz,ds003604,5.66187542778919,m,1.00000003676021,3.0,siemens,skyra,85.0,69.19,35.74
+3604_sub-5167_ses-5_acq-D1S2_T1w,ds003604/sub-5167/ses-5/anat/sub-5167_ses-5_acq-D1S2_T1w.nii.gz,ds003604,5.91101984941821,f,1.00000000629896,3.0,siemens,skyra,85.0,71.29,47.63
+3604_sub-5185_ses-5_acq-D1S2_T1w,ds003604/sub-5185/ses-5/anat/sub-5185_ses-5_acq-D1S2_T1w.nii.gz,ds003604,5.74401095140315,m,0.999999982735955,3.0,siemens,skyra,85.0,69.75,38.27
+3604_sub-5187_ses-7_acq-D1S2_T1w,ds003604/sub-5187/ses-7/anat/sub-5187_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.00616016427105,m,0.999999962246022,3.0,siemens,skyra,85.0,69.55,41.49
+3604_sub-5190_ses-5_acq-D1S2_T1w,ds003604/sub-5190/ses-5/anat/sub-5190_ses-5_acq-D1S2_T1w.nii.gz,ds003604,5.86995208761123,m,0.999999977717851,3.0,siemens,skyra,85.0,77.48,51.47
+3604_sub-5211_ses-7_acq-D1S2_T1w,ds003604/sub-5211/ses-7/anat/sub-5211_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.06639288158795,f,1.0,3.0,siemens,skyra,85.0,73.05,41.86
+3604_sub-5222_ses-7_acq-D1S2_T1w,ds003604/sub-5222/ses-7/anat/sub-5222_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.62217659137577,f,1.00000005437508,3.0,siemens,skyra,85.0,70.78,53.44
+3604_sub-5223_ses-7_acq-D1S2_T1w,ds003604/sub-5223/ses-7/anat/sub-5223_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.33196440793977,m,1.00000005437508,3.0,siemens,skyra,85.0,74.4,27.56
+3604_sub-5227_ses-7_acq-D1S2_T1w,ds003604/sub-5227/ses-7/anat/sub-5227_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.49897330595483,f,1.00000004714658,3.0,siemens,skyra,85.0,69.78,36.43
+3604_sub-5242_ses-5_acq-D1S2_T1w,ds003604/sub-5242/ses-5/anat/sub-5242_ses-5_acq-D1S2_T1w.nii.gz,ds003604,6.20944558521561,f,1.0000000323656,3.0,siemens,skyra,85.0,73.83,41.25
+3604_sub-5286_ses-5_acq-D1S2_T1w,ds003604/sub-5286/ses-5/anat/sub-5286_ses-5_acq-D1S2_T1w.nii.gz,ds003604,5.58795345653662,f,1.00000002000088,3.0,siemens,skyra,85.0,71.51,44.31
+3604_sub-5295_ses-7_acq-D1S2_T1w,ds003604/sub-5295/ses-7/anat/sub-5295_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.01984941820671,m,1.0,3.0,siemens,skyra,85.0,78.28,37.2
+3604_sub-5307_ses-7_acq-D1S2_T1w,ds003604/sub-5307/ses-7/anat/sub-5307_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.18685831622177,m,1.0000000234037,3.0,siemens,skyra,85.0,74.37,51.68
+3604_sub-5314_ses-7_acq-D1S2_T1w,ds003604/sub-5314/ses-7/anat/sub-5314_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.34839151266256,f,1.00000002029858,3.0,siemens,skyra,85.0,76.81,52.19
+3604_sub-5325_ses-5_acq-D1S2_T1w,ds003604/sub-5325/ses-5/anat/sub-5325_ses-5_acq-D1S2_T1w.nii.gz,ds003604,6.33812457221081,m,0.999999999456648,3.0,siemens,skyra,85.0,72.12,40.11
+3604_sub-5332_ses-7_acq-D1S11_T1w,ds003604/sub-5332/ses-7/anat/sub-5332_ses-7_acq-D1S11_T1w.nii.gz,ds003604,8.00273785078713,f,1.00000007430102,3.0,siemens,skyra,85.0,70.43,46.22
+3604_sub-5334_ses-7_acq-D1S2_T1w,ds003604/sub-5334/ses-7/anat/sub-5334_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.07460643394935,m,0.999999999456648,3.0,siemens,skyra,85.0,78.29,47.79
+3604_sub-5336_ses-5_acq-D1S2_T1w,ds003604/sub-5336/ses-5/anat/sub-5336_ses-5_acq-D1S2_T1w.nii.gz,ds003604,6.23682409308693,f,1.00000002456738,3.0,siemens,skyra,85.0,69.11,47.26
+3604_sub-5344_ses-5_acq-D1S11_T1w,ds003604/sub-5344/ses-5/anat/sub-5344_ses-5_acq-D1S11_T1w.nii.gz,ds003604,6.14373716632444,f,1.00000003960974,3.0,siemens,skyra,85.0,66.55,33.03
+3604_sub-5348_ses-5_acq-D1S13_T1w,ds003604/sub-5348/ses-5/anat/sub-5348_ses-5_acq-D1S13_T1w.nii.gz,ds003604,5.96303901437372,m,1.00000001026757,3.0,siemens,skyra,85.0,80.18,42.43
+3604_sub-5355_ses-7_acq-D1S2_T1w,ds003604/sub-5355/ses-7/anat/sub-5355_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.52635181382615,f,1.00000000469796,3.0,siemens,skyra,85.0,70.55,46.47
+3604_sub-5363_ses-7_acq-D1S2_T1w,ds003604/sub-5363/ses-7/anat/sub-5363_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.73442847364819,f,1.00000002000088,3.0,siemens,skyra,85.0,69.96,49.46
+3604_sub-5367_ses-7_acq-D1S2_T1w,ds003604/sub-5367/ses-7/anat/sub-5367_ses-7_acq-D1S2_T1w.nii.gz,ds003604,8.0766598220397,f,0.999999958575786,3.0,siemens,skyra,85.0,73.66,52.48
+3604_sub-5369_ses-7_acq-D1S11_T1w,ds003604/sub-5369/ses-7/anat/sub-5369_ses-7_acq-D1S11_T1w.nii.gz,ds003604,7.08829568788501,m,0.999999994631461,3.0,siemens,skyra,85.0,73.52,46.87
+3604_sub-5370_ses-7_acq-D1S13_T1w,ds003604/sub-5370/ses-7/anat/sub-5370_ses-7_acq-D1S13_T1w.nii.gz,ds003604,7.10198494182067,m,1.00000003976337,3.0,siemens,skyra,85.0,75.92,45.01
+3604_sub-5371_ses-7_acq-D1S2_T1w,ds003604/sub-5371/ses-7/anat/sub-5371_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.10746064339494,m,0.999999999456648,3.0,siemens,skyra,85.0,70.09,43.44
+3604_sub-5374_ses-7_acq-D1S11_T1w,ds003604/sub-5374/ses-7/anat/sub-5374_ses-7_acq-D1S11_T1w.nii.gz,ds003604,8.16153319644079,m,1.00000002017336,3.0,siemens,skyra,85.0,70.75,36.64
+3604_sub-5386_ses-7_acq-D1S2_T1w,ds003604/sub-5386/ses-7/anat/sub-5386_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.0444900752909,m,1.0,3.0,siemens,skyra,85.0,74.25,44.72
+3604_sub-5389_ses-7_acq-D1S2_T1w,ds003604/sub-5389/ses-7/anat/sub-5389_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.1813826146475,f,0.99999998244978,3.0,siemens,skyra,85.0,71.41,50.76
+3604_sub-5393_ses-7_acq-D1S2_T1w,ds003604/sub-5393/ses-7/anat/sub-5393_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.14852840520192,f,1.0,3.0,siemens,skyra,85.0,77.52,49.98
+3604_sub-5398_ses-7_acq-D1S2_T1w,ds003604/sub-5398/ses-7/anat/sub-5398_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.12662559890486,f,1.0,3.0,siemens,skyra,85.0,77.83,54.83
+3604_sub-5406_ses-7_acq-D1S11_T1w,ds003604/sub-5406/ses-7/anat/sub-5406_ses-7_acq-D1S11_T1w.nii.gz,ds003604,7.0362765229295,f,1.00000005437508,3.0,siemens,skyra,85.0,73.78,51.65
+3604_sub-5407_ses-7_acq-D1S2_T1w,ds003604/sub-5407/ses-7/anat/sub-5407_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.1813826146475,f,0.999999994631461,3.0,siemens,skyra,85.0,71.78,50.65
+3604_sub-5408_ses-7_acq-D1S2_T1w,ds003604/sub-5408/ses-7/anat/sub-5408_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.04175222450377,f,0.999999972248833,3.0,siemens,skyra,85.0,69.0,41.08
+3604_sub-5409_ses-7_acq-D1S2_T1w,ds003604/sub-5409/ses-7/anat/sub-5409_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.46611909650924,f,1.00000001781371,3.0,siemens,skyra,85.0,72.35,38.21
+3604_sub-5425_ses-7_acq-D1S3_T1w,ds003604/sub-5425/ses-7/anat/sub-5425_ses-7_acq-D1S3_T1w.nii.gz,ds003604,7.99452429842574,f,1.00000005005639,3.0,siemens,skyra,85.0,63.42,53.32
+3604_sub-5435_ses-7_acq-D1S2_T1w,ds003604/sub-5435/ses-7/anat/sub-5435_ses-7_acq-D1S2_T1w.nii.gz,ds003604,8.02464065708419,f,1.00000005437508,3.0,siemens,skyra,85.0,70.93,51.26
+3604_sub-5439_ses-7_acq-D1S2_T1w,ds003604/sub-5439/ses-7/anat/sub-5439_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.13757700205339,m,1.00000005133985,3.0,siemens,skyra,85.0,78.99,46.67
+3604_sub-5443_ses-7_acq-D1S2_T1w,ds003604/sub-5443/ses-7/anat/sub-5443_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.20328542094456,f,1.0000000323656,3.0,siemens,skyra,85.0,75.67,38.72
+3604_sub-5445_ses-7_acq-D1S2_T1w,ds003604/sub-5445/ses-7/anat/sub-5445_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.38945927446954,m,1.0,3.0,siemens,skyra,85.0,70.69,45.87
+3604_sub-5446_ses-7_acq-D1S2_T1w,ds003604/sub-5446/ses-7/anat/sub-5446_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.20054757015743,m,1.0,3.0,siemens,skyra,85.0,62.08,42.3
+3604_sub-5447_ses-7_acq-D1S2_T1w,ds003604/sub-5447/ses-7/anat/sub-5447_ses-7_acq-D1S2_T1w.nii.gz,ds003604,8.16153319644079,f,0.999999994631461,3.0,siemens,skyra,85.0,69.69,53.25
+3604_sub-5448_ses-7_acq-D1S15_T1w,ds003604/sub-5448/ses-7/anat/sub-5448_ses-7_acq-D1S15_T1w.nii.gz,ds003604,7.45790554414784,f,1.0000000147967,3.0,siemens,skyra,85.0,70.37,49.42
+3604_sub-5463_ses-7_acq-D1S2_T1w,ds003604/sub-5463/ses-7/anat/sub-5463_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.17590691307324,f,1.0000000163787,3.0,siemens,skyra,85.0,64.89,50.79
+3604_sub-5471_ses-7_acq-D1S2_T1w,ds003604/sub-5471/ses-7/anat/sub-5471_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.70704996577687,f,1.00000005437508,3.0,siemens,skyra,85.0,72.98,44.75
+3604_sub-5472_ses-7_acq-D1S2_T1w,ds003604/sub-5472/ses-7/anat/sub-5472_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.73442847364819,f,0.99999999923833,3.0,siemens,skyra,85.0,70.77,44.07
+3604_sub-5478_ses-7_acq-D1S2_T1w,ds003604/sub-5478/ses-7/anat/sub-5478_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.61670088980151,m,0.99999999923833,3.0,siemens,skyra,85.0,76.27,40.05
+3604_sub-5482_ses-7_acq-D1S2_T1w,ds003604/sub-5482/ses-7/anat/sub-5482_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.8631074606434,m,0.999999999456648,3.0,siemens,skyra,85.0,69.33,49.01
+3604_sub-5486_ses-7_acq-D1S2_T1w,ds003604/sub-5486/ses-7/anat/sub-5486_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.98083504449008,m,1.00000001452496,3.0,siemens,skyra,85.0,68.78,38.92
+3604_sub-5492_ses-7_acq-D1S13_T1w,ds003604/sub-5492/ses-7/anat/sub-5492_ses-7_acq-D1S13_T1w.nii.gz,ds003604,7.13483915126626,f,0.999999994631461,3.0,siemens,skyra,85.0,68.65,46.85
+3604_sub-5496_ses-7_acq-D1S2_T1w,ds003604/sub-5496/ses-7/anat/sub-5496_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.67693360711841,m,0.999999972248833,3.0,siemens,skyra,85.0,74.19,33.39
+3604_sub-5499_ses-7_acq-D1S2_T1w,ds003604/sub-5499/ses-7/anat/sub-5499_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.72621492128679,m,1.00000002483004,3.0,siemens,skyra,85.0,74.85,41.5
+3604_sub-5501_ses-7_acq-D1S2_T1w,ds003604/sub-5501/ses-7/anat/sub-5501_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.63039014373717,f,1.00000000929808,3.0,siemens,skyra,85.0,80.26,51.79
+3604_sub-5502_ses-7_acq-D1S2_T1w,ds003604/sub-5502/ses-7/anat/sub-5502_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.82751540041068,f,0.999999965106998,3.0,siemens,skyra,85.0,69.6,50.6
+3604_sub-5503_ses-7_acq-D1S11_T1w,ds003604/sub-5503/ses-7/anat/sub-5503_ses-7_acq-D1S11_T1w.nii.gz,ds003604,8.04654346338125,m,1.0,3.0,siemens,skyra,85.0,72.05,42.06
+3604_sub-5510_ses-7_acq-D1S13_T1w,ds003604/sub-5510/ses-7/anat/sub-5510_ses-7_acq-D1S13_T1w.nii.gz,ds003604,7.51540041067762,m,1.0,3.0,siemens,skyra,85.0,77.51,47.89
+3604_sub-5516_ses-7_acq-D1S2_T1w,ds003604/sub-5516/ses-7/anat/sub-5516_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.14031485284052,f,1.00000001103272,3.0,siemens,skyra,85.0,79.49,63.27
+3604_sub-5528_ses-7_acq-D1S2_T1w,ds003604/sub-5528/ses-7/anat/sub-5528_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.12936344969199,f,1.00000003960974,3.0,siemens,skyra,85.0,73.22,55.93
+3604_sub-5529_ses-7_acq-D1S2_T1w,ds003604/sub-5529/ses-7/anat/sub-5529_ses-7_acq-D1S2_T1w.nii.gz,ds003604,8.00547570157426,m,0.999999965106998,3.0,siemens,skyra,85.0,70.8,55.69
+3604_sub-5536_ses-7_acq-D1S2_T1w,ds003604/sub-5536/ses-7/anat/sub-5536_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.31279945242984,m,1.00000005437508,3.0,siemens,skyra,85.0,69.88,47.47
+3604_sub-5537_ses-7_acq-D1S2_T1w,ds003604/sub-5537/ses-7/anat/sub-5537_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.26899383983573,f,1.00000003960974,3.0,siemens,skyra,85.0,72.72,37.34
+3604_sub-5544_ses-7_acq-D1S2_T1w,ds003604/sub-5544/ses-7/anat/sub-5544_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.29089664613279,f,1.0000000221094,3.0,siemens,skyra,85.0,57.93,50.35
+3604_sub-5547_ses-7_acq-D1S15_T1w,ds003604/sub-5547/ses-7/anat/sub-5547_ses-7_acq-D1S15_T1w.nii.gz,ds003604,7.65503080082136,m,1.00000003960974,3.0,siemens,skyra,85.0,71.84,49.42
+3604_sub-5553_ses-7_acq-D1S11_T1w,ds003604/sub-5553/ses-7/anat/sub-5553_ses-7_acq-D1S11_T1w.nii.gz,ds003604,8.26283367556468,f,1.0,3.0,siemens,skyra,85.0,75.0,56.26
+3604_sub-5555_ses-7_acq-D1S13_T1w,ds003604/sub-5555/ses-7/anat/sub-5555_ses-7_acq-D1S13_T1w.nii.gz,ds003604,7.41683778234086,m,1.00000002664493,3.0,siemens,skyra,85.0,75.08,50.35
+3604_sub-5556_ses-7_acq-D1S2_T1w,ds003604/sub-5556/ses-7/anat/sub-5556_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.41683778234086,m,1.0,3.0,siemens,skyra,85.0,74.04,44.36
+3604_sub-5571_ses-7_acq-D1S2_T1w,ds003604/sub-5571/ses-7/anat/sub-5571_ses-7_acq-D1S2_T1w.nii.gz,ds003604,8.10951403148528,f,1.00000003828212,3.0,siemens,skyra,85.0,72.38,55.75
+3604_sub-5573_ses-7_acq-D1S2_T1w,ds003604/sub-5573/ses-7/anat/sub-5573_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.66872005475702,f,0.999999405615368,3.0,siemens,skyra,85.0,77.21,60.11
+3604_sub-5574_ses-7_acq-D1S2_T1w,ds003604/sub-5574/ses-7/anat/sub-5574_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.68514715947981,m,1.0,3.0,siemens,skyra,85.0,63.98,55.95
+3604_sub-5579_ses-7_acq-D1S2_T1w,ds003604/sub-5579/ses-7/anat/sub-5579_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.69336071184121,m,1.0000000323656,3.0,siemens,skyra,85.0,74.83,45.65
+3604_sub-5580_ses-7_acq-D1S2_T1w,ds003604/sub-5580/ses-7/anat/sub-5580_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.23340177960301,f,1.00000003243708,3.0,siemens,skyra,85.0,65.47,60.0
+3604_sub-5584_ses-7_acq-D1S2_T1w,ds003604/sub-5584/ses-7/anat/sub-5584_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.09377138945928,f,1.0,3.0,siemens,skyra,85.0,74.31,56.14
+3604_sub-5587_ses-7_acq-D1S2_T1w,ds003604/sub-5587/ses-7/anat/sub-5587_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.16769336071184,m,0.999999999456648,3.0,siemens,skyra,85.0,77.48,49.49
+3604_sub-5588_ses-7_acq-D1S2_T1w,ds003604/sub-5588/ses-7/anat/sub-5588_ses-7_acq-D1S2_T1w.nii.gz,ds003604,7.14852840520192,m,0.999999999456648,3.0,siemens,skyra,85.0,77.63,56.18
+3688_sub-04_ses-mri3t_run-1_T1w,ds003688/sub-04/ses-mri3t/anat/sub-04_ses-mri3t_run-1_T1w.nii.gz,ds003688,11.5,m,1.0,3.0,philips,achieva,85.0,75.78,93.01
+3688_sub-10_ses-mri3t_run-1_T1w,ds003688/sub-10/ses-mri3t/anat/sub-10_ses-mri3t_run-1_T1w.nii.gz,ds003688,8.5,m,0.215999467849688,3.0,philips,achieva,93.0,72.8,88.54
+3688_sub-11_ses-mri3t_run-1_T1w,ds003688/sub-11/ses-mri3t/anat/sub-11_ses-mri3t_run-1_T1w.nii.gz,ds003688,9.5,f,1.0,3.0,philips,achieva,85.0,82.9,91.41
+3688_sub-19_ses-mri3t_run-1_T1w,ds003688/sub-19/ses-mri3t/anat/sub-19_ses-mri3t_run-1_T1w.nii.gz,ds003688,8.5,f,1.0,3.0,philips,achieva,85.0,72.25,91.09
+3688_sub-32_ses-mri3t_run-1_T1w,ds003688/sub-32/ses-mri3t/anat/sub-32_ses-mri3t_run-1_T1w.nii.gz,ds003688,6.5,f,0.12499946529389,3.0,philips,achieva,95.0,91.83,92.95
+3688_sub-33_ses-mri3t_run-1_T1w,ds003688/sub-33/ses-mri3t/anat/sub-33_ses-mri3t_run-1_T1w.nii.gz,ds003688,9.5,f,0.999999989639596,3.0,philips,achieva,85.0,65.33,93.17
+3688_sub-37_ses-mri3t_run-1_T1w,ds003688/sub-37/ses-mri3t/anat/sub-37_ses-mri3t_run-1_T1w.nii.gz,ds003688,5.5,m,1.0,3.0,philips,achieva,85.0,70.65,95.89
+3688_sub-39_ses-mri3t_run-1_T1w,ds003688/sub-39/ses-mri3t/anat/sub-39_ses-mri3t_run-1_T1w.nii.gz,ds003688,5.5,f,0.918402806593101,3.0,philips,achieva,85.55,73.86,96.82
+3688_sub-41_ses-mri3t_run-1_T1w,ds003688/sub-41/ses-mri3t/anat/sub-41_ses-mri3t_run-1_T1w.nii.gz,ds003688,7.5,m,1.0,3.0,philips,achieva,85.0,77.77,91.47
+3688_sub-50_ses-mri3t_run-1_T1w,ds003688/sub-50/ses-mri3t/anat/sub-50_ses-mri3t_run-1_T1w.nii.gz,ds003688,9.5,f,1.10000002384186,3.0,philips,achieva,84.31,63.57,96.83
+3688_sub-63_ses-mri3t_run-1_T1w,ds003688/sub-63/ses-mri3t/anat/sub-63_ses-mri3t_run-1_T1w.nii.gz,ds003688,5.5,m,0.87890625,3.0,philips,achieva,85.82,66.43,96.42
