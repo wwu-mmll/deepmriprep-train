@@ -5,7 +5,7 @@ from src.models import SyMNet, Unet3d, StepActivation, TwoInputsUnet3d
 data_path = 'data'
 
 
-for fp in tqdm(sorted(glob.glob(f'{data_path}/models/*.pth'))[3:]):
+for fp in tqdm(sorted(glob.glob(f'{data_path}/models/*.pth'))):
     print(fp)
     if 'warp' in fp:
         shape = [4, 113, 137, 113]
